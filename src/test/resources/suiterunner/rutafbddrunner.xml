@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RUTAF BDD Framework Suite Pack">
+    <test name="RUTAFBDD TestSuite">
+        <classes>
+            <class name="com.refinitiv.asts.test.runners.UITestRunner"/>
+<!--            <class name="com.refinitiv.asts.test.runners.SIConnectAPITestRunner"/>-->
+        </classes>
+    </test>
+</suite>

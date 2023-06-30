@@ -1,0 +1,218 @@
+{
+  "Onboarding Workflow": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Onboarding",
+      "description": "Onboarding Workflow Description",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "toBeReplaced",
+      "status": "Active"
+    }
+  },
+  "Onboarding Workflow Medium": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Onboarding",
+      "description": "Onboarding Workflow Description",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "toBeReplaced",
+      "status": "Active"
+    }
+  },
+  "Onboarding Workflow Low Risk Scoring": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Onboarding",
+      "description": "Onboarding Workflow Description",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "toBeReplaced",
+      "status": "Active"
+    }
+  },
+  "Automation Workflow Questionnaire Inactive Duplicate": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Onboarding",
+      "description": "Automation Workflow Questionnaire Inactive Duplicate",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "toBeReplaced",
+      "status": "Inactive"
+    }
+  },
+  "Automation Workflow Questionnaire Active Duplicate": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Onboarding",
+      "description": "Automation Workflow Questionnaire Active Duplicate",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "workflowGroupName",
+      "status": "Active"
+    }
+  },
+  "Automation Workflow Questionnaire Active Duplicate Medium": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Onboarding",
+      "description": "Automation Workflow Questionnaire Active Duplicate Medium",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "workflowGroupName",
+      "status": "Active"
+    }
+  },
+  "Automation Onboarding Workflow With Risk Scoring For Norway": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Onboarding",
+      "description": "Automation Onboarding Workflow With Risk Scoring For Norway",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "toBeReplaced",
+      "status": "Active"
+    }
+  },
+  "Automation Onboarding Workflow With Risk Scoring For Ukraine": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Onboarding",
+      "description": "Automation Onboarding Workflow With Risk Scoring For Ukraine",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "toBeReplaced",
+      "status": "Active"
+    }
+  },
+  "Automation Workflow": {
+    "dataToEnter": {
+      "workflowName": "Automation Workflow",
+      "workflowType": "Onboarding",
+      "description": "DO NOT DELETE",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Auto Workflow Group",
+      "status": "Active"
+    }
+  },
+  "Automation Workflow Individual": {
+    "dataToEnter": {
+      "workflowName": "Automation Workflow Individual",
+      "workflowType": "Onboarding",
+      "description": "Please DO NOT touch is being used for Automation purposes",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Auto Workflow Group Individual",
+      "status": "Active"
+    }
+  },
+  "Automation Workflow Questionnaire": {
+    "dataToEnter": {
+      "workflowName": "Automation Workflow Questionnaire",
+      "workflowType": "Onboarding",
+      "description": "Automation Workflow Questionnaire Description",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Auto Questionnaire",
+      "status": "Active"
+    }
+  },
+  "Automation Workflow Individual with Approver": {
+    "dataToEnter": {
+      "workflowName": "Automation Workflow Individual with Approver",
+      "workflowType": "Onboarding",
+      "description": "description",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Automation Workflow Individual with Approver",
+      "status": "Active"
+    }
+  },
+  "Automation Workflow with several Approvers": {
+    "dataToEnter": {
+      "workflowName": "Automation Workflow with several Approvers",
+      "workflowType": "Onboarding",
+      "description": "",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Auto Workflow Group Individual with Approver",
+      "status": "Active"
+    }
+  },
+  "Automation Workflow Organization with Approver": {
+    "dataToEnter": {
+      "workflowName": "Automation Workflow Organization with Approver",
+      "workflowType": "Onboarding",
+      "description": "",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Automation Workflow Organization with Approver",
+      "status": "Active"
+    }
+  },
+  "Automation_Workflow_Dashboard": {
+    "dataToEnter": {
+      "workflowName": "Automation_Workflow_Dashboard",
+      "workflowType": "Onboarding",
+      "description": "",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Auto_Workflow_Group_Dashboard",
+      "status": "Active"
+    }
+  },
+  "Auto Workflow Renewal Workflow Low Risk": {
+    "dataToEnter": {
+      "workflowName": "Auto Workflow Renewal Workflow Low Risk",
+      "workflowType": "Renewal",
+      "description": "Renewal Workflow for automation test with For Renewal status",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Auto Workflow Renewal",
+      "status": "Active"
+    }
+  },
+  "Auto Workflow Renewal Workflow Low Risk Onboarding": {
+    "dataToEnter": {
+      "workflowName": "Auto Workflow Renewal Workflow Low Risk Onboarding",
+      "workflowType": "Onboarding",
+      "description": "Onboarding Workflow for automation test with For Renewal status",
+      "riskScoringRange": "Low",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "Auto Workflow Renewal",
+      "status": "Active"
+    }
+  },
+  "Renewal Workflow": {
+    "dataToEnter": {
+      "workflowName": "toBeReplaced",
+      "workflowType": "Renewal",
+      "description": "Renewal Workflow Description",
+      "riskScoringRange": "Medium",
+      "from": "toBeReplaced",
+      "to": "toBeReplaced",
+      "workflowGroup": "toBeReplaced",
+      "status": "Active"
+    }
+  }
+}

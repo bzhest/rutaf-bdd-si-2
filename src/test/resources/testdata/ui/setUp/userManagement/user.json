@@ -1,0 +1,195 @@
+{
+  "Forgot Password": {
+    "dataToEnter": {
+      "firstName": "FORGOT_AUTO_TEST",
+      "lastName": "FORGOT_AUTO_TEST_LN",
+      "username": "user.forgot.username",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "Assignee": {
+    "dataToEnter": {
+      "firstName": "Assignee_AT_FN",
+      "lastName": "Assignee_AT_LN",
+      "username": "assignee.username",
+      "division": "Operations",
+      "role": "System Administrator"
+    }
+  },
+  "Inactive User": {
+    "dataToEnter": {
+      "firstName": "Auto_Internal_Inactive",
+      "lastName": "Auto_Internal_Inactive_Last",
+      "username": "user.inactive.username",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "Internal User": {
+    "dataToEnter": {
+      "firstName": "Internal_User_For_Editing",
+      "lastName": "Internal_User_For_Editing_Last_Name",
+      "username": "user.internal.username",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "Approver": {
+    "dataToEnter": {
+      "firstName": "Questionnaire_Approver_AT_FN",
+      "lastName": "Quest_Appr_AT_LN",
+      "username": "user.approver.username",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "Restricted": {
+    "dataToEnter": {
+      "firstName": "Autouser_With_Restrictions",
+      "lastName": "Autouser_With_Restrictions_Last_Name",
+      "username": "restricted.username",
+      "division": "MyDivision",
+      "role": "AUTO TEST ROLE WITH RESTRICTIONS",
+      "defaultBillingEntity": ""
+    }
+  },
+  "Restricted with Edit permissions": {
+    "dataToEnter": {
+      "firstName": "Autouser_Edit_FN",
+      "lastName": "Autouser_Edit_LN",
+      "username": "restricted.with.edit.username",
+      "division": "MyDivision",
+      "role": "AUTO TEST ROLE EDIT WITH RESTRICTIONS",
+      "defaultBillingEntity": ""
+    }
+  },
+  "Second Restricted with Edit permissions": {
+    "dataToEnter": {
+      "firstName": "Autouser_Second_Edit_FN",
+      "lastName": "Autouser_Second_Edit_LN",
+      "username": "second.with.edit.username",
+      "division": "MyDivision",
+      "role": "AUTO TEST ROLE EDIT WITH RESTRICTIONS",
+      "defaultBillingEntity": ""
+    }
+  },
+  "User Without Onboarding And Renewal Accesses": {
+    "dataToEnter": {
+      "firstName": "User_No_Onboarding_AT_FN",
+      "lastName": "User_No_Renewal_AT_LN",
+      "username": "user.no.onboarding.renewal.username",
+      "division": "MyDivision",
+      "role": "AUTO_NO_ONBOARDING_RENEWAL"
+    }
+  },
+  "Admin Double": {
+    "dataToEnter": {
+      "firstName": "Admin_double_AT_FN",
+      "lastName": "Admin_double_AT_LN",
+      "username": "admin.double.username",
+      "division": "MyDivision",
+      "role": "System Administrator",
+      "department": "MyDepartment"
+    }
+  },
+  "Internal User For Editing": {
+    "dataToEnter": {
+      "firstName": "Auto_Internal_For_Editing",
+      "lastName": "Auto_Internal_For_Editing_LN",
+      "username": "user.internal.for.editing.username",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "Reset Password User": {
+    "dataToEnter": {
+      "firstName": "Auto_Internal_Reset",
+      "lastName": "Auto_Internal_Reset_LN",
+      "username": "user.reset.password.username",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "Empty Metrics User": {
+    "dataToEnter": {
+      "firstName": "Auto_Empty_Metrics",
+      "lastName": "Auto_Empty_Metrics_Last",
+      "username": "user.empty.metrics.username",
+      "division": "Empty Data",
+      "role": "System Administrator"
+    }
+  },
+  "user media check permission on": {
+    "dataToEnter": {
+      "firstName": "MediaCheck",
+      "lastName": "PermissionOn",
+      "username": "user.media.check.permission.on.username",
+      "division": "MyDivision",
+      "role": "AUTO TEST MEDIACHECK PERMISSION ALL ON"
+    }
+  },
+  "user media check permission off": {
+    "dataToEnter": {
+      "firstName": "MediaCheck",
+      "lastName": "PermissionOff",
+      "username": "user.media.check.permission.off.username",
+      "division": "MyDivision",
+      "role": "AUTO TEST MEDIACHECK PERMISSION ALL OFF"
+    }
+  },
+  "user screening permission off": {
+    "dataToEnter": {
+      "firstName": "Screening",
+      "lastName": "PermissionOff",
+      "username": "user.screening.permission.off.username",
+      "division": "MyDivision",
+      "role": "AUTO TEST SCREENING PERMISSION ALL OFF"
+    }
+  },
+  "user screening permission on": {
+    "dataToEnter": {
+      "firstName": "Screening",
+      "lastName": "PermissionOn",
+      "username": "user.screening.permission.on.username",
+      "division": "MyDivision",
+      "role": "AUTO TEST SCREENING PERMISSION ON"
+    }
+  },
+  "Changing role user": {
+    "dataToEnter": {
+      "firstName": "User_Change_Role_AT_FN",
+      "lastName": "User_Change_Role_AT_LN",
+      "username": "user.internal.for.changing.roles.username",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "OOO User": {
+    "dataToEnter": {
+      "firstName": "OOO_USER_FN",
+      "lastName": "OOO_USER_LN",
+      "username": "user.ooo.username",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "Internal Active User First": {
+    "dataToEnter": {
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  },
+  "Internal Active User Second": {
+    "dataToEnter": {
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "division": "MyDivision",
+      "role": "System Administrator"
+    }
+  }
+}

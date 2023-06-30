@@ -1,0 +1,816 @@
+{
+  "User Role Full Details": {
+    "dataToEnter": {
+      "name": "",
+      "description": "Here is so much text here",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "contractsCreate": "unchecked",
+      "contractsEdit": "unchecked",
+      "contractsDelete": "unchecked",
+      "contractsRead": "checked",
+      "relationshipCreate": "unchecked",
+      "relationshipEdit": "unchecked",
+      "relationshipDelete": "unchecked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "unchecked",
+      "activitiesEdit": "unchecked",
+      "activitiesDelete": "unchecked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "checked",
+      "bankDetailsEdit": "checked",
+      "bankDetailsDelete": "unchecked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "checked",
+      "externalUserManagementYes": "checked",
+      "onboardingRenewalYes": "checked",
+      "activityRollbackYes": "checked",
+      "relatedFilesAdd": "checked",
+      "relatedFilesDownload": "checked",
+      "relatedFilesDelete": "unchecked",
+      "thirdPartyStatusYes": "checked",
+      "riskReportYes": "checked",
+      "dashboardYes": "checked",
+      "thirdPartyReportYes": "checked",
+      "activityReportYes": "checked",
+      "questionnaireReportYes": "checked",
+      "dueDiligenceOrderReportYes": "checked",
+      "workflowReportYes": "checked",
+      "userManagementYes": "unchecked",
+      "myOrganisationYes": "unchecked",
+      "questionnaireManagementYes": "unchecked",
+      "workflowManagementYes": "unchecked",
+      "screeningManagement": "checked",
+      "approvalProcessYes": "unchecked",
+      "reviewProcessYes": "unchecked",
+      "fieldsManagementYes": "unchecked",
+      "countryChecklistYes": "unchecked",
+      "valueManagementYes": "unchecked",
+      "emailManagementYes": "unchecked",
+      "dueDiligenceOrderManagementYes": "unchecked",
+      "orderReportCreate": "checked",
+      "orderReportEdit": "unchecked",
+      "orderReportRead": "unchecked",
+      "orderReportDecline": "unchecked",
+      "orderReportApprove": "unchecked",
+      "enableScreeningYes": "unchecked",
+      "manageResolutionTypeYes": "unchecked",
+      "ongoingScreeningYes": "unchecked",
+      "changeSearchCriteriaYes": "unchecked",
+      "bulkProcessing": "checked",
+      "bitSightSearch": "checked",
+      "businessOverviewSearch": "checked"
+    }
+  },
+  "Default Role Details": {
+    "dataToEnter": {
+      "name": "",
+      "description": "Here is so much text here",
+      "active": true,
+      "supplierInformationCreate": "unchecked",
+      "supplierInformationEdit": "unchecked",
+      "supplierInformationDelete": "unchecked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "unchecked",
+      "contactsEdit": "unchecked",
+      "contactsDelete": "unchecked",
+      "contactsRead": "checked",
+      "contractsCreate": "unchecked",
+      "contractsEdit": "unchecked",
+      "contractsDelete": "unchecked",
+      "contractsRead": "checked",
+      "relationshipCreate": "unchecked",
+      "relationshipEdit": "unchecked",
+      "relationshipDelete": "unchecked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "unchecked",
+      "activitiesEdit": "unchecked",
+      "activitiesDelete": "unchecked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "unchecked",
+      "bankDetailsEdit": "unchecked",
+      "bankDetailsDelete": "unchecked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "unchecked",
+      "externalUserManagementYes": "unchecked",
+      "onboardingRenewalYes": "unchecked",
+      "activityRollbackYes": "unchecked",
+      "relatedFilesAdd": "unchecked",
+      "relatedFilesDownload": "unchecked",
+      "relatedFilesDelete": "unchecked",
+      "thirdPartyStatusYes": "unchecked",
+      "riskReportYes": "unchecked",
+      "dashboardYes": "unchecked",
+      "thirdPartyReportYes": "unchecked",
+      "activityReportYes": "unchecked",
+      "questionnaireReportYes": "unchecked",
+      "dueDiligenceOrderReportYes": "unchecked",
+      "workflowReportYes": "unchecked",
+      "userManagementYes": "unchecked",
+      "myOrganisationYes": "unchecked",
+      "questionnaireManagementYes": "unchecked",
+      "workflowManagementYes": "unchecked",
+      "screeningManagement": "unchecked",
+      "approvalProcessYes": "unchecked",
+      "reviewProcessYes": "unchecked",
+      "fieldsManagementYes": "unchecked",
+      "countryChecklistYes": "unchecked",
+      "valueManagementYes": "unchecked",
+      "emailManagementYes": "unchecked",
+      "dueDiligenceOrderManagementYes": "unchecked",
+      "orderReportCreate": "unchecked",
+      "orderReportEdit": "unchecked",
+      "orderReportRead": "unchecked",
+      "orderReportDecline": "unchecked",
+      "orderReportApprove": "unchecked",
+      "enableScreeningYes": "unchecked",
+      "manageResolutionTypeYes": "unchecked",
+      "ongoingScreeningYes": "unchecked",
+      "changeSearchCriteriaYes": "unchecked",
+      "bulkProcessing": "unchecked",
+      "bitSightSearch": "unchecked",
+      "businessOverviewSearch": "unchecked"
+    }
+  },
+  "System Administrator Role": {
+    "dataToEnter": {
+      "name": "System Administrator",
+      "description": "System Administrator Roles/Permissions",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "contractsCreate": "checked",
+      "contractsEdit": "checked",
+      "contractsDelete": "checked",
+      "contractsRead": "checked",
+      "relationshipCreate": "checked",
+      "relationshipEdit": "checked",
+      "relationshipDelete": "checked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "checked",
+      "activitiesEdit": "checked",
+      "activitiesDelete": "checked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "checked",
+      "bankDetailsEdit": "checked",
+      "bankDetailsDelete": "checked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "checked",
+      "externalUserManagementYes": "checked",
+      "onboardingRenewalYes": "checked",
+      "activityRollbackYes": "checked",
+      "relatedFilesAdd": "checked",
+      "relatedFilesDownload": "checked",
+      "relatedFilesDelete": "checked",
+      "thirdPartyStatusYes": "checked",
+      "riskReportYes": "checked",
+      "dashboardYes": "checked",
+      "thirdPartyReportYes": "checked",
+      "activityReportYes": "checked",
+      "questionnaireReportYes": "checked",
+      "dueDiligenceOrderReportYes": "checked",
+      "workflowReportYes": "checked",
+      "userManagementYes": "checked",
+      "myOrganisationYes": "checked",
+      "questionnaireManagementYes": "checked",
+      "workflowManagementYes": "checked",
+      "approvalProcessYes": "checked",
+      "reviewProcessYes": "checked",
+      "fieldsManagementYes": "checked",
+      "countryChecklistYes": "checked",
+      "valueManagementYes": "checked",
+      "emailManagementYes": "checked",
+      "dueDiligenceOrderManagementYes": "checked",
+      "orderReportCreate": "checked",
+      "orderReportEdit": "checked",
+      "orderReportRead": "checked",
+      "orderReportDecline": "checked",
+      "orderReportApprove": "checked",
+      "enableScreeningYes": "checked",
+      "manageResolutionTypeYes": "checked",
+      "ongoingScreeningYes": "checked",
+      "changeSearchCriteriaYes": "checked",
+      "bulkProcessing": "checked",
+      "bitSightSearch": "checked"
+    }
+  },
+  "System Administrator Country Checklist": {
+    "dataToEnter": {
+      "active": true,
+      "countryChecklistYes": "checked"
+    }
+  },
+  "System Administrator Workflow Management": {
+    "dataToEnter": {
+      "active": true,
+      "workflowManagementYes": "checked"
+    }
+  },
+  "Bulk Processing YES": {
+    "dataToEnter": {
+      "active": true,
+      "bulkProcessing": "checked"
+    }
+  },
+  "Bulk Processing NO": {
+    "dataToEnter": {
+      "active": true,
+      "bulkProcessing": "unchecked"
+    }
+  },
+  "Activity Rollback YES": {
+    "dataToEnter": {
+      "active": true,
+      "activityRollbackYes": "checked"
+    }
+  },
+  "Activity Rollback NO": {
+    "dataToEnter": {
+      "active": true,
+      "activityRollbackYes": "unchecked"
+    }
+  },
+  "Screening management YES": {
+    "dataToEnter": {
+      "active": true,
+      "screeningManagement": "checked"
+    }
+  },
+  "Screening management NO": {
+    "dataToEnter": {
+      "active": true,
+      "screeningManagement": "unchecked"
+    }
+  },
+  "Fields management YES": {
+    "dataToEnter": {
+      "active": true,
+      "fieldsManagementYes": "checked"
+    }
+  },
+  "Announcement Banner YES": {
+    "dataToEnter": {
+      "active": true,
+      "announcementBanner": "checked"
+    }
+  },
+  "Announcement Banner NO": {
+    "dataToEnter": {
+      "active": true,
+      "announcementBanner": "unchecked"
+    }
+  },
+  "Full Permission Role": {
+    "dataToEnter": {
+      "name": "Auto Test Full Permission Role",
+      "description": "Auto Test Full Permission Role",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "contractsCreate": "checked",
+      "contractsEdit": "checked",
+      "contractsDelete": "checked",
+      "contractsRead": "checked",
+      "relationshipCreate": "checked",
+      "relationshipEdit": "checked",
+      "relationshipDelete": "checked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "checked",
+      "activitiesEdit": "checked",
+      "activitiesDelete": "checked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "checked",
+      "bankDetailsEdit": "checked",
+      "bankDetailsDelete": "checked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "checked",
+      "externalUserManagementYes": "checked",
+      "onboardingRenewalYes": "checked",
+      "activityRollbackYes": "checked",
+      "relatedFilesAdd": "checked",
+      "relatedFilesDownload": "checked",
+      "relatedFilesDelete": "checked",
+      "thirdPartyStatusYes": "checked",
+      "riskReportYes": "checked",
+      "dashboardYes": "checked",
+      "thirdPartyReportYes": "checked",
+      "activityReportYes": "checked",
+      "questionnaireReportYes": "checked",
+      "dueDiligenceOrderReportYes": "checked",
+      "workflowReportYes": "checked",
+      "userManagementYes": "checked",
+      "myOrganisationYes": "checked",
+      "questionnaireManagementYes": "checked",
+      "workflowManagementYes": "checked",
+      "approvalProcessYes": "checked",
+      "reviewProcessYes": "checked",
+      "fieldsManagementYes": "checked",
+      "countryChecklistYes": "checked",
+      "valueManagementYes": "checked",
+      "emailManagementYes": "checked",
+      "dueDiligenceOrderManagementYes": "checked",
+      "orderReportCreate": "checked",
+      "orderReportEdit": "checked",
+      "orderReportRead": "checked",
+      "orderReportDecline": "checked",
+      "orderReportApprove": "checked",
+      "enableScreeningYes": "checked",
+      "manageResolutionTypeYes": "checked",
+      "ongoingScreeningYes": "checked",
+      "changeSearchCriteriaYes": "checked",
+      "bulkProcessing": "checked"
+    }
+  },
+  "Data for edit all fields": {
+    "dataToEnter": {
+      "name": "",
+      "description": "Here is so much text here",
+      "active": false,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "contractsCreate": "checked",
+      "contractsEdit": "checked",
+      "contractsDelete": "checked",
+      "contractsRead": "checked",
+      "relationshipCreate": "checked",
+      "relationshipEdit": "checked",
+      "relationshipDelete": "checked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "checked",
+      "activitiesEdit": "checked",
+      "activitiesDelete": "checked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "checked",
+      "bankDetailsEdit": "checked",
+      "bankDetailsDelete": "checked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "checked",
+      "externalUserManagementYes": "checked",
+      "onboardingRenewalYes": "checked",
+      "activityRollbackYes": "checked",
+      "relatedFilesAdd": "checked",
+      "relatedFilesDownload": "checked",
+      "relatedFilesDelete": "checked",
+      "thirdPartyStatusYes": "checked",
+      "riskReportYes": "checked",
+      "dashboardYes": "checked",
+      "thirdPartyReportYes": "checked",
+      "activityReportYes": "checked",
+      "questionnaireReportYes": "checked",
+      "dueDiligenceOrderReportYes": "checked",
+      "workflowReportYes": "checked",
+      "userManagementYes": "checked",
+      "myOrganisationYes": "checked",
+      "questionnaireManagementYes": "checked",
+      "workflowManagementYes": "checked",
+      "screeningManagement": "checked",
+      "approvalProcessYes": "checked",
+      "reviewProcessYes": "checked",
+      "fieldsManagementYes": "checked",
+      "countryChecklistYes": "checked",
+      "valueManagementYes": "checked",
+      "emailManagementYes": "checked",
+      "dueDiligenceOrderManagementYes": "checked",
+      "orderReportCreate": "checked",
+      "orderReportEdit": "checked",
+      "orderReportRead": "checked",
+      "orderReportDecline": "checked",
+      "orderReportApprove": "checked",
+      "enableScreeningYes": "checked",
+      "manageResolutionTypeYes": "checked",
+      "ongoingScreeningYes": "checked",
+      "changeSearchCriteriaYes": "checked",
+      "bulkProcessing": "checked",
+      "bitSightSearch": "checked",
+      "businessOverviewSearch": "checked"
+    }
+  },
+  "disable workflow management": {
+    "dataToEnter": {
+      "workflowManagementYes": "unchecked"
+    }
+  },
+  "enable announcement Banner": {
+    "dataToEnter": {
+      "announcementBanner": "checked"
+    }
+  },
+  "enable workflow management": {
+    "dataToEnter": {
+      "workflowManagementYes": "checked"
+    }
+  },
+  "disable Configure Overall Risk": {
+    "dataToEnter": {
+      "supplierInformationCreate": "unchecked",
+      "supplierInformationEdit": "unchecked",
+      "supplierInformationDelete": "unchecked",
+      "supplierInformationRead": "unchecked",
+      "configureOverallRiskYes": "unchecked"
+    }
+  },
+  "enable Configure Overall Risk": {
+    "dataToEnter": {
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "configureOverallRiskYes": "checked"
+    }
+  },
+  "AUTO TEST ROLE": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE",
+      "description": "DO NOT DELETE",
+      "active": true
+    }
+  },
+  "role mandatory fields": {
+    "dataToEnter": {
+      "name": "",
+      "description": "test description",
+      "active": true
+    }
+  },
+  "role mandatory fields 2": {
+    "dataToEnter": {
+      "name": "",
+      "description": "test description",
+      "active": true
+    }
+  },
+  "role mandatory fields 3": {
+    "dataToEnter": {
+      "name": "",
+      "description": "test description",
+      "active": true
+    }
+  },
+  "role mandatory fields inactive": {
+    "dataToEnter": {
+      "name": "",
+      "description": "test description",
+      "active": false
+    }
+  },
+  "lower case inactive auto test role": {
+    "dataToEnter": {
+      "name": "lower case inactive auto test role",
+      "description": "DO NOT DELETE",
+      "active": false
+    }
+  },
+  "AUTO ROLE WITH RESTRICTED REPORTS": {
+    "dataToEnter": {
+      "name": "AUTO ROLE WITH RESTRICTED REPORTS",
+      "description": "DO NOT DELETE",
+      "thirdPartyReportYes": "checked",
+      "questionnaireReportYes": "checked",
+      "workflowReportYes": "checked",
+      "active": true
+    }
+  },
+  "AUTO TEST ROLE WITH RESTRICTIONS": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE WITH RESTRICTIONS",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "onboardingRenewalYes": "checked",
+      "fieldsManagementYes": "checked",
+      "dashboardYes": "unchecked"
+    }
+  },
+  "AUTO TEST ROLE EDIT WITH RESTRICTIONS": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE EDIT WITH RESTRICTIONS",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "onboardingRenewalYes": "checked",
+      "fieldsManagementYes": "checked",
+      "dashboardYes": "unchecked",
+      "bankDetailsEdit": "checked",
+      "activitiesEdit": "checked",
+      "relationshipEdit": "checked",
+      "contractsEdit": "checked",
+      "contactsEdit": "checked",
+      "supplierInformationEdit": "checked",
+      "enableScreeningYes": "checked",
+      "manageResolutionTypeYes": "checked",
+      "ongoingScreeningYes": "checked",
+      "changeSearchCriteriaYes": "checked"
+    }
+  },
+  "AUTO_NO_ONBOARDING_RENEWAL": {
+    "dataToEnter": {
+      "name": "AUTO_NO_ONBOARDING_RENEWAL",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "unchecked",
+      "supplierInformationDelete": "unchecked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "unchecked",
+      "contactsDelete": "unchecked",
+      "contactsRead": "checked",
+      "contractsCreate": "checked",
+      "contractsEdit": "unchecked",
+      "contractsDelete": "unchecked",
+      "contractsRead": "checked",
+      "relationshipCreate": "checked",
+      "relationshipEdit": "unchecked",
+      "relationshipDelete": "unchecked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "checked",
+      "activitiesEdit": "unchecked",
+      "activitiesDelete": "unchecked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "checked",
+      "bankDetailsEdit": "unchecked",
+      "bankDetailsDelete": "unchecked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "checked",
+      "externalUserManagementYes": "checked",
+      "thirdPartyStatusYes": "checked",
+      "riskReportYes": "checked",
+      "dashboardYes": "checked",
+      "userManagementYes": "checked",
+      "myOrganisationYes": "checked",
+      "questionnaireManagementYes": "checked",
+      "workflowManagementYes": "checked",
+      "approvalProcessYes": "checked",
+      "reviewProcessYes": "checked",
+      "fieldsManagementYes": "unchecked",
+      "countryChecklistYes": "unchecked",
+      "valueManagementYes": "checked",
+      "emailManagementYes": "checked",
+      "dueDiligenceOrderManagementYes": "checked",
+      "enableScreeningYes": "checked"
+    }
+  },
+  "AUTO TEST ROLE WITH DOWNLOAD AND ADD FILES PERMISSION": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE WITH DOWNLOAD AND ADD FILES PERMISSION",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "relatedFilesAdd": "checked",
+      "relatedFilesDownload": "checked",
+      "relatedFilesDelete": "unchecked",
+      "userManagementYes": "checked"
+    }
+  },
+  "AUTO TEST ROLE WITH ADD AND DELETE FILES PERMISSION": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE WITH ADD AND DELETE FILES PERMISSION",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "relatedFilesAdd": "checked",
+      "relatedFilesDownload": "unchecked",
+      "relatedFilesDelete": "checked",
+      "userManagementYes": "checked"
+    }
+  },
+  "AUTO TEST ROLE WITH ADD FILES PERMISSION": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE WITH ADD FILES PERMISSION",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "relatedFilesAdd": "checked",
+      "relatedFilesDownload": "unchecked",
+      "relatedFilesDelete": "unchecked",
+      "userManagementYes": "checked"
+    }
+  },
+  "AUTO TEST ROLE WITH DOWNLOAD FILES PERMISSION": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE WITH DOWNLOAD FILES PERMISSION",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "relatedFilesAdd": "unchecked",
+      "relatedFilesDownload": "checked",
+      "relatedFilesDelete": "unchecked",
+      "userManagementYes": "checked"
+    }
+  },
+  "AUTO TEST ROLE WITH DELETE FILES AND EDIT COMMENT PERMISSION": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE WITH DELETE FILES AND EDIT COMMENT PERMISSION",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "relatedFilesAdd": "unchecked",
+      "relatedFilesDownload": "unchecked",
+      "relatedFilesDelete": "checked",
+      "activitiesEdit": "checked",
+      "userManagementYes": "checked"
+    }
+  },
+  "AUTO TEST MEDIACHECK PERMISSION ALL ON": {
+    "dataToEnter": {
+      "name": "AUTO TEST MEDIACHECK PERMISSION ALL ON",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "bankDetailsCreate": "checked",
+      "onboardingRenewalYes": "checked",
+      "enableScreeningYes": "checked",
+      "manageResolutionTypeYes": "checked",
+      "ongoingScreeningYes": "checked",
+      "changeSearchCriteriaYes": "checked",
+      "activitiesCreate": "checked",
+      "activitiesEdit": "checked"
+    }
+  },
+  "AUTO TEST MEDIACHECK PERMISSION ALL OFF": {
+    "dataToEnter": {
+      "name": "AUTO TEST MEDIACHECK PERMISSION ALL OFF",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "bankDetailsCreate": "checked",
+      "onboardingRenewalYes": "checked",
+      "enableScreeningYes": "checked",
+      "manageResolutionTypeYes": "unchecked",
+      "ongoingScreeningYes": "unchecked",
+      "changeSearchCriteriaYes": "unchecked"
+    }
+  },
+  "AUTO TEST SCREENING PERMISSION ALL OFF": {
+    "dataToEnter": {
+      "name": "AUTO TEST SCREENING PERMISSION ALL OFF",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "contractsCreate": "checked",
+      "contractsEdit": "checked",
+      "contractsDelete": "checked",
+      "contractsRead": "checked",
+      "relationshipCreate": "checked",
+      "relationshipEdit": "checked",
+      "relationshipDelete": "checked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "checked",
+      "activitiesEdit": "checked",
+      "activitiesDelete": "checked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "checked",
+      "bankDetailsEdit": "checked",
+      "bankDetailsDelete": "checked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "checked",
+      "externalUserManagementYes": "checked",
+      "onboardingRenewalYes": "checked",
+      "activityRollbackYes": "checked",
+      "enableScreeningYes": "unchecked",
+      "manageResolutionTypeYes": "unchecked",
+      "ongoingScreeningYes": "unchecked",
+      "changeSearchCriteriaYes": "unchecked"
+    }
+  },
+  "AUTO TEST SCREENING PERMISSION ON": {
+    "dataToEnter": {
+      "name": "AUTO TEST SCREENING PERMISSION ON",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "contractsCreate": "checked",
+      "contractsEdit": "checked",
+      "contractsDelete": "checked",
+      "contractsRead": "checked",
+      "relationshipCreate": "checked",
+      "relationshipEdit": "checked",
+      "relationshipDelete": "checked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "checked",
+      "activitiesEdit": "checked",
+      "activitiesDelete": "checked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "checked",
+      "bankDetailsEdit": "checked",
+      "bankDetailsDelete": "checked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "checked",
+      "externalUserManagementYes": "checked",
+      "onboardingRenewalYes": "checked",
+      "activityRollbackYes": "checked",
+      "enableScreeningYes": "checked",
+      "manageResolutionTypeYes": "unchecked",
+      "ongoingScreeningYes": "unchecked",
+      "changeSearchCriteriaYes": "unchecked"
+    }
+  },
+  "AUTO TEST ROLE WITH DISABLED SCREENING": {
+    "dataToEnter": {
+      "name": "AUTO TEST ROLE WITH DISABLED SCREENING",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "enableScreeningNo": "checked",
+      "manageResolutionTypeYes": "checked",
+      "ongoingScreeningYes": "checked",
+      "changeSearchCriteriaYes": "checked"
+    }
+  },
+  "AUTO_READ_ONLY_ACTIVITY": {
+    "dataToEnter": {
+      "name": "AUTO_READ_ONLY_ACTIVITY",
+      "description": "DO NOT DELETE",
+      "active": true,
+      "supplierInformationCreate": "checked",
+      "supplierInformationEdit": "checked",
+      "supplierInformationDelete": "checked",
+      "supplierInformationRead": "checked",
+      "contactsCreate": "checked",
+      "contactsEdit": "checked",
+      "contactsDelete": "checked",
+      "contactsRead": "checked",
+      "contractsCreate": "checked",
+      "contractsEdit": "checked",
+      "contractsDelete": "checked",
+      "contractsRead": "checked",
+      "relationshipCreate": "checked",
+      "relationshipEdit": "checked",
+      "relationshipDelete": "checked",
+      "relationshipRead": "checked",
+      "activitiesCreate": "checked",
+      "activitiesEdit": "unchecked",
+      "activitiesDelete": "checked",
+      "activitiesRead": "checked",
+      "bankDetailsCreate": "checked",
+      "bankDetailsEdit": "checked",
+      "bankDetailsDelete": "checked",
+      "bankDetailsRead": "checked",
+      "configureOverallRiskYes": "checked",
+      "externalUserManagementYes": "checked",
+      "thirdPartyStatusYes": "checked",
+      "riskReportYes": "checked",
+      "dashboardYes": "checked",
+      "userManagementYes": "checked",
+      "myOrganisationYes": "checked",
+      "questionnaireManagementYes": "checked",
+      "workflowManagementYes": "checked",
+      "approvalProcessYes": "checked",
+      "reviewProcessYes": "checked",
+      "fieldsManagementYes": "checked",
+      "countryChecklistYes": "checked",
+      "valueManagementYes": "checked",
+      "emailManagementYes": "checked",
+      "dueDiligenceOrderManagementYes": "checked",
+      "enableScreeningYes": "checked"
+    }
+  }
+}
+
+
+

@@ -1,0 +1,48 @@
+{
+  "Review Process with Activity owner": {
+    "dataToEnter": {
+      "name": "",
+      "description": "",
+      "type": "REVIEW",
+      "status": "Active",
+      "reviewProcessRules": {
+        "reviewers": [],
+        "coverage": [],
+        "method": "ALL"
+      },
+      "reviewers": {
+        "email": "admin.username",
+        "name": "Admin_AT_FN Admin_AT_LN"
+      }
+    }
+  },
+  "Auto Review Process": {
+    "dataToEnter": {
+      "status": "Active",
+      "type": "REVIEW",
+      "description": "Description",
+      "name": "Auto Review Process",
+      "reviewers": {
+        "email": "supplierintegritysa@gmail.com",
+        "name": "Admin_AT_FN Admin_AT_LN"
+      },
+      "reviewProcessRules": {
+        "rule": "Activity Owner",
+        "coverage": [
+          "supplierintegritysa@gmail.com"
+        ],
+        "method": "ALL",
+        "reviewers": [
+          {
+            "users": [
+              {
+                "email": "supplierintegritysa@gmail.com",
+                "name": "Admin_AT_FN Admin_AT_LN"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

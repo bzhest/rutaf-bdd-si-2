@@ -1,0 +1,19 @@
+[
+    {
+        "supplierId": "6164f6a1bb123d6c3c8f4ce3",
+        "attachments": [
+            {
+                "description": "sample description",
+                "filename": "TEST_BMP.bmp"
+            },
+            {
+                "description": "test csv description",
+                "filename": "TEST_CSV.csv"
+            },
+            {
+                "description": "file not found",
+                "filename": "abc123.csv"
+            }
+        ]
+    }
+]

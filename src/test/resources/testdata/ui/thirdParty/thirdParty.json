@@ -1,0 +1,755 @@
+{
+  "with mandatory fields": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Afghanistan"
+    }
+  },
+  "with random ID name": {
+    "dataToEnter": {
+      "name": "",
+      "country": "China"
+    }
+  },
+  "ORIGINAL_TP": {
+    "dataToEnter": {
+      "name": "ORIGINAL_TP_AUTO",
+      "country": "United States"
+    }
+  },
+  "MK": {
+    "dataToEnter": {
+      "name": "MK",
+      "country": "United States"
+    }
+  },
+  "with random ID name and Address details": {
+    "dataToEnter": {
+      "name": "",
+      "country": "China",
+      "addressLine": "Test Address Line",
+      "stateProvince": "China Province",
+      "city": "Beijing",
+      "zipCode": "100000"
+    }
+  },
+  "with random ID name and custom fields": {
+    "dataToEnter": {
+      "name": "",
+      "country": "China",
+      "dateOfIncorporation": "TODAY",
+      "bankName": "Test Bank Name",
+      "accountNo": "Test Account No.",
+      "phoneNumber": "380630000000",
+      "fax": "Contact Fax",
+      "website": "www.xxxx.com",
+      "emailAddress": "test@email.com"
+    }
+  },
+  "PetroChina": {
+    "dataToEnter": {
+      "name": "PetroChina",
+      "country": "China"
+    }
+  },
+  "USG": {
+    "dataToEnter": {
+      "name": "USG",
+      "country": "Turkey"
+    }
+  },
+  "PETROCHINA HONG KONG LTD": {
+    "dataToEnter": {
+      "name": "PETROCHINA HONG KONG LTD",
+      "country": "Hong Kong"
+    }
+  },
+  "Bank": {
+    "dataToEnter": {
+      "name": "Bank",
+      "country": "China"
+    }
+  },
+  "Bank of China": {
+    "dataToEnter": {
+      "name": "Bank of China",
+      "country": "China"
+    }
+  },
+  "with random ID name and Kosovo country": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Kosovo"
+    }
+  },
+  "with random ID name and Laos country": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Laos"
+    }
+  },
+  "with random ID name and Netherlands Antilles country": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Netherlands Antilles"
+    }
+  },
+  "with random ID name and Samoa Western country": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Samoa, Western"
+    }
+  },
+  "with random ID name and United States country": {
+    "dataToEnter": {
+      "name": "",
+      "country": "United States"
+    }
+  },
+  "workflowGroupUkraine": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group"
+    }
+  },
+  "workflowGroupUkraineOrganizationWithApprover": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group Organization with Approver"
+    }
+  },
+  "workflowGroupAfghanistanOrganizationWithApprover": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Afghanistan",
+      "workflowGroup": "Auto Workflow Group Organization with Approver"
+    }
+  },
+  "workflowGroupMyanmarOrganizationWithApprover": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Myanmar",
+      "workflowGroup": "Auto Workflow Group Organization with Approver"
+    }
+  },
+  "workflowGroupThailandOrganizationWithApprover": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Thailand",
+      "workflowGroup": "Auto Workflow Group Organization with Approver"
+    }
+  },
+  "workflowGroupOrganizationWithApproverWithIndustryType": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "industryType": "CHP",
+      "workflowGroup": "Auto Workflow Group Organization with Approver"
+    }
+  },
+  "workflowGroupOrganizationWithApproverWithBIOIndustryType": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "industryType": "BIO",
+      "workflowGroup": "Auto Workflow Group Organization with Approver"
+    }
+  },
+  "workflowGroupUkraineIndividualWithApprover": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "belizeWithApprover": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Belize",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "Belize country and Human Resources with Approver": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Belize",
+      "industryType": "HUR",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "Aruba country with Approver": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Aruba",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "Cape Verde country with Approver": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Cape Verde",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "Fiji country with Approver": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Fiji",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "belizeWithApproverWithIndustryType": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Belize",
+      "industryType": "Aerospace",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "workflowGroupWithApproverAndResponsibleParty": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "responsibleParty": "Assignee_AT_FN Assignee_AT_LN",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "workflowGroupUkraineIndividual": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group Individual"
+    }
+  },
+  "APPLE INVESTMENT COMPANY": {
+    "dataToEnter": {
+      "name": "APPLE INVESTMENT COMPANY",
+      "country": "China"
+    }
+  },
+  "with Complete Details": {
+    "dataToEnter": {
+      "referenceNo": "",
+      "name": "",
+      "companyType": "Corporation",
+      "organisationSize": "1-10 employees",
+      "dateOfIncorporation": "TODAY",
+      "responsibleParty": "Assignee_AT_FN Assignee_AT_LN",
+      "division": "Operations",
+      "workflowGroup": "Auto Workflow Group Individual",
+      "currency": "AED United Arab Emirates dirham",
+      "industryType": "Accident & Health Insurance",
+      "businessCategory": "Property & Structure",
+      "revenue": "toBeReplaced",
+      "liquidationDate": "TODAY",
+      "affiliation": "State Owned Entity",
+      "spendCategory": "Major spends supplier",
+      "designAgreement": "Products purchased off the shelf",
+      "relationshipVisibility": "Strategic Partner",
+      "commodityType": "toBeReplaced",
+      "sourcingMethod": "Directly sourced with contract in place",
+      "sourcingType": "Multiple sources available",
+      "productImpact": "Alternate sources require qualification process",
+      "bankName": "Test Bank Name",
+      "accountNo": "Test Account No.",
+      "branchName": "Test Branch Name",
+      "bankAddressLine": "Test Address Line",
+      "bankCity": "Test City",
+      "bankCountry": "United States",
+      "addressLine": "Test Address Line",
+      "city": "Test City",
+      "zipCode": "Test Zip/Postal code",
+      "stateProvince": "Test State / Province",
+      "region": "toBeReplaced",
+      "country": "",
+      "phoneNumber": "380630000000",
+      "fax": "Contact Fax",
+      "website": "www.xxxx.com",
+      "emailAddress": "test@email.com",
+      "description": "Test Description"
+    }
+  },
+  "with Complete Details without responsible party": {
+    "dataToEnter": {
+      "referenceNo": "",
+      "name": "",
+      "companyType": "Corporation",
+      "organisationSize": "1-10 employees",
+      "dateOfIncorporation": "06/21/2021",
+      "division": "MyDivision",
+      "workflowGroup": "Auto Workflow Group Individual",
+      "currency": "AED United Arab Emirates dirham",
+      "industryType": "Accident & Health Insurance",
+      "businessCategory": "Property & Structure",
+      "revenue": "toBeReplaced",
+      "liquidationDate": "06/21/2021",
+      "affiliation": "State Owned Entity",
+      "spendCategory": "Major spends supplier",
+      "designAgreement": "Design created by our organisation, IP shared with supplier",
+      "relationshipVisibility": "Products rebranded from Original Equipment Manufacturer",
+      "commodityType": "toBeReplaced",
+      "sourcingMethod": "Directly sourced with contract in place",
+      "sourcingType": "Multiple sources available",
+      "productImpact": "Alternate sources require qualification process",
+      "bankName": "Test Bank Name",
+      "accountNo": "Test Account No.",
+      "branchName": "Test Branch Name",
+      "bankAddressLine": "Test Address Line",
+      "bankCity": "Test City",
+      "bankCountry": "United States",
+      "addressLine": "Test Address Line",
+      "city": "Test City",
+      "zipCode": "Test Zip/Postal code",
+      "stateProvince": "Test State / Province",
+      "region": "toBeReplaced",
+      "country": "",
+      "phoneNumber": "0000000000000",
+      "fax": "Contact Fax",
+      "website": "www.xxxx.com",
+      "emailAddress": "test@email.com",
+      "description": "Test Description"
+    }
+  },
+  "with Complete Details and country Ukraine": {
+    "dataToEnter": {
+      "referenceNo": "",
+      "name": "AUTO_TEST_With_Complete_Details",
+      "companyType": "Corporation",
+      "organisationSize": "1-10 employees",
+      "dateOfIncorporation": "6/21/2021",
+      "division": "MyDivision",
+      "workflowGroup": "Auto Workflow Group Individual",
+      "industryType": "Accident & Health Insurance",
+      "revenue": "toBeReplaced",
+      "liquidationDate": "06/21/2021",
+      "affiliation": "State Owned Entity",
+      "spendCategory": "Major spends supplier",
+      "designAgreement": "Design created by our organisation, IP shared with supplier",
+      "relationshipVisibility": "Products rebranded from Original Equipment Manufacturer",
+      "commodityType": "toBeReplaced",
+      "sourcingMethod": "Directly sourced with contract in place",
+      "sourcingType": "Multiple sources available",
+      "productImpact": "Alternate sources require qualification process",
+      "bankName": "Test Bank Name",
+      "accountNo": "Test Account No.",
+      "branchName": "Test Branch Name",
+      "bankAddressLine": "Test Address Line",
+      "bankCity": "Test City",
+      "bankCountry": "United States",
+      "addressLine": "Test Address Line",
+      "city": "Test City",
+      "zipCode": "Test Zip/Postal code",
+      "stateProvince": "Test State / Province",
+      "region": "Europe",
+      "country": "Ukraine",
+      "phoneNumber": "0000000000000",
+      "fax": "Contact Fax",
+      "website": "https://www.test1.com ",
+      "emailAddress": "test@email.com",
+      "description": "Test Description"
+    }
+  },
+  "with Complete Details and country USA": {
+    "dataToEnter": {
+      "referenceNo": "",
+      "name": "",
+      "companyType": "Corporation",
+      "organisationSize": "1-10 employees",
+      "dateOfIncorporation": "6/21/2021",
+      "division": "MyDivision",
+      "workflowGroup": "Auto Workflow Group Individual",
+      "industryType": "Accident & Health Insurance",
+      "revenue": "toBeReplaced",
+      "liquidationDate": "06/21/2021",
+      "affiliation": "State Owned Entity",
+      "spendCategory": "Major spends supplier",
+      "designAgreement": "Design created by our organisation, IP shared with supplier",
+      "relationshipVisibility": "Products rebranded from Original Equipment Manufacturer",
+      "commodityType": "toBeReplaced",
+      "sourcingMethod": "Directly sourced with contract in place",
+      "sourcingType": "Multiple sources available",
+      "productImpact": "Alternate sources require qualification process",
+      "bankName": "Test Bank Name",
+      "accountNo": "Test Account No.",
+      "branchName": "Test Branch Name",
+      "bankAddressLine": "Test Address Line",
+      "bankCity": "Test City",
+      "bankCountry": "United States",
+      "addressLine": "Test Address Line",
+      "city": "Test City",
+      "zipCode": "Test Zip/Postal code",
+      "stateProvince": "Test State / Province",
+      "region": "Americas",
+      "country": "United States",
+      "phoneNumber": "0000000000000",
+      "fax": "Contact Fax",
+      "website": "https://www.test1.com ",
+      "emailAddress": "test@email.com",
+      "description": "Test Description"
+    }
+  },
+  "with country in Country Checklist": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Australia"
+    }
+  },
+  "with attached file": {
+    "dataToEnter": {
+      "name": "VIETNAM ELECTRICITY",
+      "country": "Vietnam",
+      "attachments": [
+        {
+          "filename": "TestFileName.png",
+          "description": "Test File Description",
+          "mimeType": "image/png",
+          "fileSize": 0,
+          "isFinal": true
+        }
+      ]
+    }
+  },
+  "with questionnaire workflow": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Norway",
+      "workflowGroup": "Auto Questionnaire"
+    }
+  },
+  "with questionnaire workflow and Assignee responsible party": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Norway",
+      "workflowGroup": "Auto Questionnaire",
+      "responsibleParty": "Assignee_AT_FN Assignee_AT_LN"
+    }
+  },
+  "with renewal workflow Norway": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Norway",
+      "workflowGroup": "Auto Workflow Renewal"
+    }
+  },
+  "with workflow group": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Norway",
+      "workflowGroup": "workflowGroupName"
+    }
+  },
+  "with workflow group Ukraine": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "workflowGroupName"
+    }
+  },
+  "with workflow group and description": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Norway",
+      "workflowGroup": "workflowGroupName",
+      "description": "Here is some custom description"
+    }
+  },
+  "with workflow group and description Ukraine": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "workflowGroupName",
+      "description": "Here is some custom description"
+    }
+  },
+  "with workflow group and assignee user responsible party": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Norway",
+      "workflowGroup": "workflowGroupName",
+      "responsibleParty": "Assignee_AT_FN Assignee_AT_LN"
+    }
+  },
+  "with MyDivision": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Norway",
+      "division": "MyDivision"
+    }
+  },
+  "with Operations division": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group",
+      "division": "Operations"
+    }
+  },
+  "with Operations division and Admin Responsible party": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "division": "Operations",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN"
+    }
+  },
+  "with MyDivision division and Admin double responsible party": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "division": "MyDivision",
+      "workflowGroup": "Auto Workflow Group",
+      "responsibleParty": "Admin_double_AT_FN Admin_double_AT_LN"
+    }
+  },
+  "with MyDivision and Assignee user responsible party": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group",
+      "division": "MyDivision",
+      "responsibleParty": "Assignee_AT_FN Assignee_AT_LN"
+    }
+  },
+  "with Assignee user responsible party": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "responsibleParty": "Assignee_AT_FN Assignee_AT_LN"
+    }
+  },
+  "with random ID name and Zimbabwe country": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Zimbabwe"
+    }
+  },
+  "with mandatory fields update": {
+    "dataToEnter": {
+      "name": "AUTO_TEST_THIRD_PARTY_update",
+      "country": "Norway"
+    }
+  },
+  "with country Syria": {
+    "dataToEnter": {
+      "name": "AUTO_TEST_THIRD_PARTY",
+      "country": "Syria"
+    }
+  },
+  "with AED currency": {
+    "dataToEnter": {
+      "name": "",
+      "currency": "AED United Arab Emirates dirham",
+      "country": "China"
+    }
+  },
+  "Apple": {
+    "dataToEnter": {
+      "name": "Apple",
+      "country": "United States"
+    }
+  },
+  "with defined name": {
+    "dataToEnter": {
+      "name": "AUTO_TEST_THIRD_PARTY",
+      "country": "Afghanistan"
+    }
+  },
+  "with random ID name, Zimbabwe country and Bank Details": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Zimbabwe",
+      "bankName": "Test Bank Name",
+      "accountNo": "Test Account No.",
+      "branchName": "Test Branch Name",
+      "bankAddressLine": "Test Address Line",
+      "bankCity": "Test City"
+    }
+  },
+  "General Information fields + country": {
+    "dataToEnter": {
+      "referenceNo": "",
+      "name": "AUTO_TEST_With_Complete_Details",
+      "companyType": "Corporation",
+      "organisationSize": "1-10 employees",
+      "dateOfIncorporation": "06/21/2021",
+      "division": "MyDivision",
+      "workflowGroup": "Auto Workflow Group Individual",
+      "industryType": "Accident & Health Insurance",
+      "revenue": "toBeReplaced",
+      "currency": "AED United Arab Emirates dirham",
+      "businessCategory": "Property & Structure",
+      "liquidationDate": "06/21/2023",
+      "affiliation": "State Owned Entity",
+      "spendCategory": "Major spends supplier",
+      "designAgreement": "Design created by our organisation, IP shared with supplier",
+      "relationshipVisibility": "Products rebranded from Original Equipment Manufacturer",
+      "country": "Ukraine"
+    }
+  },
+  "with workflow group, random ID name, Zimbabwe country and Bank Details": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Zimbabwe",
+      "workflowGroup": "Auto Workflow Group",
+      "bankName": "Test Bank Name",
+      "accountNo": "Test Account No.",
+      "branchName": "Test Branch Name",
+      "bankAddressLine": "Test Address Line",
+      "bankCity": "Test City"
+    }
+  },
+  "Adidas": {
+    "dataToEnter": {
+      "name": "Adidas",
+      "country": "United States"
+    }
+  },
+  "THIRD_PARTY_WITH_USER_DO_NOT_DELETE": {
+    "dataToEnter": {
+      "name": "THIRD_PARTY_WITH_USER_DO_NOT_DELETE",
+      "country": "Afghanistan",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN"
+    }
+  },
+  "Supplier_External_User DO NOT DELETE": {
+    "dataToEnter": {
+      "name": "Supplier_External_User DO NOT DELETE",
+      "country": "Afghanistan",
+      "responsibleParty": "Questionnaire_Approver_AT_FN Quest_Appr_AT_LN"
+    }
+  },
+  "Supplier_Internal_User DO NOT DELETE": {
+    "dataToEnter": {
+      "name": "Supplier_Internal_User DO NOT DELETE",
+      "country": "Afghanistan",
+      "responsibleParty": "Questionnaire_Approver_AT_FN Quest_Appr_AT_LN"
+    }
+  },
+  "SUPPLIER_FOR_EDIT_EXTERNAL_USER": {
+    "dataToEnter": {
+      "name": "SUPPLIER_FOR_EDIT_EXTERNAL_USER",
+      "country": "Afghanistan",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN"
+    }
+  },
+  "Auto_Third_party_Dashboard_Items": {
+    "dataToEnter": {
+      "name": "Auto_Third_party_Dashboard_Items",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN",
+      "division": "MyDivision",
+      "workflowGroup": "Auto_Workflow_Group_Dashboard",
+      "country": "Ukraine"
+    }
+  },
+  "Auto_Third_party_Dashboard_Orders": {
+    "dataToEnter": {
+      "name": "Auto_Third_party_Dashboard_Orders",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN",
+      "division": "MyDivision",
+      "workflowGroup": "Auto_Workflow_Group_Dashboard",
+      "country": "Ukraine"
+    }
+  },
+  "Auto_Third_party_Dashboard_Orders_To_Approve": {
+    "dataToEnter": {
+      "name": "Auto_Third_party_Dashboard_Orders_To_Approve",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN",
+      "division": "MyDivision",
+      "workflowGroup": "Auto_Workflow_Group_Dashboard",
+      "country": "Ukraine"
+    }
+  },
+  "Auto_Third_party_Dashboard_Items_To_Review_Screening": {
+    "dataToEnter": {
+      "name": "Auto_Third_party_Dashboard_Items_To_Review_Screening",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN",
+      "division": "MyDivision",
+      "workflowGroup": "Auto_Workflow_Group_Dashboard",
+      "country": "Ukraine"
+    }
+  },
+  "Auto_Third_party_Dashboard_Items_To_Review_Questionnaire": {
+    "dataToEnter": {
+      "name": "Auto_Third_party_Dashboard_Items_To_Review_Questionnaire",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN",
+      "division": "MyDivision",
+      "workflowGroup": "Auto_Workflow_Group_Dashboard",
+      "country": "Ukraine"
+    }
+  },
+  "with Auto_Workflow_Group_Dashboard workflow group": {
+    "dataToEnter": {
+      "name": "",
+      "workflowGroup": "Auto_Workflow_Group_Dashboard",
+      "country": "Ukraine"
+    }
+  },
+  "Auto_Third_party_for_Renewal_Dashboard": {
+    "dataToEnter": {
+      "name": "Auto_Third_party_for_Renewal_Dashboard",
+      "workflowGroup": "Auto Workflow Renewal",
+      "country": "Norway"
+    }
+  },
+  "THIRD_PARTY_QUESTIONNAIRE_DO_NOT_DELETE": {
+    "dataToEnter": {
+      "name": "THIRD_PARTY_QUESTIONNAIRE_DO_NOT_DELETE",
+      "country": "Norway",
+      "responsibleParty": "Admin_AT_FN Admin_AT_LN",
+      "division": "MyDivision,Operations",
+      "workflowGroup": "Auto Questionnaire"
+    }
+  },
+  "Paris": {
+    "dataToEnter": {
+      "name": "Paris",
+      "country": "United States"
+    }
+  },
+  "Samsung": {
+    "dataToEnter": {
+      "name": "Samsung",
+      "country": "Afghanistan"
+    }
+  },
+  "with similar name": {
+    "dataToEnter": {
+      "name": "thirdPartyNameSimilar",
+      "country": "Afghanistan"
+    }
+  },
+  "with complete General Information and TP Segmentation and country Ukraine": {
+    "dataToEnter": {
+      "referenceNo": "",
+      "name": "AUTO_TEST_With_Complete_Details",
+      "companyType": "Corporation",
+      "organisationSize": "1-10 employees",
+      "dateOfIncorporation": "6/21/2021",
+      "division": "MyDivision",
+      "workflowGroup": "Auto Workflow Group Individual",
+      "currency": "AED United Arab Emirates dirham",
+      "businessCategory": "Property & Structure",
+      "industryType": "Accident & Health Insurance",
+      "revenue": "toBeReplaced",
+      "liquidationDate": "06/21/2021",
+      "affiliation": "State Owned Entity",
+      "spendCategory": "Major spends supplier",
+      "designAgreement": "Design created by our organisation, IP shared with supplier",
+      "relationshipVisibility": "Products rebranded from Original Equipment Manufacturer",
+      "commodityType": "toBeReplaced",
+      "sourcingMethod": "Directly sourced with contract in place",
+      "sourcingType": "Multiple sources available",
+      "productImpact": "Alternate sources require qualification process",
+      "country": "Ukraine"
+    }
+  },
+  "OnboardingWFG": {
+    "dataToEnter": {
+      "name": "TP Onboarding",
+      "country": "Philippines",
+      "workflowGroup": "Approve/Decline Onboarding Workflow Group"
+    }
+  }
+}

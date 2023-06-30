@@ -1,0 +1,12 @@
+{
+  "message": "Bad Request",
+  "errors": [
+    {
+      "code": "400",
+      "source": null,
+      "message": "SI-ERR-009: Id  doesn't exist",
+      "affectedQuestions": null
+    }
+  ],
+  "responseCode": 400
+}

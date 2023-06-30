@@ -1,0 +1,170 @@
+{
+  "Activity Owner Division": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "MyDivision",
+      "reviewer": "Admin_AT_FN Admin_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Third-party Region": {
+    "dataToEnter": {
+      "addRulesFor": "Third-party Region",
+      "activityOwner": "Americas",
+      "reviewer": "Assignee_AT_FN Assignee_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Assignee Division": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "MyDivision",
+      "reviewer": "Assignee_AT_FN Assignee_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Group": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Group",
+      "activityOwner": "Assignee Group",
+      "reviewer": "Admin_AT_FN Admin_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Auto Review Process": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner",
+      "activityOwner": "Admin_AT_FN Admin_AT_LN",
+      "reviewer": "Admin_AT_FN Admin_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Division Multiple reviewers ALL": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Admin_AT_FN Admin_AT_LN,Assignee_AT_FN Assignee_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Division Multiple Restricted reviewers ALL": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Autouser_Edit_FN Autouser_Edit_LN,Autouser_Second_Edit_FN Autouser_Second_Edit_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Division Multiple reviewers one restricted ALL": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Autouser_Edit_FN Autouser_Edit_LN,Assignee_AT_FN Assignee_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Division Multiple reviewers one restricted IN SEQUENCE": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Autouser_Edit_FN Autouser_Edit_LN,Assignee_AT_FN Assignee_AT_LN",
+      "reviewerMethod": "In Sequence"
+    }
+  },
+  "Activity Owner Division Multiple reviewers one restricted ANY": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Autouser_Edit_FN Autouser_Edit_LN,Assignee_AT_FN Assignee_AT_LN",
+      "reviewerMethod": "Any"
+    }
+  },
+  "Activity Owner Division Multiple reviewers IN SEQUENCE": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Admin_AT_FN Admin_AT_LN,Assignee_AT_FN Assignee_AT_LN",
+      "reviewerMethod": "In Sequence"
+    }
+  },
+  "Activity Owner Division Multiple Restricted reviewers IN SEQUENCE": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Autouser_Edit_FN Autouser_Edit_LN,Autouser_Second_Edit_FN Autouser_Second_Edit_LN",
+      "reviewerMethod": "In Sequence"
+    }
+  },
+  "Activity Owner Division Multiple reviewers ANY": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Admin_AT_FN Admin_AT_LN,Assignee_AT_FN Assignee_AT_LN",
+      "reviewerMethod": "Any"
+    }
+  },
+  "Activity Owner Division Multiple Restricted reviewers ANY": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Autouser_Edit_FN Autouser_Edit_LN,Autouser_Second_Edit_FN Autouser_Second_Edit_LN",
+      "reviewerMethod": "Any"
+    }
+  },
+  "Auto Review Process Admin Double": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner",
+      "activityOwner": "Admin_double_AT_FN Admin_double_AT_LN",
+      "reviewer": "Admin_double_AT_FN Admin_double_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Auto Review Process Questionnaire Approver": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner",
+      "activityOwner": "Questionnaire_Approver_AT_FN Quest_Appr_AT_LN",
+      "reviewer": "Questionnaire_Approver_AT_FN Quest_Appr_AT_LN",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Division Multiple created users ALL": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "MyDivision",
+      "reviewer": "Internal Active User First,Internal Active User Second",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Division Operations Multiple created users ALL": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Internal Active User First,Internal Active User Second",
+      "reviewerMethod": "All"
+    }
+  },
+  "Activity Owner Division Multiple created users ANY": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "MyDivision",
+      "reviewer": "Internal Active User First,Internal Active User Second",
+      "reviewerMethod": "Any"
+    }
+  },
+  "Activity Owner Division Operations Multiple created users ANY": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Internal Active User First,Internal Active User Second",
+      "reviewerMethod": "Any"
+    }
+  },
+  "Activity Owner Division Multiple created users IN SEQUENCE": {
+    "dataToEnter": {
+      "addRulesFor": "Activity Owner Division",
+      "activityOwner": "Operations",
+      "reviewer": "Internal Active User First,Internal Active User Second",
+      "reviewerMethod": "In Sequence"
+    }
+  }
+}

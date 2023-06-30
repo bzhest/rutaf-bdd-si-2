@@ -1,0 +1,8 @@
+{
+  "id": "#string",
+  "resultId": "#string",
+  "comment": "#string",
+  "userId": "##string",
+  "userDisplayName": "##string",
+  "commentDate": "#string"
+}

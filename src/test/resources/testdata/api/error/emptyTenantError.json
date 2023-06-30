@@ -1,0 +1,12 @@
+{
+  "responseCode": 500,
+  "message": "Internal Server Error",
+  "errors": [
+    {
+      "code": "500",
+      "source": null,
+      "message": "Tenant header is either blank or null.",
+      "affectedQuestions": null
+    }
+  ]
+}

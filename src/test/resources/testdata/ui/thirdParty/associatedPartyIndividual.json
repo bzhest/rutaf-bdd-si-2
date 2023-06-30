@@ -1,0 +1,358 @@
+{
+  "with mandatory fields": {
+    "dataToEnter": {
+      "firstName": "Test_First_Name",
+      "lastName": "Test_Last_Name",
+      "emailAddress": "test@example.com",
+      "autoScreen": true
+    }
+  },
+  "with only mandatory fields": {
+    "dataToEnter": {
+      "firstName": "Test_First_Name",
+      "lastName": "Test_Last_Name",
+      "autoScreen": true
+    }
+  },
+  "with mandatory fields auto screen off": {
+    "dataToEnter": {
+      "firstName": "Test_First_Name",
+      "lastName": "Test_Last_Name",
+      "emailAddress": "test@example.com",
+      "autoScreen": false
+    }
+  },
+  "with valid email": {
+    "dataToEnter": {
+      "firstName": "Test_First_Name",
+      "lastName": "Test_Last_Name",
+      "emailAddress": "",
+      "autoScreen": true
+    }
+  },
+  "with valid email and enabled as user": {
+    "dataToEnter": {
+      "firstName": "Test_First_Name",
+      "lastName": "Test_Last_Name",
+      "emailAddress": "",
+      "autoScreen": true,
+      "isEnabledAsUser": true
+    }
+  },
+  "with matched results": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "P",
+      "emailAddress": "test@example.com",
+      "addressCountry": "Ukraine",
+      "autoScreen": true
+    }
+  },
+  "with not matched results": {
+    "dataToEnter": {
+      "firstName": "Qwerty",
+      "lastName": "QWERT@#$%^&*()",
+      "emailAddress": "test@example.com",
+      "autoScreen": true
+    }
+  },
+  "with mandatory fields and address country": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "P",
+      "emailAddress": "test@example.com",
+      "addressCountry": "Serbia",
+      "screeningCriteriaCountry": "Serbia",
+      "autoScreen": true
+    }
+  },
+  "with mandatory fields and 3 countries": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "P",
+      "emailAddress": "test@example.com",
+      "addressCountry": "Serbia",
+      "screeningCriteriaCountry": "Serbia",
+      "placeOfBirth": "Gambia",
+      "nationality": "Finland",
+      "autoScreen": true
+    }
+  },
+  "with mandatory fields and Kosovo country": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "P",
+      "emailAddress": "test@example.com",
+      "addressCountry": "Kosovo",
+      "screeningCriteriaCountry": "Serbia",
+      "autoScreen": true
+    }
+  },
+  "with mandatory fields and Laos country": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "P",
+      "emailAddress": "test@example.com",
+      "addressCountry": "Laos",
+      "screeningCriteriaCountry": "Lao People's Democratic Republic",
+      "autoScreen": true
+    }
+  },
+  "with mandatory fields and Netherlands Antilles country": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "P",
+      "emailAddress": "test@example.com",
+      "addressCountry": "Netherlands Antilles",
+      "autoScreen": true
+    }
+  },
+  "with mandatory fields and Samoa Western country": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "P",
+      "emailAddress": "test@example.com",
+      "addressCountry": "Samoa, Western",
+      "screeningCriteriaCountry": "Samoa",
+      "autoScreen": true
+    }
+  },
+  "with mandatory fields and Personal Details": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "P",
+      "emailAddress": "test@example.com",
+      "placeOfBirth": "Gambia",
+      "nationality": "Finland",
+      "autoScreen": true
+    }
+  },
+  "John SMITH": {
+    "dataToEnter": {
+      "firstName": "John",
+      "lastName": "SMITH",
+      "autoScreen": true
+    }
+  },
+  "Barac Obama": {
+    "dataToEnter": {
+      "firstName": "Barac",
+      "lastName": "Obama",
+      "autoScreen": true
+    }
+  },
+  "Barac Hussein Obama": {
+    "dataToEnter": {
+      "firstName": "Barac",
+      "middleName": "Hussein",
+      "lastName": "Obama",
+      "autoScreen": true
+    }
+  },
+  "Barac Hussein Obama Key Principal": {
+    "dataToEnter": {
+      "firstName": "Barac",
+      "middleName": "Hussein",
+      "lastName": "Obama",
+      "isPrincipal": true,
+      "autoScreen": true
+    }
+  },
+  "Barac George Marshall": {
+    "dataToEnter": {
+      "firstName": "Barac",
+      "middleName": "George",
+      "lastName": "Marshall",
+      "autoScreen": true
+    }
+  },
+  "Joe Biden": {
+    "dataToEnter": {
+      "firstName": "Joe",
+      "lastName": "Biden",
+      "emailAddress": "",
+      "autoScreen": false
+    }
+  },
+  "Donald Trump": {
+    "dataToEnter": {
+      "firstName": "Donald",
+      "lastName": "Trump",
+      "emailAddress": "",
+      "autoScreen": true
+    }
+  },
+  "David DANIELI": {
+    "dataToEnter": {
+      "firstName": "David",
+      "lastName": "DANIELI",
+      "emailAddress": "",
+      "autoScreen": true
+    }
+  },
+  "Vladimir PUTIN": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "PUTIN",
+      "emailAddress": "test@example.com",
+      "autoScreen": true
+    }
+  },
+  "with Ann contact details": {
+    "dataToEnter": {
+      "firstName": "Ann",
+      "lastName": "Lim",
+      "emailAddress": "annlim@test.com",
+      "addressCountry": "Norway",
+      "autoScreen": true
+    }
+  },
+  "with Marry Lima contact details": {
+    "dataToEnter": {
+      "firstName": "Marry",
+      "lastName": "Lima",
+      "emailAddress": "marryLim@test.com",
+      "autoScreen": true
+    }
+  },
+  "Vladimir LOSEV": {
+    "dataToEnter": {
+      "firstName": "Vladimir",
+      "lastName": "LOSEV",
+      "emailAddress": "test@example.com",
+      "autoScreen": true
+    }
+  },
+  "for questionnaire activity": {
+    "dataToEnter": {
+      "firstName": "External_First_Name",
+      "lastName": "External_Last_Name",
+      "emailAddress": "",
+      "autoScreen": true,
+      "isEnabledAsUser": true
+    }
+  },
+  "with key principal": {
+    "dataToEnter": {
+      "firstName": "Volodymyr",
+      "lastName": "Z",
+      "emailAddress": "testbest@example.com",
+      "addressCountry": "Ukraine",
+      "autoScreen": true,
+      "isPrincipal": true,
+      "addressLine": "Address",
+      "city": "City Odessa",
+      "zipCode": 65000,
+      "stateProvince": "State Odessa",
+      "region": "Europe"
+    }
+  },
+  "with key principal active": {
+    "dataToEnter": {
+      "firstName": "Volodymyr",
+      "lastName": "Z",
+      "emailAddress": "",
+      "addressCountry": "Ukraine",
+      "autoScreen": true,
+      "isPrincipal": true,
+      "isEnabledAsUser": true,
+      "addressLine": "Address",
+      "city": "City Odessa",
+      "zipCode": 65000,
+      "stateProvince": "State Odessa"
+    }
+  },
+  "with random name and valid email": {
+    "dataToEnter": {
+      "firstName": "toBeReplaced",
+      "lastName": "toBeReplaced",
+      "emailAddress": "",
+      "autoScreen": true
+    }
+  },
+  "with valid email enabled as user": {
+    "dataToEnter": {
+      "firstName": "toBeReplaced",
+      "lastName": "toBeReplaced",
+      "emailAddress": "",
+      "autoScreen": true,
+      "isEnabledAsUser": true
+    }
+  },
+  "AUTO_TEST_DEACTIVATE_EXTERNAL": {
+    "dataToEnter": {
+      "firstName": "AUTO_TEST_DEACTIVATE_EXTERNAL",
+      "lastName": "toBeReplaced",
+      "emailAddress": "",
+      "autoScreen": true,
+      "isEnabledAsUser": true
+    }
+  },
+  "External": {
+    "dataToEnter": {
+      "firstName": "External_AT_FN",
+      "lastName": "External_AT_LN",
+      "emailAddress": "user.external.username",
+      "isEnabledAsUser": true
+    }
+  },
+  "External Forgot Password": {
+    "dataToEnter": {
+      "firstName": "FORGOT_EXTERNAL_AUTO_TEST",
+      "lastName": "FORGOT_EXTERNAL_AUTO_TEST_LN",
+      "emailAddress": "user.external.forgot.username",
+      "isEnabledAsUser": true
+    }
+  },
+  "External Inactive User": {
+    "dataToEnter": {
+      "firstName": "Auto_External_Inactive",
+      "lastName": "Auto_External_Inactive_Last",
+      "emailAddress": "user.external.inactive.username",
+      "isEnabledAsUser": true
+    }
+  },
+  "External User for Editing": {
+    "dataToEnter": {
+      "firstName": "External_for_editing2",
+      "lastName": "External_for_editing2_Last",
+      "emailAddress": "user.external.for.editing.username",
+      "isEnabledAsUser": true
+    }
+  },
+  "External User for Password Edit": {
+    "dataToEnter": {
+      "firstName": "External_User_For_Editing",
+      "lastName": "External_User_For_Editing_Last_Name",
+      "emailAddress": "user.external.for.password.recovery.username",
+      "isEnabledAsUser": true
+    }
+  },
+  "External User With Similar Email": {
+    "dataToEnter": {
+      "firstName": "Auto_Admin_Similar",
+      "lastName": "Auto_Admin_Similar_Last",
+      "emailAddress": "user.external.similar.username",
+      "isEnabledAsUser": true
+    }
+  },
+  "External User for Questionnaire": {
+    "dataToEnter": {
+      "firstName": "External_Questionnaire_User",
+      "lastName": "External_Questionnaire_User_Last",
+      "emailAddress": "user.external.questionnaire.username",
+      "isEnabledAsUser": true
+    }
+  },
+  "John Paul": {
+    "dataToEnter": {
+      "firstName": "John",
+      "lastName": "Paul",
+      "emailAddress": "",
+      "autoScreen": true,
+      "screeningCriteriaCountry": "Australia",
+      "placeOfBirth": "Aruba",
+      "nationality": "United Kingdom"
+    }
+  }
+}

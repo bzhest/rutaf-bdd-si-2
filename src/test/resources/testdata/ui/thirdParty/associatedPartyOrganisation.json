@@ -1,0 +1,23 @@
+{
+  "Dell": {
+    "dataToEnter": {
+      "name": "Dell",
+      "addressCountry": "Norway",
+      "autoScreen": true
+    }
+  },
+  "ABC": {
+    "dataToEnter": {
+      "name": "ABC",
+      "addressCountry": "Afghanistan",
+      "autoScreen": true
+    }
+  },
+  "Marshall": {
+    "dataToEnter": {
+      "name": "Marshall",
+      "addressCountry": "Norway",
+      "autoScreen": true
+    }
+  }
+}

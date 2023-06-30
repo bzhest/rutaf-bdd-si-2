@@ -1,0 +1,297 @@
+{
+  "with random ID name": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "scoringName": "Scoring Test Name",
+      "scoringRangeFrom": "0",
+      "scoringRangeTo": "0",
+      "questionName": "",
+      "helpText": ""
+    }
+  },
+  "with max value": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "questionName": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit sed ullamcorper morbi tincidunt. Nec ultrices dui sapien eget mi. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan. Tincidunt nunc pulvinar sapien et. Tincidunt vitae semper quis lectus nulla at volutpat diam. Imperdiet sed euismod nisi porta. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Sed enim ut sem viverra aliquet eget sit amet. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Eget nullam non nisi est sit amet facilisis magna. Nam aliquam sem et tortor consequat id porta nibh. Risus pretium quam vulputate dignissim suspendisse in est ante. Risus quis varius quam quisque id diam vel. Gravida in fermentum et sollicitudin ac orci. Ultricies integer quis auctor elit sed vulputate mi sit amet. Scelerisque viverra mauris in aliquam sem fringilla ut morbi. Morbi tincidunt augue interdum velit. Cursus in hac habitasse platea dictumst quisque. Odio aenean sed adipiscing diam donec adipiscing. Sed enim ut sem viverra aliquet eget sit amet. Dolor sed viverra ipsum nunc aliquet bibendum enim. Massa vitae tortor condimentum lacinia quis vel eros donec. Sapien faucibus et molestie ac feugiat. Aliquam ut porttitor leo a diam sollicitudin tempor id. Eros in cursus turpis massa tincidunt dui. Scelerisque purus semper eget duis at tellus at urna. Fringilla phasellus faucibus scelerisque eleifend. Quam lacus suspendisse faucibus interdum posuere lorem. Adipiscing at in tellus integer feugiat scelerisque varius morbi. Nisl nisi scelerisque eu ultrices. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Aliquet enim tortor at auctor. Lectus vestibulum mattis ullamcorper velit sed ullamcorper. Nulla malesuada pellentesque elit eget gravida cum sociis. Odio ut sem nulla pharetra diam sit amet nisl suscipit. Sit amet consectetur adipiscing elit pellentesque habitant. Posuere urna nec tincidunt praesent. Magna sit amet purus gravida quis. Diam ut venenatis tellus in metus vulputate. Neque convallis a cras semper auctor. Lorem donec massa sapien faucibus. Fusce ut placerat orci nulla pellentesque dignissim. Dolor sed viverra ipsum nunc aliquet bibendum. Morbi tristique senectus et n.",
+      "helpText": "Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla non arcu lacinia neque faucibus fringilla. Nulla non lectus sed nisl molestie malesuada. Proin in tellus sit amet nibh dignissim sagittis. Vivamus luctus egestas leo. Maecenas sollicitudin. Nullam rhoncus aliquam met"
+    }
+  },
+  "with completed data": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "category": "AUTO_TEST_CATEGORY",
+      "description": "Test Description",
+      "header": "Test Header",
+      "language": [
+        "Afar"
+      ],
+      "assigneeType": "External",
+      "scoringName": "Scoring Test Name",
+      "scoringRangeFrom": "0",
+      "scoringRangeTo": "0",
+      "questionName": "Auto Test Question",
+      "helpText": "Auto Test Help Text"
+    }
+  },
+  "with completed Internal data": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "category": "AUTO_TEST_CATEGORY",
+      "description": "Test Description",
+      "header": "Test Header",
+      "language": [
+        "Afar"
+      ],
+      "assigneeType": "Internal",
+      "scoringName": "Scoring Test Name",
+      "scoringRangeFrom": "0",
+      "scoringRangeTo": "0",
+      "questionName": "Auto Test Question",
+      "helpText": "Auto Test Help Text"
+    }
+  },
+  "with 0-1 scoring range": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "category": "AUTO_TEST_CATEGORY",
+      "description": "Test Description",
+      "header": "Test Header",
+      "language": [
+        "Afar"
+      ],
+      "assigneeType": "Internal",
+      "scoringName": "Edit Scoring Test Name",
+      "scoringRangeFrom": "0",
+      "scoringRangeTo": "1",
+      "questionName": "Auto Test Question",
+      "helpText": "Auto Test Help Text"
+    }
+  },
+  "with scoring 0 to 1": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "scoringName": "Scoring Test Name 0",
+      "scoringRangeFrom": "0",
+      "scoringRangeTo": "1",
+      "questionName": "",
+      "helpText": ""
+    }
+  },
+  "with scoring 2 to 3": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "scoringName": "Scoring Test Name 1",
+      "scoringRangeFrom": "2",
+      "scoringRangeTo": "3",
+      "questionName": "",
+      "helpText": ""
+    }
+  },
+  "with completed data and 1 to 5 scoring range": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "category": "AUTO_TEST_CATEGORY",
+      "description": "Test Description",
+      "header": "Test Header",
+      "language": [
+        "Afar"
+      ],
+      "assigneeType": "External",
+      "scoringName": "Scoring Test Name",
+      "scoringRangeFrom": "0",
+      "scoringRangeTo": "5",
+      "questionName": "Auto Test Question",
+      "helpText": "Auto Test Help Text"
+    }
+  },
+  "AUTO_TEST_EXTERNAL_QUESTIONNAIRE": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_EXTERNAL_QUESTIONNAIRE",
+      "assigneeType": "External"
+    }
+  },
+  "AUTO_TEST_EXTERNAL_SECOND_QUESTIONNAIRE": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_EXTERNAL_SECOND_QUESTIONNAIRE",
+      "assigneeType": "External"
+    }
+  },
+  "AUTO_TEST_INTERNAL_QUESTIONNAIRE": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_INTERNAL_QUESTIONNAIRE",
+      "assigneeType": "Internal"
+    }
+  },
+  "AUTO_TEST_INTERNAL_QUESTIONNAIRE_SECOND": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_INTERNAL_QUESTIONNAIRE_SECOND",
+      "assigneeType": "Internal"
+    }
+  },
+  "AUTO_TEST_INTERNAL_QUESTIONNAIRE_CONFIG": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_INTERNAL_QUESTIONNAIRE_CONFIG",
+      "assigneeType": "Internal"
+    }
+  },
+  "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_REVIEW": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_REVIEW",
+      "assigneeType": "Internal"
+    }
+  },
+  "AUTO_TEST_QUESTIONNAIRE_ENHANCED_TEXT_ENTRY_PLUS": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_QUESTIONNAIRE_ENHANCED_TEXT_ENTRY_PLUS",
+      "assigneeType": "Internal"
+    }
+  },
+  "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_LEVEL_2_IN_REVIEW": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_LEVEL_2_IN_REVIEW",
+      "assigneeType": "External"
+    }
+  },
+  "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_LEVEL_3_IN_REVIEW": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_LEVEL_3_IN_REVIEW",
+      "assigneeType": "External"
+    }
+  },
+  "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_COMPLETED": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_COMPLETED",
+      "assigneeType": "Internal"
+    }
+  },
+  "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_BRANCHING_QUESTIONS": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_BRANCHING_QUESTIONS",
+      "assigneeType": "External"
+    }
+  },
+  "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_MAPPED_ASSESSMENT": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_MAPPED_ASSESSMENT",
+      "assigneeType": "Internal"
+    }
+  },
+  "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_EXTERNAL": {
+    "dataToEnter": {
+      "questionnaireName": "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_EXTERNAL",
+      "assigneeType": "External"
+    }
+  },
+  "AUTO_TEST_2_QUESTIONNAIRES_WITH_RISK_REMEDIATION_EXTERNAL": {
+    "dataToEnter": {
+      "questionnaireNames": [
+        "AUTO_TEST_QUESTIONNAIRE_RISK_REMEDIATION_EXTERNAL",
+        "AUTO_TEST_EXTERNAL_QUESTIONNAIRE"
+      ],
+      "assigneeType": "External"
+    }
+  },
+  "with only random name": {
+    "dataToEnter": {
+      "questionnaireName": ""
+    }
+  },
+  "with random ID name and 180 questions": {
+    "dataToEnter": {
+      "questionnaireName": "",
+      "scoringName": "Scoring Test Name",
+      "scoringRangeFrom": "0",
+      "scoringRangeTo": "0",
+      "questionName": "",
+      "helpText": ""
+    }
+  },
+  "Scheme 1: 0-50 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 1",
+      "scoringRangeFrom": "0",
+      "scoringRangeTo": "50",
+      "levelOfReviewer": "3"
+    }
+  },
+  "Scheme 2: 51-100 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 2",
+      "scoringRangeFrom": "51",
+      "scoringRangeTo": "100",
+      "levelOfReviewer": "1"
+    }
+  },
+  "Scheme 3: 101-150 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 3",
+      "scoringRangeFrom": "101",
+      "scoringRangeTo": "150",
+      "levelOfReviewer": "1"
+    }
+  },
+  "Scheme 4: 151-200 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 4",
+      "scoringRangeFrom": "151",
+      "scoringRangeTo": "200",
+      "levelOfReviewer": "1"
+    }
+  },
+  "Scheme 5: 201-250 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 5",
+      "scoringRangeFrom": "201",
+      "scoringRangeTo": "250",
+      "levelOfReviewer": "1"
+    }
+  },
+  "Scheme 5: 100-99 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 5",
+      "scoringRangeFrom": "100",
+      "scoringRangeTo": "99",
+      "levelOfReviewer": "1"
+    }
+  },
+  "Scheme 1: 1-50 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 1",
+      "scoringRangeFrom": "1",
+      "scoringRangeTo": "50",
+      "levelOfReviewer": "1"
+    }
+  },
+  "Scheme 1: 1-100 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 1",
+      "scoringRangeFrom": "1",
+      "scoringRangeTo": "100",
+      "levelOfReviewer": "1"
+    }
+  },
+  "Scheme 2: 101-170 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 2",
+      "scoringRangeFrom": "101",
+      "scoringRangeTo": "170",
+      "levelOfReviewer": "2"
+    }
+  },
+  "Scheme 3: 171-250 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 3",
+      "scoringRangeFrom": "171",
+      "scoringRangeTo": "250",
+      "levelOfReviewer": "3"
+    }
+  },
+  "Scheme 1: 100-99 range": {
+    "dataToEnter": {
+      "scoringName": "Scheme 1",
+      "scoringRangeFrom": "100",
+      "scoringRangeTo": "99",
+      "levelOfReviewer": "1"
+    }
+  }
+}

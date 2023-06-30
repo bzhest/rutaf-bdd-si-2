@@ -1,0 +1,3 @@
+-> KARATE-config.js is mandatory file required to execute API tests. Please do not change this.
+-> You can add or remove any global properties given in this file.
+-> Feel free to modify as you want.

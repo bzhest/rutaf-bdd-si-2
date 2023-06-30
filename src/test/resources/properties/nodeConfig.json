@@ -1,0 +1,19 @@
+{
+  "capabilities": [
+    {
+      "browserName": "chrome",
+      "maxInstances": 1,
+	  "cleanSession": true,
+	  "acceptSslCerts": true,
+      "javascriptEnabled": true
+    }
+  ],
+    "_comment" : "Configuration for Node",
+    "cleanUpCycle": 2000,
+    "timeout": 30000,
+    "host": "localhost",
+    "register": true,
+    "hubPort": 4444,
+    "maxSession": 1
+  
+}

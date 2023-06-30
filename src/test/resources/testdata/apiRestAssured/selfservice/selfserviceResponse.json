@@ -1,0 +1,11 @@
+{
+
+  "Self-Service USERS Upload CSV File OK Expected Response Schema": {
+    "response": {
+      "message": "202(Accepted) We have accepted your request, and it has been queued for processing.",
+      "data": {
+      }
+    }
+  }
+
+}

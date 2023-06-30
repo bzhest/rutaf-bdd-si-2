@@ -1,0 +1,469 @@
+{
+  "Assign Questionnaire": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Auto Activity",
+      "description": "Activity Description",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Assign Questionnaire Responsible Party Assignee": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Auto Activity",
+      "description": "Activity Description",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Assign Questionnaire with Approver user": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Auto Activity",
+      "description": "Activity Description",
+      "isUserAssignee": true,
+      "assignee": "Questionnaire_Approver_AT_FN Quest_Appr_AT_LN",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Assign Questionnaire with Assignee user role": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Assign Questionnaire",
+      "description": "Activity Description",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Assign Questionnaire with Admin user role": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Auto Activity",
+      "description": "Activity Description",
+      "isUserAssignee": true,
+      "assignee": "Admin",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Assign Questionnaire With Group Assignee": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Auto Activity",
+      "description": "Activity Description",
+      "isUserAssignee": false,
+      "assignee": "Assignee Group",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Assessment Activity": {
+    "dataToEnter": {
+      "activityType": "Assessment",
+      "activityName": "Assessment Activity",
+      "description": "Assessment Description",
+      "assessment": [
+        "Deeper Dive",
+        "Resolved",
+        "Issue Identified"
+      ],
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Assessment Activity With Assignee User": {
+    "dataToEnter": {
+      "activityType": "Assessment",
+      "activityName": "Assessment Activity",
+      "description": "Assessment Description",
+      "assessment": [
+        "Deeper Dive",
+        "Resolved",
+        "Issue Identified"
+      ],
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Activity With Random Data": {
+    "dataToEnter": {
+      "activityType": "toBeReplaced",
+      "activityName": "toBeReplaced",
+      "description": "Assessment Description",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "toBeReplaced",
+      "status": "Not Started"
+    }
+  },
+  "Approve Onboarding Activity": {
+    "dataToEnter": {
+      "activityType": "Approve Onboarding",
+      "activityName": "Approve Onboarding",
+      "description": "Approve Onboarding",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Decline Onboarding Activity": {
+    "dataToEnter": {
+      "activityType": "Decline Onboarding",
+      "activityName": "Decline Onboarding",
+      "description": "Decline Onboarding",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Request for Due Diligence Activity": {
+    "dataToEnter": {
+      "activityType": "Request for Due Diligence Activity",
+      "activityName": "Request for Due Diligence",
+      "description": "Request for Due Diligence",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Order Due Diligence Report Activity": {
+    "dataToEnter": {
+      "activityType": "Order Due Diligence Report",
+      "activityName": "Order Due Diligence Report",
+      "description": "Order Due Diligence Report",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started",
+      "scopeType": "Organisation"
+    }
+  },
+  "Order Due Diligence Report Activity with recommended scope": {
+    "dataToEnter": {
+      "activityType": "Order Due Diligence Report",
+      "activityName": "Order Due Diligence Report",
+      "description": "Order Due Diligence Report",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started",
+      "scope": ""
+    }
+  },
+  "World Check Screening Activity": {
+    "dataToEnter": {
+      "activityType": "World Check Screening",
+      "activityName": "World Check Screening",
+      "description": "World Check Screening",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "World Check Screening Activity with Group": {
+    "dataToEnter": {
+      "activityType": "World Check Screening",
+      "activityName": "World Check Screening",
+      "description": "World Check Screening",
+      "isUserAssignee": false,
+      "assignee": "Assignee Group",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "World Check Ongoing Screening Update Activity": {
+    "dataToEnter": {
+      "activityType": "World Check Ongoing Screening Update",
+      "activityName": "World Check Ongoing Screening Update",
+      "description": "World Check Ongoing Screening Update",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Simple Custom Activity": {
+    "dataToEnter": {
+      "activityType": "AUTO_TEST_SIMPLE_ACTIVITY_TYPE",
+      "activityName": "toBeReplaced",
+      "description": "AUTO_TEST_SIMPLE_ACTIVITY_TYPE",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Assessment One Field Custom Activity": {
+    "dataToEnter": {
+      "activityType": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_1",
+      "activityName": "toBeReplaced",
+      "description": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_1",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_1": {
+    "dataToEnter": {
+      "activityType": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_1",
+      "activityName": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_1",
+      "description": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_1",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Assessment Three Field Custom Activity": {
+    "dataToEnter": {
+      "activityType": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_3",
+      "activityName": "toBeReplaced",
+      "description": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_3",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Assessment Three Field Custom Activity Assignee": {
+    "dataToEnter": {
+      "activityType": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_3",
+      "activityName": "Assessment Three Field Custom Activity Assignee",
+      "description": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_3",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Edit Assign Questionnaire With Group Assignee": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Auto Activity Edit",
+      "description": "Activity Description Edit",
+      "isUserAssignee": false,
+      "assignee": "Assignee Group",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "Edit Assign Questionnaire": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Auto Activity Edit",
+      "description": "Activity Description Edit",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started"
+    }
+  },
+  "With Pending For Assignment": {
+    "dataToEnter": {
+      "activityType": "World Check Screening",
+      "activityName": "Pending For Assignment",
+      "description": "Pending For Assignment",
+      "dueIn": "1",
+      "pendingForAssignment": true
+    }
+  },
+  "With Group Assignee": {
+    "dataToEnter": {
+      "activityType": "World Check Screening",
+      "activityName": "With Group Assignee",
+      "description": "With Group Assignee description",
+      "isUserAssignee": false,
+      "assignee": "Assignee Group",
+      "dueIn": "1"
+    }
+  },
+  "With Multi Users Group Assignee": {
+    "dataToEnter": {
+      "activityType": "World Check Screening",
+      "activityName": "With Multi Users Group Assignee",
+      "description": "With Group Assignee description",
+      "isUserAssignee": false,
+      "assignee": "Group With Multi Users",
+      "dueIn": "1"
+    }
+  },
+  "Assign Questionnaire Activity with attachment": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Auto Activity",
+      "description": "Activity Description",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "pendingForAssignment": false,
+      "status": "Not Started",
+      "attachments": "logo.jpg"
+    }
+  },
+  "ODDR Activity with attachment": {
+    "dataToEnter": {
+      "activityType": "Order Due Diligence Report",
+      "activityName": "Auto Activity",
+      "description": "Order Due Diligence Report",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started",
+      "scope": "",
+      "attachments": "logo.jpg"
+    }
+  },
+  "AUTO_TEST_SIMPLE_ACTIVITY_TYPE": {
+    "dataToEnter": {
+      "activityType": "AUTO_TEST_SIMPLE_ACTIVITY_TYPE",
+      "activityName": "AUTO_TEST_SIMPLE_ACTIVITY_TYPE",
+      "description": "AUTO_TEST_SIMPLE_ACTIVITY_TYPE",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Order Due Diligence Report Organisation Activity": {
+    "dataToEnter": {
+      "activityType": "Order Due Diligence Report",
+      "activityName": "OrderDueDiligenceReport",
+      "description": "Test Automation activity",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started",
+      "scope": "",
+      "scopeType": "Organisation"
+    }
+  },
+  "Order Due Diligence Report Individual Activity": {
+    "dataToEnter": {
+      "activityType": "Order Due Diligence Report",
+      "activityName": "OrderDueDiligenceReport",
+      "description": "Test Automation activity",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started",
+      "scope": "",
+      "scopeType": "Individual"
+    }
+  },
+  "Assign Questionnaire with Due In 2 days Activity": {
+    "dataToEnter": {
+      "activityType": "Assign Questionnaire",
+      "activityName": "Assign Questionnaire1",
+      "description": "Description",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "2",
+      "status": "Not Started"
+    }
+  },
+  "No Satisfied Approval Rule Activity": {
+    "dataToEnter": {
+      "activityType": "Background Investigation",
+      "activityName": "NoSatisfiedApprovalRule",
+      "description": "DO NOT DELETE",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Two Approval Rules Satisfied In Sequence Activity": {
+    "dataToEnter": {
+      "activityType": "Request for Due Diligence",
+      "activityName": "TwoApprovalRulesSatisfiedInSequence",
+      "description": "DO NOT DELETE",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "One Satisfied Approval Rule Activity": {
+    "dataToEnter": {
+      "activityType": "World Check Screening",
+      "activityName": "OneSatisfiedApprovalRule",
+      "description": "DO NOT DELETE",
+      "isUserAssignee": true,
+      "assignee": "Assignee_AT_FN Assignee_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Auto Test Custom Activity": {
+    "dataToEnter": {
+      "activityType": "Auto Test Custom Activity",
+      "activityName": "Auto Test Custom Activity name",
+      "description": "DO NOT DELETE",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "World Check Ongoing Screening Update Activity with Assignee": {
+    "dataToEnter": {
+      "activityType": "World Check Ongoing Screening Update",
+      "activityName": "Screening Activity",
+      "description": "Screening Activity description",
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "Auto Test Custom Activity with Assessment": {
+    "dataToEnter": {
+      "activityType": "Auto Test Custom Activity",
+      "activityName": "Custom Activity",
+      "description": "Custom Activity description",
+      "assessment": [
+        "custom"
+      ],
+      "isUserAssignee": true,
+      "assignee": "Admin_AT_FN Admin_AT_LN",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  },
+  "World Check Ongoing Screening Update Activity with created user assignee": {
+    "dataToEnter": {
+      "activityType": "World Check Ongoing Screening Update",
+      "activityName": "World Check Ongoing Screening Update",
+      "description": "World Check Ongoing Screening Update",
+      "isUserAssignee": true,
+      "assignee": "userFirstName",
+      "dueIn": "1",
+      "status": "Not Started"
+    }
+  }
+}

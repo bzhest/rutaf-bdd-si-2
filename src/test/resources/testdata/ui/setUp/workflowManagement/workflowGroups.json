@@ -1,0 +1,50 @@
+{
+  "group1": {
+    "dataToEnter": {
+      "name": "Autotest group 1",
+      "status": "true"
+    }
+  },
+  "Auto Workflow Group": {
+    "dataToEnter": {
+      "name": "Auto Workflow Group",
+      "status": "true"
+    }
+  },
+  "Auto Workflow Group Individual": {
+    "dataToEnter": {
+      "name": "Auto Workflow Group Individual",
+      "status": "true"
+    }
+  },
+  "Auto Workflow Group Individual with Approver": {
+    "dataToEnter": {
+      "name": "Auto Workflow Group Individual with Approver",
+      "status": "true"
+    }
+  },
+  "Auto Workflow Group Organization with Approver": {
+    "dataToEnter": {
+      "name": "Auto Workflow Group Organization with Approver",
+      "status": "true"
+    }
+  },
+  "Auto Questionnaire": {
+    "dataToEnter": {
+      "name": "Auto Questionnaire",
+      "status": "true"
+    }
+  },
+  "Auto_Workflow_Group_Dashboard": {
+    "dataToEnter": {
+      "name": "Auto_Workflow_Group_Dashboard",
+      "status": "true"
+    }
+  },
+  "Auto Workflow Renewal": {
+    "dataToEnter": {
+      "name": "Auto Workflow Renewal",
+      "status": "true"
+    }
+  }
+}

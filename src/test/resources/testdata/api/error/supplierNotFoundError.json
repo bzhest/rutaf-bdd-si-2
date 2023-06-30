@@ -1,0 +1,12 @@
+{
+  "responseCode": 404,
+  "message": "Not Found",
+  "errors": [
+    {
+      "code": "404",
+      "message": "Supplier Not Found doesn't exist",
+      "source": null,
+      "affectedQuestions": null
+    }
+  ]
+}

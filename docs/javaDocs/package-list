@@ -1,0 +1,7 @@
+com.refinitiv.asts.test
+com.refinitiv.asts.test.constants
+com.refinitiv.asts.test.pageActions
+com.refinitiv.asts.test.pageObjects
+com.refinitiv.asts.test.playground
+com.refinitiv.asts.test.runners
+com.refinitiv.asts.test.stepDefinitions

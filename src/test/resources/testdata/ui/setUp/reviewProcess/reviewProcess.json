@@ -1,0 +1,50 @@
+{
+  "Review Process with Activity owner": {
+    "dataToEnter": {
+      "reviewProcessName": "",
+      "description": "Here is so much text here",
+      "active": "checked",
+      "defaultReviewer": "Admin_AT_FN Admin_AT_LN",
+      "addRulesFor": "Activity Owner",
+      "activityOwner": [
+        "Admin_AT_FN Admin_AT_LN"
+      ],
+      "reviewer": [
+        "Admin_AT_FN Admin_AT_LN"
+      ],
+      "reviewerMethod": "ALL"
+    }
+  },
+  "Review Process with Third-party Region": {
+    "dataToEnter": {
+      "reviewProcessName": "",
+      "description": "Here is so much text here",
+      "active": "checked",
+      "defaultReviewer": "Admin_AT_FN Admin_AT_LN",
+      "addRulesFor": "Third-party Region",
+      "activityOwner": [
+        "Asia"
+      ],
+      "reviewer": [
+        "Admin_AT_FN Admin_AT_LN"
+      ],
+      "reviewerMethod": "ALL"
+    }
+  },
+  "Review Process with Activity Owner Group": {
+    "dataToEnter": {
+      "reviewProcessName": "",
+      "description": "Description text for Activity Owner Group rule",
+      "active": "checked",
+      "defaultReviewer": "Admin_AT_FN Admin_AT_LN",
+      "addRulesFor": "Activity Owner Group",
+      "activityOwner": [
+        "Assignee Group"
+      ],
+      "reviewer": [
+        "Admin_AT_FN Admin_AT_LN"
+      ],
+      "reviewerMethod": "ANY"
+    }
+  }
+}

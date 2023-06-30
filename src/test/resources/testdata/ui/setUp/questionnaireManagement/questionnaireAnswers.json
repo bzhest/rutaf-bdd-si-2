@@ -1,0 +1,30 @@
+{
+  "defined": {
+    "dataToEnter": {
+      "currency": "AED",
+      "currencyAmount": "10",
+      "singleSelectValue": "Drop",
+      "multiSelectValue": "Drop",
+      "checkboxDefaultName": "Check",
+      "enhancedTextFirstNameField": "First Name",
+      "enhancedTextFirstNameValue": "Auto First Name",
+      "enhancedTextLastNameField": "Last Name",
+      "enhancedTextLastNameValue": "Auto Last Name",
+      "textEntryPlusTextField": "Text",
+      "textEntryPlusTextValue": "Some Text",
+      "textEntryPlusNumberField": "Number",
+      "textEntryPlusNumberValue": "100",
+      "numberValue": "200",
+      "textValue": "some text value",
+      "checked": "checked"
+    }
+  },
+  "enhancedText": {
+    "dataToEnter": {
+      "enhancedTextFirstNameField": "First Name",
+      "enhancedTextFirstNameValue": "Auto First Name",
+      "enhancedTextLastNameField": "Last Name",
+      "enhancedTextLastNameValue": "Auto Last Name"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "with mandatory details": {
+    "dataToEnter": {
+      "name": "",
+      "header": "",
+      "publishTo": "Unacknowledged Internal Users",
+      "effectiveDateTime": "12/12/2030",
+      "content": "Auto Test Content",
+      "frequency": {
+        "value": 1,
+        "unit": "Year"
+      }
+    }
+  },
+  "with mandatory details long name": {
+    "dataToEnter": {
+      "name": "maxlength",
+      "header": "",
+      "publishTo": "Unacknowledged Internal Users",
+      "effectiveDateTime": "12/12/2030",
+      "content": "Auto Test Content",
+      "frequency": {
+        "value": 1,
+        "unit": "Year"
+      }
+    }
+  }
+}

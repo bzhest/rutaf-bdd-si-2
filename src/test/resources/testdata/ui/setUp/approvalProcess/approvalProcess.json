@@ -1,0 +1,106 @@
+{
+  "approval process with required fields": {
+    "dataToEnter": {
+      "name": "",
+      "description": "",
+      "type": "APPROVAL",
+      "status": "Active",
+      "approverProcessRules": {
+        "approvers": [],
+        "coverage": [],
+        "method": "ALL"
+      },
+      "approvers": {
+        "email": "admin.username",
+        "name": "Admin_AT_FN Admin_AT_LN"
+      }
+    }
+  },
+  "approval process with all fields inactive": {
+    "dataToEnter": {
+      "name": "",
+      "description": "",
+      "type": "APPROVAL",
+      "status": "Inactive",
+      "approverProcessRules": {
+        "rule": "Activity Owner",
+        "approvers": [
+          {
+            "users": [
+              {
+                "email": "admin.username",
+                "name": "Admin_AT_FN Admin_AT_LN"
+              }
+            ]
+          }
+        ],
+        "coverage": [
+          "assignee.username"
+        ],
+        "method": "INSEQUENCE"
+      },
+      "approvers": {
+        "email": "admin.username",
+        "name": "Admin_AT_FN Admin_AT_LN"
+      }
+    }
+  },
+  "Automation Approval Process": {
+    "dataToEnter": {
+      "name": "Automation Approval Process",
+      "description": "Description",
+      "type": "APPROVAL",
+      "status": "Active",
+      "approverProcessRules": {
+        "rule": "Activity Owner",
+        "approvers": [
+          {
+            "users": [
+              {
+                "email": "admin.username",
+                "name": "Admin_AT_FN Admin_AT_LN"
+              }
+            ]
+          }
+        ],
+        "coverage": [
+          "Admin_AT_FN Admin_AT_LN"
+        ],
+        "method": "ALL"
+      },
+      "approvers": {
+        "email": "admin.username",
+        "name": "Admin_AT_FN Admin_AT_LN"
+      }
+    }
+  },
+  "approval process with group": {
+    "dataToEnter": {
+      "name": "",
+      "description": "",
+      "type": "APPROVAL",
+      "status": "Active",
+      "approverProcessRules": {
+        "rule": "Activity Owner Group",
+        "approvers": [
+          {
+            "users": [
+              {
+                "email": "admin.username",
+                "name": "Admin_AT_FN Admin_AT_LN"
+              }
+            ]
+          }
+        ],
+        "coverage": [
+          "groupId"
+        ],
+        "method": "ALL"
+      },
+      "approvers": {
+        "email": "admin.username",
+        "name": "Admin_AT_FN Admin_AT_LN"
+      }
+    }
+  }
+}

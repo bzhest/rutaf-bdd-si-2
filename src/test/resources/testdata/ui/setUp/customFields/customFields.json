@@ -1,0 +1,488 @@
+{
+  "active with description and Text type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "TEXT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "active with random name and Text type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "TEXT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "active with random name and Date type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "DATE",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "active with random name and Number type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "NUMBER",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "inactive with description and Text type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "TEXT",
+      "description": "Auto Test description",
+      "status": "INACTIVE",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "draft with description and Text type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "TEXT",
+      "description": "Auto Test description",
+      "status": "DRAFT",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "draft with description and Date type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "DATE",
+      "description": "Auto Test description",
+      "status": "DRAFT",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "draft without description and Date type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "DATE",
+      "status": "DRAFT",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "draft with random name and Number type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "NUMBER",
+      "description": "Auto Test description",
+      "status": "DRAFT",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "inactive without description name and Number type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "NUMBER",
+      "status": "INACTIVE",
+      "dateCreated": "",
+      "lastUpdate": ""
+    }
+  },
+  "draft with random name and MultiType type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "description": "Auto Test description",
+      "status": "DRAFT",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": false,
+      "options": [
+        {
+          "option": "1",
+          "redFlag": true
+        },
+        {
+          "option": "2",
+          "redFlag": true
+        },
+        {
+          "option": "3",
+          "redFlag": true
+        }
+      ]
+    }
+  },
+  "draft with random name and SingleSelect type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "SINGLE_SELECT",
+      "description": "Auto Test description",
+      "status": "DRAFT",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": false,
+      "options": [
+        {
+          "option": "1",
+          "redFlag": true
+        },
+        {
+          "option": "2",
+          "redFlag": true
+        },
+        {
+          "option": "3",
+          "redFlag": true
+        }
+      ]
+    }
+  },
+  "active with description and 10 options red flag true and SingleSelect type": {
+    "dataToEnter": {
+      "name": "",
+      "required": false,
+      "type": "SINGLE_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": false,
+      "options": [
+        {
+          "option": "1",
+          "redFlag": true
+        },
+        {
+          "option": "2",
+          "redFlag": true
+        },
+        {
+          "option": "3",
+          "redFlag": true
+        },
+        {
+          "option": "4",
+          "redFlag": true
+        },
+        {
+          "option": "5",
+          "redFlag": true
+        },
+        {
+          "option": "6",
+          "redFlag": true
+        },
+        {
+          "option": "7",
+          "redFlag": true
+        },
+        {
+          "option": "8",
+          "redFlag": true
+        },
+        {
+          "option": "9",
+          "redFlag": true
+        },
+        {
+          "option": "10",
+          "redFlag": true
+        }
+      ]
+    }
+  },
+  "draft with 500 symbols description and 11 options red flag false and MultiSelect type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "description": "FWVcNUY9qBdvzupW3xbWuY68znhP8dcqSpACZ52enrhM0yUuDoLPlwB5VOOu5iJLRqvuD5hEEH9P6xiRyH8KsNAGnzbp9NzM3ppmWq7VHzdYMxry12jLQYe2D64tGHtubTSkeHUZo1Okg4vD9J0FiX3Ns77y1who0GSnd0uIdbyc8RFrtxhM7L9ELiJ3IR3oUtiPiADfSbNyPnVl86XRlZRTrsnKHIZLUnYebSAxARPmPlXn7SVO1bTrtiR0ayPW0tdpbnfj86osy44ydoTKZ6K15Vk0ryL1sjKZMnAaY3Iddo9hfSFaW0oAjKh3eBoCD8CqSy2mviwsQxMHEVT3QzwQVaWAV3fwxjiFe1C0zhnlhR4ugaMLallFIJa05CKxrluQxbtvH0azPmlXD5U5n9hwCGE6gvapDlj5oembkrCxWh7eGGO8vua5ycjVBXcnjoniT90O5pDtU6f30URCX41AYIMAxcbaCqM8dhyWLC7SVSH6hfAF",
+      "status": "DRAFT",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": false,
+      "options": [
+        {
+          "option": "1",
+          "redFlag": false
+        },
+        {
+          "option": "2",
+          "redFlag": false
+        },
+        {
+          "option": "3",
+          "redFlag": false
+        },
+        {
+          "option": "4",
+          "redFlag": false
+        },
+        {
+          "option": "5",
+          "redFlag": false
+        },
+        {
+          "option": "6",
+          "redFlag": false
+        },
+        {
+          "option": "7",
+          "redFlag": false
+        },
+        {
+          "option": "8",
+          "redFlag": false
+        },
+        {
+          "option": "9",
+          "redFlag": false
+        },
+        {
+          "option": "10",
+          "redFlag": false
+        },
+        {
+          "option": "11",
+          "redFlag": false
+        }
+      ]
+    }
+  },
+  "active Multi Select type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": false,
+      "options": [
+        {
+          "option": "1",
+          "redFlag": true
+        },
+        {
+          "option": "2",
+          "redFlag": true
+        },
+        {
+          "option": "3",
+          "redFlag": true
+        }
+      ]
+    }
+  },
+  "active Single Select type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "SINGLE_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": false,
+      "options": [
+        {
+          "option": "1",
+          "redFlag": true
+        },
+        {
+          "option": "2",
+          "redFlag": true
+        },
+        {
+          "option": "3",
+          "redFlag": true
+        }
+      ]
+    }
+  },
+  "active Single Select type Map To country": {
+    "dataToEnter": {
+      "name": "",
+      "type": "SINGLE_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": true,
+      "options": [
+        {
+          "option": "COUNTRY"
+        }
+      ]
+    }
+  },
+  "active Multi Select type Map To country": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": true,
+      "options": [
+        {
+          "option": "COUNTRY"
+        }
+      ]
+    }
+  },
+  "inactive MultiSelect type Map To country without description": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "status": "INACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": true,
+      "options": [
+        {
+          "option": "COUNTRY"
+        }
+      ]
+    }
+  },
+  "active SingleSelect type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "SINGLE_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": false,
+      "options": [
+        {
+          "option": "1",
+          "redFlag": true
+        },
+        {
+          "option": "2",
+          "redFlag": true
+        },
+        {
+          "option": "3",
+          "redFlag": true
+        }
+      ]
+    }
+  },
+  "active MultiSelect type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": false,
+      "options": [
+        {
+          "option": "1",
+          "redFlag": true
+        },
+        {
+          "option": "2",
+          "redFlag": true
+        },
+        {
+          "option": "3",
+          "redFlag": true
+        }
+      ]
+    }
+  },
+  "active SingleSelect type map to Country": {
+    "dataToEnter": {
+      "name": "",
+      "type": "SINGLE_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": true,
+      "options": [
+        {
+          "option": "COUNTRY"
+        }
+      ]
+    }
+  },
+  "active SingleSelect type map to Commodity Type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "SINGLE_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": true,
+      "options": [
+        {
+          "option": "COMMODITY_TYPE"
+        }
+      ]
+    }
+  },
+  "active MultiSelect type map to Risk Tier": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": true,
+      "options": [
+        {
+          "option": "RISK_TIER"
+        }
+      ]
+    }
+  },
+  "active MultiSelect type map to Region": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": true,
+      "options": [
+        {
+          "option": "REGION"
+        }
+      ]
+    }
+  },
+  "active MultiSelect type map to Industry Type": {
+    "dataToEnter": {
+      "name": "",
+      "type": "MULTI_SELECT",
+      "description": "Auto Test description",
+      "status": "ACTIVE",
+      "dateCreated": "",
+      "lastUpdate": "",
+      "usePredefinedValues": true,
+      "options": [
+        {
+          "option": "INDUSTRY_TYPE"
+        }
+      ]
+    }
+  }
+}

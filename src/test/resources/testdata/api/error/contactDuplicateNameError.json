@@ -1,0 +1,13 @@
+{
+  "responseCode": 400,
+  "message": "Bad Request",
+  "errors": [
+    {
+      "code": "SI-ERR-011",
+      "message": "name already exists",
+      "source": "ContactWcOtherNameService",
+      "affectedQuestions": null,
+      "field": "name"
+    }
+  ]
+}

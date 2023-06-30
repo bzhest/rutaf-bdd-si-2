@@ -1,0 +1,10 @@
+{
+  "Valid Range": {
+    "request": {
+      "name": "Low",
+      "min": "0.1111111111",
+      "max": "0.9999999999",
+      "color": "#12abef"
+    }
+  }
+}

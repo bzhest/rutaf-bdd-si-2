@@ -1,0 +1,82 @@
+{
+  "with complete details": {
+    "dataToEnter": {
+      "name": "toBeReplaced",
+      "region": "toBeReplaced",
+      "country": "toBeReplaced",
+      "dateCreated": "toBeReplaced",
+      "status": "Active"
+    }
+  },
+  "with required details": {
+    "dataToEnter": {
+      "name": "toBeReplaced",
+      "dateCreated": "toBeReplaced",
+      "status": "Active"
+    }
+  },
+  "with details for edit": {
+    "dataToEnter": {
+      "name": "Edit_Name",
+      "region": "toBeReplaced",
+      "country": "toBeReplaced",
+      "dateCreated": "toBeReplaced",
+      "status": "Active"
+    }
+  },
+  "with MyDivision name": {
+    "dataToEnter": {
+      "name": "MyDivision",
+      "status": "Active"
+    }
+  },
+  "with MyEntity name": {
+    "dataToEnter": {
+      "name": "MyEntity",
+      "status": "Active"
+    }
+  },
+  "with MyOrganisation name": {
+    "dataToEnter": {
+      "name": "MyOrganisation",
+      "status": "Active"
+    }
+  },
+  "with Operations name": {
+    "dataToEnter": {
+      "name": "Operations",
+      "status": "Active"
+    }
+  },
+  "with random data": {
+    "dataToEnter": {
+      "name": "RFG NEW",
+      "localName": "toBeReplaced",
+      "region": "toBeReplaced",
+      "country": "toBeReplaced",
+      "phoneNumber": "toBeReplaced",
+      "fax": "toBeReplaced",
+      "description": "toBeReplaced",
+      "addressLine": "toBeReplaced",
+      "city": "toBeReplaced",
+      "zip": "toBeReplaced",
+      "state": "toBeReplaced"
+    }
+  },
+  "with required data": {
+    "dataToEnter": {
+      "name": "toBeReplaced"
+    }
+  },
+  "with Empty Data name": {
+    "dataToEnter": {
+      "name": "Empty Data"
+    }
+  },
+  "with MyDepartment name": {
+    "dataToEnter": {
+      "name": "MyDepartment",
+      "status": "Active"
+    }
+  }
+}

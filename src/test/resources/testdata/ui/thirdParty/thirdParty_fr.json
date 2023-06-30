@@ -1,0 +1,120 @@
+{
+  "with attached file": {
+    "dataToEnter": {
+      "name": "VIETNAM ELECTRICITY",
+      "country": "Vietnam",
+      "attachments": [
+        {
+          "filename": "TestFileName.png",
+          "description": "Description du fichier d'essai",
+          "mimeType": "image/png",
+          "fileSize": 0,
+          "isFinal": true
+        }
+      ]
+    }
+  },
+  "with country in Country Checklist": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Australia"
+    }
+  },
+  "workflowGroupUkraineOrganizationWithApprover": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group Organization with Approver"
+    }
+  },
+  "with random ID name": {
+    "dataToEnter": {
+      "name": "",
+      "country": "China"
+    }
+  },
+  "with questionnaire workflow": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Norway",
+      "workflowGroup": "Auto Questionnaire"
+    }
+  },
+  "workflowGroupUkraineIndividual": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group Individual"
+    }
+  },
+  "workflowGroupUkraineIndividualWithApprover": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group Individual with Approver"
+    }
+  },
+  "with Complete Details": {
+    "dataToEnter": {
+      "referenceNo": "",
+      "name": "",
+      "companyType": "Corporation",
+      "organisationSize": "1-10 employees",
+      "dateOfIncorporation": "TODAY",
+      "responsibleParty": "Assignee_AT_FN Assignee_AT_LN",
+      "division": "Operations",
+      "workflowGroup": "Auto Workflow Group Individual",
+      "currency": "AED United Arab Emirates dirham",
+      "industryType": "Accident & Health Insurance",
+      "businessCategory": "Property & Structure",
+      "revenue": "toBeReplaced",
+      "liquidationDate": "TODAY",
+      "affiliation": "State Owned Entity",
+      "spendCategory": "Major spends supplier",
+      "designAgreement": "Design created by our organisation, IP shared with supplier",
+      "relationshipVisibility": "Products rebranded from Original Equipment Manufacturer",
+      "commodityType": "toBeReplaced",
+      "sourcingMethod": "Directly sourced with contract in place",
+      "sourcingType": "Multiple sources available",
+      "productImpact": "Alternate sources require qualification process",
+      "bankName": "Test Bank Name",
+      "accountNo": "Test Account No.",
+      "branchName": "Test Branch Name",
+      "bankAddressLine": "Test Address Line",
+      "bankCity": "Test City",
+      "bankCountry": "United States",
+      "addressLine": "Test Address Line",
+      "city": "Test City",
+      "zipCode": "Test Zip/Postal code",
+      "stateProvince": "Test State / Province",
+      "region": "toBeReplaced",
+      "country": "",
+      "phoneNumber": "380630000000",
+      "fax": "Contact Fax",
+      "website": "www.xxxx.com",
+      "emailAddress": "test@email.com",
+      "description": "Test Description"
+    }
+  },
+  "workflowGroupUkraine": {
+    "dataToEnter": {
+      "name": "",
+      "country": "Ukraine",
+      "workflowGroup": "Auto Workflow Group"
+    }
+  },
+  "Supplier_External_User DO NOT DELETE": {
+    "dataToEnter": {
+      "name": "Supplier_External_User DO NOT DELETE",
+      "country": "Afghanistan",
+      "responsibleParty": "Questionnaire_Approver_AT_FN Quest_Appr_AT_LN"
+    }
+  },
+  "Supplier_Internal_User DO NOT DELETE": {
+    "dataToEnter": {
+      "name": "Supplier_Internal_User DO NOT DELETE",
+      "country": "Afghanistan",
+      "responsibleParty": "Questionnaire_Approver_AT_FN Quest_Appr_AT_LN"
+    }
+  }
+}

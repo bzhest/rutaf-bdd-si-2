@@ -1,0 +1,105 @@
+{
+  "Self-Service USERS Get Process Id Status OK 1-Suc 0-Err Expected Response Schema": {
+    "response": {
+      "message": "200(OK) The request was successful.",
+      "data": {
+        "processId": "",
+        "filename": "",
+        "meta": {
+          "filename": "",
+          "fileSize": -1,
+          "location": ""
+        },
+        "uploadTime": "",
+        "uploadDate": "",
+        "status": "COMPLETED",
+        "relatedFilesStatus": null,
+        "errors": null,
+        "successResponseFile": {
+          "filename": "",
+          "fileSize": -1,
+          "location": ""
+        },
+        "errorResponseFile": null,
+        "numberOfRecords": 1,
+        "recordProcessed": 1,
+        "recordWithErrors": 0,
+        "triggeredBy": "rddcentre.admin.np@refinitiv.com",
+        "entityId": null,
+        "childReferenceId": null,
+        "entityType": null,
+        "processType": "USER"
+      }
+    }
+  },
+  "Self-Service USERS Get Process Id Status OK 0-Suc 1-Err Expected Response Schema": {
+    "response": {
+      "message": "200(OK) The request was successful.",
+      "data": {
+        "processId": "",
+        "filename": "",
+        "meta": {
+          "filename": "",
+          "fileSize": -1,
+          "location": ""
+        },
+        "uploadTime": "",
+        "uploadDate": "",
+        "status": "COMPLETED",
+        "relatedFilesStatus": null,
+        "errors": null,
+        "successResponseFile": null,
+        "errorResponseFile": {
+          "filename": "",
+          "fileSize": -1,
+          "location": ""
+        },
+        "numberOfRecords": 1,
+        "recordProcessed": 0,
+        "recordWithErrors": 1,
+        "triggeredBy": "rddcentre.admin.np@refinitiv.com",
+        "entityId": null,
+        "childReferenceId": null,
+        "entityType": null,
+        "processType": "USER"
+      }
+    }
+  },
+  "Self-Service USERS Get Process Id Status OK 1-Suc 1-Err Expected Response Schema": {
+    "response": {
+      "message": "200(OK) The request was successful.",
+      "data": {
+        "processId": "",
+        "filename": "",
+        "meta": {
+          "filename": "",
+          "fileSize": -1,
+          "location": ""
+        },
+        "uploadTime": "",
+        "uploadDate": "",
+        "status": "COMPLETED",
+        "relatedFilesStatus": null,
+        "errors": null,
+        "successResponseFile": {
+          "filename": "",
+          "fileSize": -1,
+          "location": ""
+        },
+        "errorResponseFile": {
+          "filename": "",
+          "fileSize": -1,
+          "location": ""
+        },
+        "numberOfRecords": 2,
+        "recordProcessed": 1,
+        "recordWithErrors": 1,
+        "triggeredBy": "rddcentre.admin.np@refinitiv.com",
+        "entityId": null,
+        "childReferenceId": null,
+        "entityType": null,
+        "processType": "USER"
+      }
+    }
+  }
+}

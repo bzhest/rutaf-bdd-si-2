@@ -1,0 +1,13 @@
+{
+  "responseCode": 400,
+  "message": "Bad Request",
+  "errors": [
+    {
+      "code": "SI-ERR-005",
+      "message": "name or nameType is a required field",
+      "source": "SupplierWcOtherNameService",
+      "affectedQuestions": null,
+      "field": "name or nameType"
+    }
+  ]
+}

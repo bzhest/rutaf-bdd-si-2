@@ -1,0 +1,8 @@
+{
+  "searchTerm": "#string",
+  "searchId": "#string",
+  "profileCount": "#number",
+  "notificationAvailable": "#boolean",
+  "lastScreenDate": "#number",
+  "active": "#boolean"
+}

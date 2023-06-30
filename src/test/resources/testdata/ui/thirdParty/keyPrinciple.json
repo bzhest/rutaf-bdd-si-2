@@ -1,0 +1,36 @@
+{
+  "Key Principle mandatory fields": {
+    "dataToEnter": {
+      "firstName": "Key",
+      "lastName": "Principle",
+      "country": "Ukraine"
+    }
+  },
+  "Key Principle all fields": {
+    "dataToEnter": {
+      "title": "Test title",
+      "firstName": "Key",
+      "lastName": "Principle",
+      "email": "testEmail@test.com",
+      "localLanguageName": "local language",
+      "addressLine": "Test address",
+      "zip": "90210",
+      "city": "Gotham",
+      "state": "Gotham state",
+      "country": "Ukraine"
+    }
+  },
+  "Key Principle update all fields": {
+    "dataToEnter": {
+      "title": "Test update title",
+      "firstName": "Key update",
+      "lastName": "Principle update",
+      "localLanguageName": "local update language",
+      "addressLine": "Test update address",
+      "zip": "11111",
+      "city": "Gotham update",
+      "state": "Gotham update state",
+      "country": "China"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "responseCode": 400,
+  "message": "Bad Request",
+  "errors": [
+    {
+      "code": "SI-ERR-005",
+      "message": "name is a required field",
+      "source": null,
+      "affectedQuestions": null,
+      "field": "name"
+    }
+  ]
+}

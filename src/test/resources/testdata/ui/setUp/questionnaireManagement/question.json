@@ -1,0 +1,2998 @@
+{
+  "Boolean Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "Boolean",
+      "helpText": "Boolean",
+      "choices": [
+        {
+          "choice": "Yes",
+          "score": "0"
+        },
+        {
+          "choice": "No",
+          "score": "0"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Yes"
+        },
+        {
+          "isChoiceIs": "No"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Boolean Responder use": {
+    "dataToEnter": {
+      "froalaText": "Boolean",
+      "helpText": "Boolean",
+      "choices": [
+        {
+          "choice": "Yes",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "No",
+          "score": "0",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Yes"
+        },
+        {
+          "isChoiceIs": "No"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Boolean question configuration": {
+    "dataToEnter": {
+      "froalaText": "Boolean question configuration froala text",
+      "helpText": "Boolean question configuration help text",
+      "choices": [
+        {
+          "choice": "uaYVocz6yYOcE69TbsPJjzWbsVbpAorSF3cT05IWm9tV8A13RqXiZ1CebPLbXB3dv8Pl8hmyPkelGf7LqWNMQw5ZtwLLZaUxBl0iHnx16JR2gpRM9QOKd3gGcncczoNIVGCUlzyTyaga91FGjZ1dNdppP6uFFP1IzH7xe0gKiA7UrSWkCHyjvH0AldMvb6t0FoM4jJhkNqOwnXPXSHrXgoSbKP2FcHx1lYxA1iynmlHVs5knZ6tHmHTIAA1EW1JIo02rgbMC46zRUK3F5BKZpNWHXPRjqygEj76RIffml5Uf53p2RV3jKaMZreQAl5klcgKRpwFCs8plOCXeE0Q6r2Oh3KKsjXbOi70AgScuPMeZQcDxp7Q82emVrF8JSqC7wMz0KzvIlIiYbnCjgBzH9OcHpHAANj36qbdTyZfM3QYZxktSZF55gGtzs6OmVEHdZDMUNRklnblxbKXukXIZThLV379StFQqspZUlbxJCvitbctSo3hK",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "second",
+          "score": "1",
+          "isRedFlag": true
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "uaYVocz6yYOcE69TbsPJjzWbsVbpAorSF3cT05IWm9tV8A13RqXiZ1CebPLbXB3dv8Pl8hmyPkelGf7LqWNMQw5ZtwLLZaUxBl0iHnx16JR2gpRM9QOKd3gGcncczoNIVGCUlzyTyaga91FGjZ1dNdppP6uFFP1IzH7xe0gKiA7UrSWkCHyjvH0AldMvb6t0FoM4jJhkNqOwnXPXSHrXgoSbKP2FcHx1lYxA1iynmlHVs5knZ6tHmHTIAA1EW1JIo02rgbMC46zRUK3F5BKZpNWHXPRjqygEj76RIffml5Uf53p2RV3jKaMZreQAl5klcgKRpwFCs8plOCXeE0Q6r2Oh3KKsjXbOi70AgScuPMeZQcDxp7Q82emVrF8JSqC7wMz0KzvIlIiYbnCjgBzH9OcHpHAANj36qbdTyZfM3QYZxktSZF55gGtzs6OmVEHdZDMUNRklnblxbKXukXIZThLV379StFQqspZUlbxJCvitbctSo3hK"
+        },
+        {
+          "isChoiceIs": "second"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Boolean question configuration Completed Data": {
+    "dataToEnter": {
+      "froalaText": "Boolean question configuration Completed Data froala text",
+      "helpText": "Boolean question configuration Completed Data help text",
+      "choices": [
+        {
+          "choice": "first",
+          "score": "2",
+          "isRedFlag": false
+        },
+        {
+          "choice": "uaYVocz6yYOcE69TbsPJjzWbsVbpAorSF3cT05IWm9tV8A13RqXiZ1CebPLbXB3dv8Pl8hmyPkelGf7LqWNMQw5ZtwLLZaUxBl0iHnx16JR2gpRM9QOKd3gGcncczoNIVGCUlzyTyaga91FGjZ1dNdppP6uFFP1IzH7xe0gKiA7UrSWkCHyjvH0AldMvb6t0FoM4jJhkNqOwnXPXSHrXgoSbKP2FcHx1lYxA1iynmlHVs5knZ6tHmHTIAA1EW1JIo02rgbMC46zRUK3F5BKZpNWHXPRjqygEj76RIffml5Uf53p2RV3jKaMZreQAl5klcgKRpwFCs8plOCXeE0Q6r2Oh3KKsjXbOi70AgScuPMeZQcDxp7Q82emVrF8JSqC7wMz0KzvIlIiYbnCjgBzH9OcHpHAANj36qbdTyZfM3QYZxktSZF55gGtzs6OmVEHdZDMUNRklnblxbKXukXIZThLV379StFQqspZUlbxJCvitbctSo3hK",
+          "score": "1234",
+          "isRedFlag": true
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "branchQuestion": [
+        {
+          "isChoiceIs": "first",
+          "tabName": "Tab One"
+        },
+        {
+          "isChoiceIs": "uaYVocz6yYOcE69TbsPJjzWbsVbpAorSF3cT05IWm9tV8A13RqXiZ1CebPLbXB3dv8Pl8hmyPkelGf7LqWNMQw5ZtwLLZaUxBl0iHnx16JR2gpRM9QOKd3gGcncczoNIVGCUlzyTyaga91FGjZ1dNdppP6uFFP1IzH7xe0gKiA7UrSWkCHyjvH0AldMvb6t0FoM4jJhkNqOwnXPXSHrXgoSbKP2FcHx1lYxA1iynmlHVs5knZ6tHmHTIAA1EW1JIo02rgbMC46zRUK3F5BKZpNWHXPRjqygEj76RIffml5Uf53p2RV3jKaMZreQAl5klcgKRpwFCs8plOCXeE0Q6r2Oh3KKsjXbOi70AgScuPMeZQcDxp7Q82emVrF8JSqC7wMz0KzvIlIiYbnCjgBzH9OcHpHAANj36qbdTyZfM3QYZxktSZF55gGtzs6OmVEHdZDMUNRklnblxbKXukXIZThLV379StFQqspZUlbxJCvitbctSo3hK",
+          "tabName": "New Tab"
+        }
+      ]
+    }
+  },
+  "Boolean question configuration with Level 1 reviewer": {
+    "dataToEnter": {
+      "froalaText": "Boolean question configuration with Level 1 reviewer froala text",
+      "helpText": "Boolean question configuration with Level 1 reviewer help text",
+      "choices": [
+        {
+          "choice": "first",
+          "score": "2"
+        },
+        {
+          "choice": "uaYVocz6yYOcE69TbsPJjzWbsVbpAorSF3cT05IWm9tV8A13RqXiZ1CebPLbXB3dv8Pl8hmyPkelGf7LqWNMQw5ZtwLLZaUxBl0iHnx16JR2gpRM9QOKd3gGcncczoNIVGCUlzyTyaga91FGjZ1dNdppP6uFFP1IzH7xe0gKiA7UrSWkCHyjvH0AldMvb6t0FoM4jJhkNqOwnXPXSHrXgoSbKP2FcHx1lYxA1iynmlHVs5knZ6tHmHTIAA1EW1JIo02rgbMC46zRUK3F5BKZpNWHXPRjqygEj76RIffml5Uf53p2RV3jKaMZreQAl5klcgKRpwFCs8plOCXeE0Q6r2Oh3KKsjXbOi70AgScuPMeZQcDxp7Q82emVrF8JSqC7wMz0KzvIlIiYbnCjgBzH9OcHpHAANj36qbdTyZfM3QYZxktSZF55gGtzs6OmVEHdZDMUNRklnblxbKXukXIZThLV379StFQqspZUlbxJCvitbctSo3hK",
+          "score": "1234"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "first",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "uaYVocz6yYOcE69TbsPJjzWbsVbpAorSF3cT05IWm9tV8A13RqXiZ1CebPLbXB3dv8Pl8hmyPkelGf7LqWNMQw5ZtwLLZaUxBl0iHnx16JR2gpRM9QOKd3gGcncczoNIVGCUlzyTyaga91FGjZ1dNdppP6uFFP1IzH7xe0gKiA7UrSWkCHyjvH0AldMvb6t0FoM4jJhkNqOwnXPXSHrXgoSbKP2FcHx1lYxA1iynmlHVs5knZ6tHmHTIAA1EW1JIo02rgbMC46zRUK3F5BKZpNWHXPRjqygEj76RIffml5Uf53p2RV3jKaMZreQAl5klcgKRpwFCs8plOCXeE0Q6r2Oh3KKsjXbOi70AgScuPMeZQcDxp7Q82emVrF8JSqC7wMz0KzvIlIiYbnCjgBzH9OcHpHAANj36qbdTyZfM3QYZxktSZF55gGtzs6OmVEHdZDMUNRklnblxbKXukXIZThLV379StFQqspZUlbxJCvitbctSo3hK",
+          "tabName": "New Tab"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Boolean question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "Boolean question configuration with Level 2 reviewer froala text",
+      "helpText": "Boolean question configuration with Level 2 reviewer help text",
+      "choices": [
+        {
+          "choice": "first",
+          "score": "2"
+        },
+        {
+          "choice": "uaYVocz6yYOcE69TbsPJjzWbsVbpAorSF3cT05IWm9tV8A13RqXiZ1CebPLbXB3dv8Pl8hmyPkelGf7LqWNMQw5ZtwLLZaUxBl0iHnx16JR2gpRM9QOKd3gGcncczoNIVGCUlzyTyaga91FGjZ1dNdppP6uFFP1IzH7xe0gKiA7UrSWkCHyjvH0AldMvb6t0FoM4jJhkNqOwnXPXSHrXgoSbKP2FcHx1lYxA1iynmlHVs5knZ6tHmHTIAA1EW1JIo02rgbMC46zRUK3F5BKZpNWHXPRjqygEj76RIffml5Uf53p2RV3jKaMZreQAl5klcgKRpwFCs8plOCXeE0Q6r2Oh3KKsjXbOi70AgScuPMeZQcDxp7Q82emVrF8JSqC7wMz0KzvIlIiYbnCjgBzH9OcHpHAANj36qbdTyZfM3QYZxktSZF55gGtzs6OmVEHdZDMUNRklnblxbKXukXIZThLV379StFQqspZUlbxJCvitbctSo3hK",
+          "score": "1234"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "branchQuestion": [
+        {
+          "isChoiceIs": "first",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "uaYVocz6yYOcE69TbsPJjzWbsVbpAorSF3cT05IWm9tV8A13RqXiZ1CebPLbXB3dv8Pl8hmyPkelGf7LqWNMQw5ZtwLLZaUxBl0iHnx16JR2gpRM9QOKd3gGcncczoNIVGCUlzyTyaga91FGjZ1dNdppP6uFFP1IzH7xe0gKiA7UrSWkCHyjvH0AldMvb6t0FoM4jJhkNqOwnXPXSHrXgoSbKP2FcHx1lYxA1iynmlHVs5knZ6tHmHTIAA1EW1JIo02rgbMC46zRUK3F5BKZpNWHXPRjqygEj76RIffml5Uf53p2RV3jKaMZreQAl5klcgKRpwFCs8plOCXeE0Q6r2Oh3KKsjXbOi70AgScuPMeZQcDxp7Q82emVrF8JSqC7wMz0KzvIlIiYbnCjgBzH9OcHpHAANj36qbdTyZfM3QYZxktSZF55gGtzs6OmVEHdZDMUNRklnblxbKXukXIZThLV379StFQqspZUlbxJCvitbctSo3hK",
+          "tabName": "New Tab"
+        }
+      ],
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "Checkbox Responder use": {
+    "dataToEnter": {
+      "froalaText": "Checkbox",
+      "helpText": "Checkbox",
+      "choices": [
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "Check"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "Checkbox Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "Checkbox",
+      "helpText": "Checkbox",
+      "choices": [
+        {
+          "choice": "Check",
+          "score": "0"
+        },
+        {
+          "choice": "Check",
+          "score": "0"
+        },
+        {
+          "choice": "Check",
+          "score": "0"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "Check"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Checkbox question configuration with 25 choices": {
+    "dataToEnter": {
+      "froalaText": "Checkbox question configuration froala text",
+      "helpText": "Checkbox question configuration help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "5",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "6",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "7",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "8",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "9",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "10",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "11",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "12",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "13",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "14",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "15",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "16",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "17",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "18",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "19",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "20",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "21",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "22",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "23",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "24",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "25",
+          "score": "5",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        },
+        {
+          "isChoiceIs": "6"
+        },
+        {
+          "isChoiceIs": "7"
+        },
+        {
+          "isChoiceIs": "8"
+        },
+        {
+          "isChoiceIs": "9"
+        },
+        {
+          "isChoiceIs": "10"
+        },
+        {
+          "isChoiceIs": "11"
+        },
+        {
+          "isChoiceIs": "12"
+        },
+        {
+          "isChoiceIs": "13"
+        },
+        {
+          "isChoiceIs": "14"
+        },
+        {
+          "isChoiceIs": "15"
+        },
+        {
+          "isChoiceIs": "16"
+        },
+        {
+          "isChoiceIs": "17"
+        },
+        {
+          "isChoiceIs": "18"
+        },
+        {
+          "isChoiceIs": "19"
+        },
+        {
+          "isChoiceIs": "20"
+        },
+        {
+          "isChoiceIs": "21"
+        },
+        {
+          "isChoiceIs": "22"
+        },
+        {
+          "isChoiceIs": "23"
+        },
+        {
+          "isChoiceIs": "24"
+        },
+        {
+          "isChoiceIs": "25"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "isCalculateHighestScoreOnly": true
+    }
+  },
+  "Checkbox question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "Checkbox question configuration with Level 2 reviewer froala text",
+      "helpText": "Checkbox question configuration with Level 2 reviewer help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1"
+        },
+        {
+          "choice": "2",
+          "score": "2"
+        },
+        {
+          "choice": "3",
+          "score": "3"
+        },
+        {
+          "choice": "4",
+          "score": "4"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false,
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "2",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "3",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "4",
+          "tabName": "New Tab"
+        }
+      ],
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "Checkbox question configuration": {
+    "dataToEnter": {
+      "froalaText": "Checkbox question configuration reviewer froala text",
+      "helpText": "Checkbox question configuration reviewer help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1"
+        },
+        {
+          "choice": "2",
+          "score": "2"
+        },
+        {
+          "choice": "3",
+          "score": "3"
+        },
+        {
+          "choice": "4",
+          "score": "1234"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false,
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        }
+      ]
+    }
+  },
+  "Checkbox question configuration with 25 choices bulk added": {
+    "dataToEnter": {
+      "froalaText": "Checkbox",
+      "helpText": "Checkbox",
+      "choices": [
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "5",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "6",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "7",
+          "score": "7",
+          "isRedFlag": false
+        },
+        {
+          "choice": "8",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "9",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "10",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "11",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "12",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "13",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "14",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "15",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "16",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "17",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "18",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "19",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "20",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "21",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "22",
+          "score": "22",
+          "isRedFlag": false
+        },
+        {
+          "choice": "23",
+          "score": "23",
+          "isRedFlag": false
+        },
+        {
+          "choice": "24",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "25",
+          "score": "1",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO"
+        },
+        {
+          "isChoiceIs": "5"
+        },
+        {
+          "isChoiceIs": "6"
+        },
+        {
+          "isChoiceIs": "7"
+        },
+        {
+          "isChoiceIs": "8"
+        },
+        {
+          "isChoiceIs": "9"
+        },
+        {
+          "isChoiceIs": "10"
+        },
+        {
+          "isChoiceIs": "11"
+        },
+        {
+          "isChoiceIs": "12"
+        },
+        {
+          "isChoiceIs": "13"
+        },
+        {
+          "isChoiceIs": "14"
+        },
+        {
+          "isChoiceIs": "15"
+        },
+        {
+          "isChoiceIs": "16"
+        },
+        {
+          "isChoiceIs": "17"
+        },
+        {
+          "isChoiceIs": "18"
+        },
+        {
+          "isChoiceIs": "19"
+        },
+        {
+          "isChoiceIs": "20"
+        },
+        {
+          "isChoiceIs": "21"
+        },
+        {
+          "isChoiceIs": "22"
+        },
+        {
+          "isChoiceIs": "23"
+        },
+        {
+          "isChoiceIs": "24"
+        },
+        {
+          "isChoiceIs": "25"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "Checkbox question configuration with 6 choices bulk added": {
+    "dataToEnter": {
+      "froalaText": "Checkbox",
+      "helpText": "Checkbox",
+      "choices": [
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Check",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "5",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "6",
+          "score": "1234",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "Check"
+        },
+        {
+          "isChoiceIs": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO"
+        },
+        {
+          "isChoiceIs": "5"
+        },
+        {
+          "isChoiceIs": "6"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "Question with 3 Choices": {
+    "dataToEnter": {
+      "choices": [
+        {
+          "choice": "Check 1",
+          "score": "0"
+        },
+        {
+          "choice": "Check 2",
+          "score": "25"
+        },
+        {
+          "choice": "Check 3",
+          "score": "50"
+        }
+      ]
+    }
+  },
+  "Question with 4 Choices": {
+    "dataToEnter": {
+      "choices": [
+        {
+          "choice": "Check 1",
+          "score": "0"
+        },
+        {
+          "choice": "Check 2",
+          "score": "25"
+        },
+        {
+          "choice": "Check 3",
+          "score": "50"
+        },
+        {
+          "choice": "Check 4",
+          "score": "3"
+        }
+      ]
+    }
+  },
+  "Multi Choices Question with 4 Choices and branching": {
+    "dataToEnter": {
+      "froalaText": "Multi Choices",
+      "helpText": "Multi Choices",
+      "choices": [
+        {
+          "choice": "Check 1",
+          "score": "0"
+        },
+        {
+          "choice": "Check 2",
+          "score": "25"
+        },
+        {
+          "choice": "Check 3",
+          "score": "50"
+        },
+        {
+          "choice": "Check 4",
+          "score": "3"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Check 1",
+          "tabName": "New Tab",
+          "question": "Text"
+        },
+        {
+          "isChoiceIs": "Check 2",
+          "tabName": "New Tab",
+          "question": "Text"
+        },
+        {
+          "isChoiceIs": "Check 3",
+          "tabName": "New Tab",
+          "question": "Text"
+        },
+        {
+          "isChoiceIs": "Check 4",
+          "tabName": "New Tab",
+          "question": "Text"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "SingleSelect with Custom Field values": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect configs",
+      "helpText": "SingleSelect configs",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "3",
+          "score": "0",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "MultiSelect with Custom Field values": {
+    "dataToEnter": {
+      "froalaText": "Multi Choices",
+      "helpText": "Multi Choices",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "3",
+          "score": "0",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "SingleSelect with mapped values": {
+    "dataToEnter": {
+      "froalaText": "Multi Choices",
+      "helpText": "Multi Choices",
+      "choices": [],
+      "branchQuestion": [],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "MultiSelect with mapped values": {
+    "dataToEnter": {
+      "froalaText": "Multi Choices",
+      "helpText": "Multi Choices",
+      "choices": [],
+      "branchQuestion": [],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "Multi Choices with Custom Field updated values": {
+    "dataToEnter": {
+      "froalaText": "Multi Choices",
+      "helpText": "Multi Choices",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "10",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "20",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "40",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1",
+          "tabName": "New Tab",
+          "question": "Text"
+        },
+        {
+          "isChoiceIs": "2",
+          "tabName": "New Tab",
+          "question": "Text"
+        },
+        {
+          "isChoiceIs": "3",
+          "tabName": "New Tab",
+          "question": "Text"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "Text Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "Text",
+      "helpText": "Text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Text Responder use": {
+    "dataToEnter": {
+      "froalaText": "Text",
+      "helpText": "Text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Text question configuration": {
+    "dataToEnter": {
+      "froalaText": "Text question configuration froala text",
+      "helpText": "Text question configuration help text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Text question configuration mandatory": {
+    "dataToEnter": {
+      "froalaText": "Text question configuration froala text",
+      "helpText": "Text question configuration help text",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "Text question configuration mandatory Reviewer Use": {
+    "dataToEnter": {
+      "froalaText": "Text question configuration froala text",
+      "helpText": "Text question configuration help text",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Currency Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "Currency",
+      "helpText": "Currency",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Currency Responder use": {
+    "dataToEnter": {
+      "froalaText": "Currency",
+      "helpText": "Currency",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Currency question configuration mandatory": {
+    "dataToEnter": {
+      "froalaText": "Currency question configuration froala text mandatory",
+      "helpText": "Currency question configuration help text mandatory",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "Currency question configuration": {
+    "dataToEnter": {
+      "froalaText": "Currency question configuration froala text",
+      "helpText": "Currency question configuration help text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Currency question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "Currency question configuration with Level 2 reviewer froala text",
+      "helpText": "Currency question configuration with Level 2 reviewer help text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "Number Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "Number",
+      "helpText": "Number",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Number Responder use": {
+    "dataToEnter": {
+      "froalaText": "Number",
+      "helpText": "Number",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Number question configuration": {
+    "dataToEnter": {
+      "froalaText": "Number question configuration froala text",
+      "helpText": "Number question configuration help text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Number question configuration mandatory": {
+    "dataToEnter": {
+      "froalaText": "Number question configuration froala text",
+      "helpText": "Number question configuration help text",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "Number question configuration with Level 1 reviewer": {
+    "dataToEnter": {
+      "froalaText": "Number question configuration with Level 1 reviewer froala text",
+      "helpText": "Number question configuration with Level 1 reviewer help text",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Date Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "Date",
+      "helpText": "Date",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Date Responder use": {
+    "dataToEnter": {
+      "froalaText": "Date",
+      "helpText": "Date",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Date question configuration": {
+    "dataToEnter": {
+      "froalaText": "Date question configuration froala text",
+      "helpText": "Date question configuration help text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Date question configuration mandatory": {
+    "dataToEnter": {
+      "froalaText": "Date question configuration froala text",
+      "helpText": "Date question configuration help text",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "Date question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "Date question configuration with Level 2 reviewer froala text",
+      "helpText": "Date question configuration with Level 2 reviewer help text",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "Multiple Choice Responder use": {
+    "dataToEnter": {
+      "froalaText": "Multiple Choice",
+      "helpText": "Multiple Choice",
+      "choices": [
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "Option"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Multiple Choice Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "Multiple Choice",
+      "helpText": "Multiple Choice",
+      "choices": [
+        {
+          "choice": "Option",
+          "score": "0"
+        },
+        {
+          "choice": "Option",
+          "score": "0"
+        },
+        {
+          "choice": "Option",
+          "score": "0"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "Option"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Multiple Choice question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "Multiple Choice question configuration with Level 2 reviewer froala text",
+      "helpText": "Multiple Choice question configuration with Level 2 reviewer help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1"
+        },
+        {
+          "choice": "2",
+          "score": "2"
+        },
+        {
+          "choice": "3",
+          "score": "3"
+        },
+        {
+          "choice": "4",
+          "score": "4"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "2",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "3",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "4",
+          "tabName": "New Tab"
+        }
+      ],
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "Multiple Choice question configuration": {
+    "dataToEnter": {
+      "froalaText": "Multiple Choice question configuration reviewer froala text",
+      "helpText": "Multiple Choice question configuration reviewer help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1"
+        },
+        {
+          "choice": "2",
+          "score": "2"
+        },
+        {
+          "choice": "3",
+          "score": "3"
+        },
+        {
+          "choice": "4",
+          "score": "1234"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        }
+      ]
+    }
+  },
+  "Multiple Choice question configuration with 25 choices": {
+    "dataToEnter": {
+      "froalaText": "Multiple Choice question configuration froala text",
+      "helpText": "Multiple Choice question configuration help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "5",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "6",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "7",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "8",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "9",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "10",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "11",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "12",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "13",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "14",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "15",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "16",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "17",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "18",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "19",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "20",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "21",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "22",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "23",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "24",
+          "score": "5",
+          "isRedFlag": false
+        },
+        {
+          "choice": "25",
+          "score": "5",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        },
+        {
+          "isChoiceIs": "6"
+        },
+        {
+          "isChoiceIs": "7"
+        },
+        {
+          "isChoiceIs": "8"
+        },
+        {
+          "isChoiceIs": "9"
+        },
+        {
+          "isChoiceIs": "10"
+        },
+        {
+          "isChoiceIs": "11"
+        },
+        {
+          "isChoiceIs": "12"
+        },
+        {
+          "isChoiceIs": "13"
+        },
+        {
+          "isChoiceIs": "14"
+        },
+        {
+          "isChoiceIs": "15"
+        },
+        {
+          "isChoiceIs": "16"
+        },
+        {
+          "isChoiceIs": "17"
+        },
+        {
+          "isChoiceIs": "18"
+        },
+        {
+          "isChoiceIs": "19"
+        },
+        {
+          "isChoiceIs": "20"
+        },
+        {
+          "isChoiceIs": "21"
+        },
+        {
+          "isChoiceIs": "22"
+        },
+        {
+          "isChoiceIs": "23"
+        },
+        {
+          "isChoiceIs": "24"
+        },
+        {
+          "isChoiceIs": "25"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "Multiple Choice question configuration with 6 choices bulk added": {
+    "dataToEnter": {
+      "froalaText": "Multiple Choice",
+      "helpText": "Multiple Choice",
+      "choices": [
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "5",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "6",
+          "score": "1234",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO"
+        },
+        {
+          "isChoiceIs": "5"
+        },
+        {
+          "isChoiceIs": "6"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "Multiple Choice question configuration with 25 choices bulk added": {
+    "dataToEnter": {
+      "froalaText": "Multiple Choice",
+      "helpText": "Multiple Choice",
+      "choices": [
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Option",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "5",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "6",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "7",
+          "score": "7",
+          "isRedFlag": false
+        },
+        {
+          "choice": "8",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "9",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "10",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "11",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "12",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "13",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "14",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "15",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "16",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "17",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "18",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "19",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "20",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "21",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "22",
+          "score": "22",
+          "isRedFlag": false
+        },
+        {
+          "choice": "23",
+          "score": "23",
+          "isRedFlag": false
+        },
+        {
+          "choice": "24",
+          "score": "1",
+          "isRedFlag": false
+        },
+        {
+          "choice": "25",
+          "score": "1",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "Option"
+        },
+        {
+          "isChoiceIs": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO"
+        },
+        {
+          "isChoiceIs": "5"
+        },
+        {
+          "isChoiceIs": "6"
+        },
+        {
+          "isChoiceIs": "7"
+        },
+        {
+          "isChoiceIs": "8"
+        },
+        {
+          "isChoiceIs": "9"
+        },
+        {
+          "isChoiceIs": "10"
+        },
+        {
+          "isChoiceIs": "11"
+        },
+        {
+          "isChoiceIs": "12"
+        },
+        {
+          "isChoiceIs": "13"
+        },
+        {
+          "isChoiceIs": "14"
+        },
+        {
+          "isChoiceIs": "15"
+        },
+        {
+          "isChoiceIs": "16"
+        },
+        {
+          "isChoiceIs": "17"
+        },
+        {
+          "isChoiceIs": "18"
+        },
+        {
+          "isChoiceIs": "19"
+        },
+        {
+          "isChoiceIs": "20"
+        },
+        {
+          "isChoiceIs": "21"
+        },
+        {
+          "isChoiceIs": "22"
+        },
+        {
+          "isChoiceIs": "23"
+        },
+        {
+          "isChoiceIs": "24"
+        },
+        {
+          "isChoiceIs": "25"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "Heading Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "Heading",
+      "helpText": "Heading",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Heading Responder use": {
+    "dataToEnter": {
+      "froalaText": "Heading",
+      "helpText": "Heading",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Heading question configuration": {
+    "dataToEnter": {
+      "froalaText": "Heading question configuration froala text",
+      "helpText": "Heading question configuration help text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "Heading question configuration mandatory": {
+    "dataToEnter": {
+      "froalaText": "Heading question configuration froala text mandatory",
+      "helpText": "Heading question configuration help text mandatory",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "Heading question configuration with Level 1 reviewer": {
+    "dataToEnter": {
+      "froalaText": "Heading question configuration with Level 1 reviewer froala text",
+      "helpText": "Heading question configuration with Level 1 reviewer help text",
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "Heading question configuration mandatory Reviewer Use": {
+    "dataToEnter": {
+      "froalaText": "Heading question configuration froala text mandatory",
+      "helpText": "Heading question configuration help text mandatory",
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "MultiSelect Responder use": {
+    "dataToEnter": {
+      "froalaText": "MultiSelect",
+      "helpText": "MultiSelect",
+      "choices": [
+        {
+          "choice": "Drop",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Drop",
+          "score": "0",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Drop"
+        },
+        {
+          "isChoiceIs": "Drop"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "MultiSelect Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "MultiSelect",
+      "helpText": "MultiSelect",
+      "choices": [
+        {
+          "choice": "Drop",
+          "score": "0"
+        },
+        {
+          "choice": "Drop",
+          "score": "0"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Drop"
+        },
+        {
+          "isChoiceIs": "Drop"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "MultiSelect question configuration with 5 choices": {
+    "dataToEnter": {
+      "froalaText": "MultiSelect question configuration froala text",
+      "helpText": "MultiSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "5",
+          "score": "5",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "MultiSelect question configuration with 6 choices": {
+    "dataToEnter": {
+      "froalaText": "MultiSelect question configuration froala text",
+      "helpText": "MultiSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "0",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": false
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": false
+        },
+        {
+          "choice": "5",
+          "score": "5",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "0"
+        },
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "MultiSelect question configuration with 5 choices bulk added": {
+    "dataToEnter": {
+      "froalaText": "MultiSelect question configuration froala text",
+      "helpText": "MultiSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "Drop",
+          "score": "0"
+        },
+        {
+          "choice": "Drop",
+          "score": "0"
+        },
+        {
+          "choice": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO",
+          "score": "1"
+        },
+        {
+          "choice": "5",
+          "score": "0"
+        },
+        {
+          "choice": "6",
+          "score": "1234"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Drop"
+        },
+        {
+          "isChoiceIs": "Drop"
+        },
+        {
+          "isChoiceIs": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO"
+        },
+        {
+          "isChoiceIs": "5"
+        },
+        {
+          "isChoiceIs": "6"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "MultiSelect question configuration": {
+    "dataToEnter": {
+      "froalaText": "MultiSelect question configuration froala text",
+      "helpText": "MultiSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "0",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "5",
+          "score": "5",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "0"
+        },
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "isCalculateHighestScoreOnly": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "MultiSelect question configuration without attachment": {
+    "dataToEnter": {
+      "froalaText": "MultiSelect question configuration froala text",
+      "helpText": "MultiSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": true
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "isCalculateHighestScoreOnly": false
+    }
+  },
+  "MultiSelect question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "MultiSelect question configuration froala text",
+      "helpText": "MultiSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "0",
+          "score": "1234"
+        },
+        {
+          "choice": "1",
+          "score": "1234"
+        },
+        {
+          "choice": "2",
+          "score": "2"
+        },
+        {
+          "choice": "3",
+          "score": "3"
+        },
+        {
+          "choice": "4",
+          "score": "4"
+        },
+        {
+          "choice": "5",
+          "score": "5"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "0"
+        },
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "isCalculateHighestScoreOnly": false,
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "SingleSelect Responder use": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect",
+      "helpText": "SingleSelect",
+      "choices": [
+        {
+          "choice": "Drop",
+          "score": "0",
+          "isRedFlag": false
+        },
+        {
+          "choice": "Drop",
+          "score": "0",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Drop"
+        },
+        {
+          "isChoiceIs": "Drop"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "SingleSelect Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect",
+      "helpText": "SingleSelect",
+      "choices": [
+        {
+          "choice": "Drop",
+          "score": "0"
+        },
+        {
+          "choice": "Drop",
+          "score": "0"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Drop"
+        },
+        {
+          "isChoiceIs": "Drop"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "SingleSelect question configuration with 5 choices": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect question configuration froala text",
+      "helpText": "SingleSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "5",
+          "score": "5",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "SingleSelect question configuration with 5 choices without attachment": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect question configuration froala text",
+      "helpText": "SingleSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        }
+      ],
+      "isResponseMandatory": false,
+      "isAttachmentAllowed": false
+    }
+  },
+  "SingleSelect question configuration with 6 choices": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect question configuration froala text",
+      "helpText": "SingleSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "6",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "5",
+          "score": "5",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "6"
+        },
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "SingleSelect question configuration": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect question configuration froala text",
+      "helpText": "SingleSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "0",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "1",
+          "score": "1234",
+          "isRedFlag": false
+        },
+        {
+          "choice": "2",
+          "score": "2",
+          "isRedFlag": true
+        },
+        {
+          "choice": "3",
+          "score": "3",
+          "isRedFlag": false
+        },
+        {
+          "choice": "4",
+          "score": "4",
+          "isRedFlag": true
+        },
+        {
+          "choice": "5",
+          "score": "5",
+          "isRedFlag": false
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "0"
+        },
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "SingleSelect question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect question configuration froala text",
+      "helpText": "SingleSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "0",
+          "score": "1234"
+        },
+        {
+          "choice": "1",
+          "score": "1234"
+        },
+        {
+          "choice": "2",
+          "score": "2"
+        },
+        {
+          "choice": "3",
+          "score": "3"
+        },
+        {
+          "choice": "4",
+          "score": "4"
+        },
+        {
+          "choice": "5",
+          "score": "5"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "0"
+        },
+        {
+          "isChoiceIs": "1"
+        },
+        {
+          "isChoiceIs": "2"
+        },
+        {
+          "isChoiceIs": "3"
+        },
+        {
+          "isChoiceIs": "4"
+        },
+        {
+          "isChoiceIs": "5"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "SingleSelect question configuration with 5 choices bulk added": {
+    "dataToEnter": {
+      "froalaText": "SingleSelect question configuration froala text",
+      "helpText": "SingleSelect question configuration help text",
+      "choices": [
+        {
+          "choice": "Drop",
+          "score": "0"
+        },
+        {
+          "choice": "Drop",
+          "score": "0"
+        },
+        {
+          "choice": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO",
+          "score": "1"
+        },
+        {
+          "choice": "5",
+          "score": "0"
+        },
+        {
+          "choice": "6",
+          "score": "1234"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "Drop"
+        },
+        {
+          "isChoiceIs": "Drop"
+        },
+        {
+          "isChoiceIs": "4DdkyVBA5Qn9AfPRi2LdCR8xbmMPbHQt9d6G6TjEHFgx7WuiWP92zagYOD0pGE1A08kjMGl0EqvnGUsp95NPgt3noHjo4thl1sOeEgJ4vPuqaCAThnmJQaacAX1d1DEitzIFcy3HVUvn3GIG9IU6ZvAQxO5a16KRdzjHsQRZ3sdLuDQUfdf8U9zoM0PjLRiJn39uXdwym0fUacuq7BFz2ZFkcOhrGrhJRC0EifOU0rLbLE2y4Xgyp0P8EZvpSrq0l9NurFGLQGNWLNeWN72NYyXTuNzALfMpGfXA6NWylQkGDNG7YejbgpwkqeCIAP3jmFYSLgZBPfV2kOti4ggkbVaUHtI367TtPxWowIWv4ENH2qlRuWJUvdII0yYEWCDamN0mkJb0zVDO9wb5bKUdB4qYm2pi7KS3EFxCBFJnJHLtvNoTyFuHTfp4x436xjHFPhOZOm1zNKwqfwmYD4G69Vk8NA7vq4WPyimMDQJ2wqrA9IjFn4aO"
+        },
+        {
+          "isChoiceIs": "5"
+        },
+        {
+          "isChoiceIs": "6"
+        }
+      ],
+      "isResponseMandatory": true,
+      "isAttachmentAllowed": true
+    }
+  },
+  "SingleSelect with branching": {
+    "dataToEnter": {
+      "choices": [
+        {
+          "choice": "1",
+          "score": "1234"
+        },
+        {
+          "choice": "2",
+          "score": "2"
+        },
+        {
+          "choice": "3",
+          "score": "3"
+        }
+      ],
+      "branchQuestion": [
+        {
+          "isChoiceIs": "1",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "2",
+          "tabName": "New Tab"
+        },
+        {
+          "isChoiceIs": "3",
+          "tabName": "New Tab"
+        }
+      ]
+    }
+  },
+  "TextEntryPlus Responder use": {
+    "dataToEnter": {
+      "froalaText": "TextEntryPlus",
+      "helpText": "TextEntryPlus",
+      "subQuestions": [
+        {
+          "subQuestionName": "Text",
+          "type": "Text",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Number",
+          "type": "Number",
+          "isMandatory": false
+        }
+      ],
+      "isAttachmentAllowed": false
+    }
+  },
+  "TextEntryPlus Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "TextEntryPlus",
+      "helpText": "TextEntryPlus",
+      "subQuestions": [
+        {
+          "subQuestionName": "Text",
+          "type": "Text",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Number",
+          "type": "Number",
+          "isMandatory": false
+        }
+      ],
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "TextEntryPlus question configuration with 5 sub-question": {
+    "dataToEnter": {
+      "froalaText": "TextEntryPlus question configuration with 5 sub-question",
+      "helpText": "TextEntryPlus question configuration with 5 sub-question help text",
+      "subQuestions": [
+        {
+          "subQuestionName": "Number 1",
+          "type": "Number",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Text 2",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Number 3",
+          "type": "Number",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Text 4",
+          "type": "Text",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Number 5",
+          "type": "Number",
+          "isMandatory": false
+        }
+      ],
+      "isAttachmentAllowed": true
+    }
+  },
+  "TextEntryPlus question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "TextEntryPlus question configuration with 5 sub-question",
+      "helpText": "TextEntryPlus question configuration with 5 sub-question help text",
+      "subQuestions": [
+        {
+          "subQuestionName": "Number 1",
+          "type": "Number",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Text 2",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Number 3",
+          "type": "Number",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Text 4",
+          "type": "Text",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Number 5",
+          "type": "Number",
+          "isMandatory": false
+        }
+      ],
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "TextEntryPlus question configuration with 6 sub-question": {
+    "dataToEnter": {
+      "froalaText": "TextEntryPlus question configuration with 6 sub-question",
+      "helpText": "TextEntryPlus question configuration with 6 sub-question help text",
+      "subQuestions": [
+        {
+          "subQuestionName": "Text 0",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Number 1",
+          "type": "Number",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Text 2",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Number 3",
+          "type": "Number",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Text 4",
+          "type": "Text",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Number 5",
+          "type": "Number",
+          "isMandatory": false
+        }
+      ],
+      "isAttachmentAllowed": false
+    }
+  },
+  "TextEntryPlus question configuration with 6 sub-question with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "TextEntryPlus question configuration with 6 sub-question",
+      "helpText": "TextEntryPlus question configuration with 6 sub-question help text",
+      "subQuestions": [
+        {
+          "subQuestionName": "Text 0",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Number 1",
+          "type": "Number",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Text 2",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Number 3",
+          "type": "Number",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Text 4",
+          "type": "Text",
+          "isMandatory": false
+        },
+        {
+          "subQuestionName": "Number 5",
+          "type": "Number",
+          "isMandatory": false
+        }
+      ],
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 2"
+    }
+  },
+  "EnhancedTextEntryPlus Responder use": {
+    "dataToEnter": {
+      "froalaText": "EnhancedTextEntryPlus",
+      "helpText": "EnhancedTextEntryPlus",
+      "subQuestions": [
+        {
+          "subQuestionName": "First Name",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Last Name",
+          "type": "Text",
+          "isMandatory": true
+        }
+      ],
+      "isAttachmentAllowed": false
+    }
+  },
+  "EnhancedTextEntryPlus Reviewer use": {
+    "dataToEnter": {
+      "froalaText": "EnhancedTextEntryPlus",
+      "helpText": "EnhancedTextEntryPlus",
+      "subQuestions": [
+        {
+          "subQuestionName": "First Name",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Last Name",
+          "type": "Text",
+          "isMandatory": true
+        }
+      ],
+      "isAttachmentAllowed": false,
+      "reviewerLevel": "Level 1"
+    }
+  },
+  "EnhancedTextEntryPlus Responder use configurations": {
+    "dataToEnter": {
+      "froalaText": "EnhancedTextEntryPlus configuration",
+      "helpText": "EnhancedTextEntryPlus",
+      "subQuestions": [
+        {
+          "subQuestionName": "First Name",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Last Name",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Text1",
+          "type": "Text",
+          "isMandatory": false,
+          "option": "Add sub-question"
+        },
+        {
+          "subQuestionName": "Number1",
+          "type": "Number",
+          "isMandatory": false,
+          "option": "Add sub-question"
+        },
+        {
+          "subQuestionName": "Relationship",
+          "type": "SingleSelect",
+          "isMandatory": false,
+          "option": "Add field"
+        },
+        {
+          "subQuestionName": "Email",
+          "type": "Text",
+          "isMandatory": false,
+          "option": "Add field"
+        }
+      ],
+      "isAttachmentAllowed": false
+    }
+  },
+  "EnhancedTextEntryPlus question configuration with Level 2 reviewer": {
+    "dataToEnter": {
+      "froalaText": "EnhancedTextEntryPlus question configuration",
+      "helpText": "EnhancedTextEntryPlus question configuration help text",
+      "subQuestions": [
+        {
+          "subQuestionName": "First Name",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Last Name",
+          "type": "Text",
+          "isMandatory": true
+        },
+        {
+          "subQuestionName": "Text1",
+          "type": "Text",
+          "isMandatory": false,
+          "option": "Add sub-question"
+        },
+        {
+          "subQuestionName": "Number1",
+          "type": "Number",
+          "isMandatory": false,
+          "option": "Add sub-question"
+        },
+        {
+          "subQuestionName": "Relationship",
+          "type": "SingleSelect",
+          "isMandatory": false,
+          "option": "Add field"
+        },
+        {
+          "subQuestionName": "Email",
+          "type": "Text",
+          "isMandatory": false,
+          "option": "Add field"
+        }
+      ],
+      "isAttachmentAllowed": true,
+      "reviewerLevel": "Level 2"
+    }
+  }
+}

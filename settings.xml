@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd"
+          xmlns="http://maven.apache.org/SETTINGS/1.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <servers>
+        <server>
+            <id>bams-aws-default-maven-global</id>
+            <username>s.asts.bams</username>
+            <password>AKCp8ihL8T5CgbKW2UqFRu4Dv4vVKRxrgUVdVnjxhqpbMZvinN44WoiRGmjxDLtWBguh9mauG</password>
+        </server>
+        <server>
+            <id>bams-public.maven.global</id>
+            <username>s.asts.bams</username>
+            <password>AKCp8ihL8T5CgbKW2UqFRu4Dv4vVKRxrgUVdVnjxhqpbMZvinN44WoiRGmjxDLtWBguh9mauG</password>
+        </server>
+        <server>
+            <id>a203973.bams.maven.local</id>
+            <username>s.asts.bams</username>
+            <password>AKCp8ihL8T5CgbKW2UqFRu4Dv4vVKRxrgUVdVnjxhqpbMZvinN44WoiRGmjxDLtWBguh9mauG</password>
+        </server>
+    </servers>
+</settings>

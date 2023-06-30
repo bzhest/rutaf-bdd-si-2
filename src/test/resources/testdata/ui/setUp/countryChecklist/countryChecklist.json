@@ -1,0 +1,77 @@
+{
+  "Informational with assigned Afghanistan, Zimbabwe": {
+    "dataToEnter": {
+      "alertMessage": "AUTO_TEST_Alert_Message_Info",
+      "alertType": "Informational",
+      "listName": "AUTO_TEST_Info_Country_Checklist",
+      "status": "true",
+      "countryList": [
+        "AF",
+        "ZW"
+      ]
+    }
+  },
+  "Caution with assigned Afghanistan": {
+    "dataToEnter": {
+      "alertMessage": "AUTO_TEST_Alert_Message_Caution",
+      "alertType": "Caution",
+      "listName": "AUTO_TEST_Caution_Country_Checklist",
+      "status": "true",
+      "countryList": "AF"
+    }
+  },
+  "Warning with assigned Afghanistan": {
+    "dataToEnter": {
+      "alertMessage": "AUTO_TEST_Alert_Message_Warning",
+      "alertType": "Warning",
+      "listName": "AUTO_TEST_Warning_Country_Checklist",
+      "status": "true",
+      "countryList": "AF"
+    }
+  },
+  "Caution with assigned Afghanistan to be deleted": {
+    "dataToEnter": {
+      "alertMessage": "AUTO_TEST_Alert_Message_Delete",
+      "alertType": "Caution",
+      "listName": "toBeReplaced",
+      "status": "true",
+      "countryList": "AF"
+    }
+  },
+  "Caution with assigned Belize to be deleted": {
+    "dataToEnter": {
+      "alertMessage": "AUTO_TEST_Alert_Message_Delete",
+      "alertType": "Caution",
+      "listName": "toBeReplaced",
+      "status": "true",
+      "countryList": "BZ"
+    }
+  },
+  "Caution with assigned Afghanistan to be inactivated": {
+    "dataToEnter": {
+      "alertMessage": "AUTO_TEST_Alert_Message_Inactivate",
+      "alertType": "Caution",
+      "listName": "AUTO_TEST_Warning_Country_Checklist",
+      "status": "true",
+      "countryList": "AF"
+    }
+  },
+  "Warning with assigned Afghanistan Inactive": {
+    "dataToEnter": {
+      "alertMessage": "AUTO_TEST_Alert_Message_Inactive",
+      "alertType": "Warning",
+      "listName": "AUTO_TEST_Warning_Country_Checklist",
+      "status": "false",
+      "countryList": "AF"
+    }
+  },
+  "Test Automation Country Checklist": {
+    "dataToEnter": {
+      "alertMessage": "Test Automation Alert Message",
+      "alertType": "Informational",
+      "listName": "Test Automation Country Checklist",
+      "status": "true",
+      "countryList": "AU"
+    }
+  }
+}

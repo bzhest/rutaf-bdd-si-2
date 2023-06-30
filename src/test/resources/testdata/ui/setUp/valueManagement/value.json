@@ -1,0 +1,120 @@
+{
+  "without assessment": {
+    "dataToEnter": {
+      "name": "AUTO_TEST_SIMPLE_ACTIVITY_TYPE",
+      "assessments": [
+      ]
+    }
+  },
+  "with 1 assessment fields": {
+    "dataToEnter": {
+      "name": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_1",
+      "assessments": [
+        {
+          "name": "first"
+        }
+      ]
+    }
+  },
+  "with 3 assessment fields": {
+    "dataToEnter": {
+      "name": "AUTO_TEST_ASSESSMENT_ACTIVITY_TYPE_3",
+      "assessments": [
+        {
+          "name": "first"
+        },
+        {
+          "name": "second"
+        },
+        {
+          "name": "third"
+        }
+      ]
+    }
+  },
+  "Assign Questionnaire": {
+    "dataToEnter": {
+      "name": "Assign Questionnaire",
+      "assessments": [
+        {
+          "name": "case1"
+        }
+      ]
+    }
+  },
+  "Assessment": {
+    "dataToEnter": {
+      "name": "Assessment",
+      "assessments": [
+        {
+          "name": "Deeper Dive"
+        },
+        {
+          "name": "Resolved"
+        },
+        {
+          "name": "Issue Identified"
+        }
+      ]
+    }
+  },
+  "Medium Risk Scoring Range": {
+    "dataToEnter": {
+      "name": "Medium",
+      "listValues": [
+        {
+          "name": "Medium",
+          "min": 2.6,
+          "max": 4.0
+        }
+      ]
+    }
+  },
+  "Low Risk Scoring Range": {
+    "dataToEnter": {
+      "name": "Low",
+      "listValues": [
+        {
+          "name": "Medium",
+          "min": 1.6,
+          "max": 2.5
+        }
+      ]
+    }
+  },
+  "AUTO_TEST_CATEGORY Questionnaire Category": {
+    "dataToEnter": {
+      "name": "AUTO_TEST_CATEGORY",
+      "listValues": [
+        {
+          "name": "AUTO_TEST_CATEGORY",
+          "description": "AUTO_TEST_CATEGORY"
+        }
+      ]
+    }
+  },
+  "Request for Due Diligence Activity": {
+    "dataToEnter": {
+      "name": "Request for Due Diligence Activity",
+      "assessments": [
+      ]
+    }
+  },
+  "Background Investigation Activity": {
+    "dataToEnter": {
+      "name": "Background Investigation",
+      "assessments": [
+      ]
+    }
+  },
+  "Auto Test Custom Activity": {
+    "dataToEnter": {
+      "name": "Auto Test Custom Activity",
+      "assessments": [
+        {
+          "name": "custom"
+        }
+      ]
+    }
+  }
+}

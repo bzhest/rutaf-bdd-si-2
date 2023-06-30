@@ -1,0 +1,1550 @@
+{
+
+  "001) country:PK,    industry:null,  business_type:null,  affiliation:PUT,   revenue:null,       spend_category:RSF,   design_agreement:RSF,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_M_SRC,       sourcing_type:SINGLE,  product_impact:COMMODITIZED_PRODUCT,  commodity_type:null": {
+    "request": {
+      "country": "PK",
+      "industry": null,
+      "business_type": null,
+      "affiliation": "PUT",
+      "revenue": null,
+      "spend_category": "RSF",
+      "design_agreement": "RSF",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": null
+    }
+  },
+
+  "002) country:CN,    industry:ENE,   business_type:DIS,   affiliation:null,  revenue:500M-2B,    spend_category:RSF,   design_agreement:MJS,   relationship_visibility:null,               sourcing_method:DIR_W_CONTRACT,   sourcing_type:SINGLE,  product_impact:COMMODITIZED_PRODUCT,  commodity_type:CLS": {
+    "request": {
+      "country": "CN",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": null,
+      "revenue": "500M-2B",
+      "spend_category": "RSF",
+      "design_agreement": "MJS",
+      "relationship_visibility": null,
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "003) country:CN,    industry:EDU,   business_type:PRI,   affiliation:SOE,   revenue:null,       spend_category:MJS,   design_agreement:null,  relationship_visibility:LITTLE_VIS,         sourcing_method:null,             sourcing_type:SOLE,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:LBE": {
+    "request": {
+      "country": "CN",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "SOE",
+      "revenue": null,
+      "spend_category": "MJS",
+      "design_agreement": null,
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": null,
+      "sourcing_type": "SOLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "004) country:CN,    industry:AHI,   business_type:BUC,   affiliation:null,  revenue:10M-20M,    spend_category:RSF,   design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_S_SRC,       sourcing_type:SOLE,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:WTR": {
+    "request": {
+      "country": "CN",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": null,
+      "revenue": "10M-20M",
+      "spend_category": "RSF",
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "005) country:CN,    industry:INA,   business_type:SAD,   affiliation:SOE,   revenue:100M-500M,  spend_category:MJS,   design_agreement:OTS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_WO_CONTRACT,  sourcing_type:null,    product_impact:null,                  commodity_type:null": {
+    "request": {
+      "country": "CN",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "SOE",
+      "revenue": "100M-500M",
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": null,
+      "product_impact": null,
+      "commodity_type": null
+    }
+  },
+
+  "006) country:CN,    industry:AHI,   business_type:BUC,   affiliation:PUT,   revenue:10M-20M,    spend_category:null,  design_agreement:OTS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_S_SRC,       sourcing_type:null,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:SME": {
+    "request": {
+      "country": "CN",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PUT",
+      "revenue": "10M-20M",
+      "spend_category": null,
+      "design_agreement": "OTS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": null,
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "SME"
+    }
+  },
+
+  "007) country:US,    industry:HOS,   business_type:PUE,   affiliation:PRH,   revenue:10M-20M,    spend_category:MJS,   design_agreement:RSF,   relationship_visibility:null,               sourcing_method:DIST_M_SRC,       sourcing_type:null,    product_impact:null,                  commodity_type:CLS": {
+    "request": {
+      "country": "US",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PRH",
+      "revenue": "10M-20M",
+      "spend_category": "MJS",
+      "design_agreement": "RSF",
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": null,
+      "product_impact": null,
+      "commodity_type": "CLS"
+    }
+  },
+
+  "008) country:US,    industry:MAS,   business_type:null,  affiliation:null,  revenue:50M-100M,   spend_category:OTS,   design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_S_SRC,       sourcing_type:MULTI,   product_impact:COMMODITIZED_PRODUCT,  commodity_type:LBE": {
+    "request": {
+      "country": "US",
+      "industry": "MAS",
+      "business_type": null,
+      "affiliation": null,
+      "revenue": "50M-100M",
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "009) country:US,    industry:AHI,   business_type:BUC,   affiliation:SOE,   revenue:500M-2B,    spend_category:RSF,   design_agreement:null,  relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SINGLE,  product_impact:COMMODITIZED_PRODUCT,  commodity_type:SAD": {
+    "request": {
+      "country": "US",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "SOE",
+      "revenue": "500M-2B",
+      "spend_category": "RSF",
+      "design_agreement": null,
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "010) country:US,    industry:INA,   business_type:SAD,   affiliation:PUT,   revenue:UNKNOWN,    spend_category:MJS,   design_agreement:OTS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIR_W_CONTRACT,   sourcing_type:SOLE,    product_impact:ALTERNATE_SOURCES,     commodity_type:SME": {
+    "request": {
+      "country": "US",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "PUT",
+      "revenue": "UNKNOWN",
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "SME"
+    }
+  },
+
+  "011) country:US,    industry:ENE,   business_type:DIS,   affiliation:PRH,   revenue:10M,        spend_category:null,  design_agreement:RSF,   relationship_visibility:null,               sourcing_method:null,             sourcing_type:MULTI,   product_impact:STRATEGIC_PARTNER,     commodity_type:WTR": {
+    "request": {
+      "country": "US",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PRH",
+      "revenue": "10M",
+      "spend_category": null,
+      "design_agreement": "RSF",
+      "relationship_visibility": null,
+      "sourcing_method": null,
+      "sourcing_type": "MULTI",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "012) country:US,    industry:EDU,   business_type:PRI,   affiliation:SOE,   revenue:10M-20M,    spend_category:OTS,   design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_M_SRC,       sourcing_type:SINGLE,  product_impact:CRITICAL_TO_BUSINESS,  commodity_type:null": {
+    "request": {
+      "country": "US",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "SOE",
+      "revenue": "10M-20M",
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": null
+    }
+  },
+
+  "013) country:US,    industry:AHI,   business_type:BUC,   affiliation:PRH,   revenue:500M-2B,    spend_category:MJS,   design_agreement:OTS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_S_SRC,       sourcing_type:null,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:LBE": {
+    "request": {
+      "country": "US",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PRH",
+      "revenue": "500M-2B",
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": null,
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "014) country:US,    industry:INA,   business_type:SAD,   affiliation:null,  revenue:null,       spend_category:null,  design_agreement:RSF,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_WO_CONTRACT,  sourcing_type:MULTI,   product_impact:ALTERNATE_SOURCES,     commodity_type:SAD": {
+    "request": {
+      "country": "US",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": null,
+      "revenue": null,
+      "spend_category": null,
+      "design_agreement": "RSF",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "MULTI",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "015) country:US,    industry:ENE,   business_type:DIS,   affiliation:SOE,   revenue:UNKNOWN,    spend_category:OTS,   design_agreement:MJS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_W_CONTRACT,   sourcing_type:SINGLE,  product_impact:STRATEGIC_PARTNER,     commodity_type:SME": {
+    "request": {
+      "country": "US",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "SOE",
+      "revenue": "UNKNOWN",
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "SME"
+    }
+  },
+
+  "016) country:US,    industry:EDU,   business_type:PRI,   affiliation:PUT,   revenue:10M,        spend_category:RSF,   design_agreement:OTS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:null,             sourcing_type:SOLE,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:WTR": {
+    "request": {
+      "country": "US",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "PUT",
+      "revenue": "10M",
+      "spend_category": "RSF",
+      "design_agreement": "OTS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": null,
+      "sourcing_type": "SOLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "017) country:AF,    industry:ENE,   business_type:DIS,   affiliation:SOE,   revenue:50M-100M,   spend_category:MJS,   design_agreement:RSF,   relationship_visibility:OEM_REBRANDED,      sourcing_method:null,             sourcing_type:null,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:SAD": {
+    "request": {
+      "country": "AF",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "SOE",
+      "revenue": "50M-100M",
+      "spend_category": "MJS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": null,
+      "sourcing_type": null,
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "018) country:AF,    industry:HOS,   business_type:PUE,   affiliation:PRH,   revenue:null,       spend_category:OTS,   design_agreement:OTS,   relationship_visibility:null,               sourcing_method:DIST_S_SRC,       sourcing_type:SINGLE,  product_impact:ALTERNATE_SOURCES,     commodity_type:WTR": {
+    "request": {
+      "country": "AF",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PRH",
+      "revenue": null,
+      "spend_category": "OTS",
+      "design_agreement": "OTS",
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "019) country:AF,    industry:AHI,   business_type:BUC,   affiliation:null,  revenue:UNKNOWN,    spend_category:RSF,   design_agreement:RSF,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SOLE,    product_impact:STRATEGIC_PARTNER,     commodity_type:null": {
+    "request": {
+      "country": "AF",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": null,
+      "revenue": "UNKNOWN",
+      "spend_category": "RSF",
+      "design_agreement": "RSF",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": null
+    }
+  },
+
+  "020) country:AF,    industry:ENE,   business_type:null,  affiliation:SOE,   revenue:UNKNOWN,    spend_category:null,  design_agreement:MJS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_S_SRC,       sourcing_type:MULTI,   product_impact:STRATEGIC_PARTNER,     commodity_type:WTR": {
+    "request": {
+      "country": "AF",
+      "industry": "ENE",
+      "business_type": null,
+      "affiliation": "SOE",
+      "revenue": "UNKNOWN",
+      "spend_category": null,
+      "design_agreement": "MJS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "021) country:CV,    industry:ENE,   business_type:DIS,   affiliation:PUT,   revenue:null,       spend_category:RSF,   design_agreement:MJS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_M_SRC,       sourcing_type:null,    product_impact:STRATEGIC_PARTNER,     commodity_type:CLS": {
+    "request": {
+      "country": "CV",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PUT",
+      "revenue": null,
+      "spend_category": "RSF",
+      "design_agreement": "MJS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": null,
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "022) country:CV,    industry:EDU,   business_type:PRI,   affiliation:PRH,   revenue:UNKNOWN,    spend_category:MJS,   design_agreement:null,  relationship_visibility:null,               sourcing_method:DIST_M_SRC,       sourcing_type:MULTI,   product_impact:CRITICAL_TO_BUSINESS,  commodity_type:LBE": {
+    "request": {
+      "country": "CV",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "PRH",
+      "revenue": "UNKNOWN",
+      "spend_category": "MJS",
+      "design_agreement": null,
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "023) country:CV,    industry:HOS,   business_type:PUE,   affiliation:null,  revenue:10M,        spend_category:OTS,   design_agreement:OTS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_S_SRC,       sourcing_type:SINGLE,  product_impact:null,                  commodity_type:SAD": {
+    "request": {
+      "country": "CV",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": null,
+      "revenue": "10M",
+      "spend_category": "OTS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": null,
+      "commodity_type": "SAD"
+    }
+  },
+
+  "024) country:CV,    industry:AHI,   business_type:BUC,   affiliation:SOE,   revenue:10M-20M,    spend_category:RSF,   design_agreement:RSF,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SOLE,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:SME": {
+    "request": {
+      "country": "CV",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "SOE",
+      "revenue": "10M-20M",
+      "spend_category": "RSF",
+      "design_agreement": "RSF",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SME"
+    }
+  },
+
+  "025) country:CV,    industry:ENE,   business_type:DIS,   affiliation:PRH,   revenue:500M-2B,    spend_category:null,  design_agreement:null,  relationship_visibility:LITTLE_VIS,         sourcing_method:null,             sourcing_type:MULTI,   product_impact:ALTERNATE_SOURCES,     commodity_type:null": {
+    "request": {
+      "country": "CV",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PRH",
+      "revenue": "500M-2B",
+      "spend_category": null,
+      "design_agreement": null,
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": null,
+      "sourcing_type": "MULTI",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": null
+    }
+  },
+
+  "026) country:CV,    industry:HOS,   business_type:PUE,   affiliation:SOE,   revenue:10M,        spend_category:RSF,   design_agreement:RSF,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_S_SRC,       sourcing_type:SOLE,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:LBE": {
+    "request": {
+      "country": "CV",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "SOE",
+      "revenue": "10M",
+      "spend_category": "RSF",
+      "design_agreement": "RSF",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "027) country:CV,    industry:AGC,   business_type:null,  affiliation:PUT,   revenue:10M-20M,    spend_category:MJS,   design_agreement:MJS,   relationship_visibility:null,               sourcing_method:DIR_WO_CONTRACT,  sourcing_type:MULTI,   product_impact:null,                  commodity_type:SAD": {
+    "request": {
+      "country": "CV",
+      "industry": "AGC",
+      "business_type": null,
+      "affiliation": "PUT",
+      "revenue": "10M-20M",
+      "spend_category": "MJS",
+      "design_agreement": "MJS",
+      "relationship_visibility": null,
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "MULTI",
+      "product_impact": null,
+      "commodity_type": "SAD"
+    }
+  },
+
+  "028) country:CV,    industry:AHI,   business_type:BUC,   affiliation:PRH,   revenue:50M-100M,   spend_category:null,  design_agreement:OTS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_W_CONTRACT,   sourcing_type:SINGLE,  product_impact:COMMODITIZED_PRODUCT,  commodity_type:SME": {
+    "request": {
+      "country": "CV",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PRH",
+      "revenue": "50M-100M",
+      "spend_category": null,
+      "design_agreement": "OTS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SME"
+    }
+  },
+
+  "029) country:CV,    industry:INA,   business_type:SAD,   affiliation:SOE,   revenue:500M-2B,    spend_category:OTS,   design_agreement:RSF,   relationship_visibility:OEM_REBRANDED,      sourcing_method:null,             sourcing_type:SOLE,    product_impact:ALTERNATE_SOURCES,     commodity_type:WTR": {
+    "request": {
+      "country": "CV",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "SOE",
+      "revenue": "500M-2B",
+      "spend_category": "OTS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": null,
+      "sourcing_type": "SOLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "030) country:PK,    industry:HOS,   business_type:PUE,   affiliation:SOE,   revenue:50M-100M,   spend_category:null,  design_agreement:OTS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SINGLE,  product_impact:ALTERNATE_SOURCES,     commodity_type:CLS": {
+    "request": {
+      "country": "PK",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "SOE",
+      "revenue": "50M-100M",
+      "spend_category": null,
+      "design_agreement": "OTS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "031) country:PK,    industry:AHI,   business_type:BUC,   affiliation:PUT,   revenue:500M-2B,    spend_category:OTS,   design_agreement:RSF,   relationship_visibility:null,               sourcing_method:DIR_W_CONTRACT,   sourcing_type:SOLE,    product_impact:STRATEGIC_PARTNER,     commodity_type:LBE": {
+    "request": {
+      "country": "PK",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PUT",
+      "revenue": "500M-2B",
+      "spend_category": "OTS",
+      "design_agreement": "RSF",
+      "relationship_visibility": null,
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "032) country:PK,    industry:INA,   business_type:SAD,   affiliation:PRH,   revenue:UNKNOWN,    spend_category:RSF,   design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:null,             sourcing_type:null,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:SAD": {
+    "request": {
+      "country": "PK",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "PRH",
+      "revenue": "UNKNOWN",
+      "spend_category": "RSF",
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": null,
+      "sourcing_type": null,
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "033) country:PK,    industry:ENE,   business_type:DIS,   affiliation:null,  revenue:10M,        spend_category:MJS,   design_agreement:OTS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_M_SRC,       sourcing_type:MULTI,   product_impact:null,                  commodity_type:SME": {
+    "request": {
+      "country": "PK",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": null,
+      "revenue": "10M",
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": null,
+      "commodity_type": "SME"
+    }
+  },
+
+  "034) country:PK,    industry:EDU,   business_type:PRI,   affiliation:SOE,   revenue:10M-20M,    spend_category:null,  design_agreement:RSF,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_M_SRC,       sourcing_type:SINGLE,  product_impact:COMMODITIZED_PRODUCT,  commodity_type:WTR": {
+    "request": {
+      "country": "PK",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "SOE",
+      "revenue": "10M-20M",
+      "spend_category": null,
+      "design_agreement": "RSF",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "035) country:PK,    industry:HOS,   business_type:PUE,   affiliation:PUT,   revenue:50M-100M,   spend_category:OTS,   design_agreement:MJS,   relationship_visibility:null,               sourcing_method:DIST_S_SRC,       sourcing_type:SOLE,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:null": {
+    "request": {
+      "country": "PK",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PUT",
+      "revenue": "50M-100M",
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": null
+    }
+  },
+
+  "036) country:PK,    industry:AHI,   business_type:null,  affiliation:PRH,   revenue:500M-2B,    spend_category:RSF,   design_agreement:null,  relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_WO_CONTRACT,  sourcing_type:null,    product_impact:ALTERNATE_SOURCES,     commodity_type:CLS": {
+    "request": {
+      "country": "PK",
+      "industry": "AHI",
+      "business_type": null,
+      "affiliation": "PRH",
+      "revenue": "500M-2B",
+      "spend_category": "RSF",
+      "design_agreement": null,
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": null,
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "037) country:PK,    industry:AHI,   business_type:BUC,   affiliation:SOE,   revenue:null,       spend_category:MJS,   design_agreement:OTS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_W_CONTRACT,   sourcing_type:MULTI,   product_impact:STRATEGIC_PARTNER,     commodity_type:LBE": {
+    "request": {
+      "country": "PK",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "SOE",
+      "revenue": null,
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "MULTI",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "038) country:PK,    industry:INA,   business_type:SAD,   affiliation:PUT,   revenue:UNKNOWN,    spend_category:OTS,   design_agreement:RSF,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:null,             sourcing_type:SINGLE,  product_impact:CRITICAL_TO_BUSINESS,  commodity_type:SAD": {
+    "request": {
+      "country": "PK",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "PUT",
+      "revenue": "UNKNOWN",
+      "spend_category": "OTS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": null,
+      "sourcing_type": "SINGLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "039) country:PK,    industry:ENE,   business_type:DIS,   affiliation:PRH,   revenue:10M,        spend_category:RSF,   design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_M_SRC,       sourcing_type:SOLE,    product_impact:null,                  commodity_type:SME": {
+    "request": {
+      "country": "PK",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PRH",
+      "revenue": "10M",
+      "spend_category": "RSF",
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": null,
+      "commodity_type": "SME"
+    }
+  },
+
+  "040) country:PK,    industry:EDU,   business_type:PRI,   affiliation:null,  revenue:10M-20M,    spend_category:MJS,   design_agreement:null,  relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_S_SRC,       sourcing_type:MULTI,   product_impact:COMMODITIZED_PRODUCT,  commodity_type:WTR": {
+    "request": {
+      "country": "PK",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": null,
+      "revenue": "10M-20M",
+      "spend_category": "MJS",
+      "design_agreement": null,
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "041) country:CN,    industry:INA,   business_type:SAD,   affiliation:null,  revenue:10M-20M,    spend_category:OTS,   design_agreement:null,  relationship_visibility:OEM_REBRANDED,      sourcing_method:null,             sourcing_type:SOLE,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:CLS": {
+    "request": {
+      "country": "CN",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": null,
+      "revenue": "10M-20M",
+      "spend_category": "OTS",
+      "design_agreement": null,
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": null,
+      "sourcing_type": "SOLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "042) country:CN,    industry:HOS,   business_type:PUE,   affiliation:PRH,   revenue:null,       spend_category:OTS,   design_agreement:MJS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SOLE,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:SME": {
+    "request": {
+      "country": "CN",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PRH",
+      "revenue": null,
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "SME"
+    }
+  },
+
+  "043) country:CN,    industry:TES,   business_type:null,  affiliation:SOE,   revenue:UNKNOWN,    spend_category:RSF,   design_agreement:null,  relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIR_W_CONTRACT,   sourcing_type:null,    product_impact:null,                  commodity_type:WTR": {
+    "request": {
+      "country": "CN",
+      "industry": "TES",
+      "business_type": null,
+      "affiliation": "SOE",
+      "revenue": "UNKNOWN",
+      "spend_category": "RSF",
+      "design_agreement": null,
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": null,
+      "product_impact": null,
+      "commodity_type": "WTR"
+    }
+  },
+
+  "044) country:CN,    industry:AHI,   business_type:BUC,   affiliation:PUT,   revenue:10M,        spend_category:MJS,   design_agreement:OTS,   relationship_visibility:null,               sourcing_method:null,             sourcing_type:MULTI,   product_impact:COMMODITIZED_PRODUCT,  commodity_type:null": {
+    "request": {
+      "country": "CN",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PUT",
+      "revenue": "10M",
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": null,
+      "sourcing_method": null,
+      "sourcing_type": "MULTI",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": null
+    }
+  },
+
+  "045) country:CN,    industry:ENE,   business_type:DIS,   affiliation:null,  revenue:50M-100M,   spend_category:OTS,   design_agreement:MJS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_M_SRC,       sourcing_type:SOLE,    product_impact:ALTERNATE_SOURCES,     commodity_type:LBE": {
+    "request": {
+      "country": "CN",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": null,
+      "revenue": "50M-100M",
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "046) country:CN,    industry:EDU,   business_type:PRI,   affiliation:SOE,   revenue:500M-2B,    spend_category:RSF,   design_agreement:OTS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_S_SRC,       sourcing_type:null,    product_impact:STRATEGIC_PARTNER,     commodity_type:SAD": {
+    "request": {
+      "country": "CN",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "SOE",
+      "revenue": "500M-2B",
+      "spend_category": "RSF",
+      "design_agreement": "OTS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": null,
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "047) country:CN,    industry:HOS,   business_type:PUE,   affiliation:PUT,   revenue:UNKNOWN,    spend_category:MJS,   design_agreement:RSF,   relationship_visibility:null,               sourcing_method:DIR_WO_CONTRACT,  sourcing_type:MULTI,   product_impact:CRITICAL_TO_BUSINESS,  commodity_type:SME": {
+    "request": {
+      "country": "CN",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PUT",
+      "revenue": "UNKNOWN",
+      "spend_category": "MJS",
+      "design_agreement": "RSF",
+      "relationship_visibility": null,
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "MULTI",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "SME"
+    }
+  },
+
+  "048) country:CN,    industry:AHI,   business_type:BUC,   affiliation:PRH,   revenue:10M,        spend_category:null,  design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_W_CONTRACT,   sourcing_type:SINGLE,  product_impact:null,                  commodity_type:WTR": {
+    "request": {
+      "country": "CN",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PRH",
+      "revenue": "10M",
+      "spend_category": null,
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": null,
+      "commodity_type": "WTR"
+    }
+  },
+
+  "049) country:US,    industry:EDU,   business_type:PRI,   affiliation:PRH,   revenue:UNKNOWN,    spend_category:MJS,   design_agreement:RSF,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_S_SRC,       sourcing_type:MULTI,   product_impact:null,                  commodity_type:CLS": {
+    "request": {
+      "country": "US",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "PRH",
+      "revenue": "UNKNOWN",
+      "spend_category": "MJS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": null,
+      "commodity_type": "CLS"
+    }
+  },
+
+  "050) country:US,    industry:HOS,   business_type:PUE,   affiliation:SOE,   revenue:10M,        spend_category:null,  design_agreement:MJS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SINGLE,  product_impact:COMMODITIZED_PRODUCT,  commodity_type:LBE": {
+    "request": {
+      "country": "US",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "SOE",
+      "revenue": "10M",
+      "spend_category": null,
+      "design_agreement": "MJS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "051) country:US,    industry:MAS,   business_type:null,  affiliation:PUT,   revenue:10M-20M,    spend_category:OTS,   design_agreement:OTS,   relationship_visibility:null,               sourcing_method:DIR_W_CONTRACT,   sourcing_type:SOLE,    product_impact:ALTERNATE_SOURCES,     commodity_type:SAD": {
+    "request": {
+      "country": "US",
+      "industry": "MAS",
+      "business_type": null,
+      "affiliation": "PUT",
+      "revenue": "10M-20M",
+      "spend_category": "OTS",
+      "design_agreement": "OTS",
+      "relationship_visibility": null,
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "052) country:US,    industry:AHI,   business_type:BUC,   affiliation:PRH,   revenue:50M-100M,   spend_category:RSF,   design_agreement:RSF,   relationship_visibility:LITTLE_VIS,         sourcing_method:null,             sourcing_type:MULTI,   product_impact:STRATEGIC_PARTNER,     commodity_type:SME": {
+    "request": {
+      "country": "US",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PRH",
+      "revenue": "50M-100M",
+      "spend_category": "RSF",
+      "design_agreement": "RSF",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": null,
+      "sourcing_type": "MULTI",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "SME"
+    }
+  },
+
+  "053) country:US,    industry:ENE,   business_type:DIS,   affiliation:SOE,   revenue:UNKNOWN,    spend_category:null,  design_agreement:null,  relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_S_SRC,       sourcing_type:SOLE,    product_impact:null,                  commodity_type:null": {
+    "request": {
+      "country": "US",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "SOE",
+      "revenue": "UNKNOWN",
+      "spend_category": null,
+      "design_agreement": null,
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": null,
+      "commodity_type": null
+    }
+  },
+
+  "054) country:US,    industry:EDU,   business_type:PRI,   affiliation:PUT,   revenue:10M,        spend_category:OTS,   design_agreement:OTS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_WO_CONTRACT,  sourcing_type:null,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:CLS": {
+    "request": {
+      "country": "US",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "PUT",
+      "revenue": "10M",
+      "spend_category": "OTS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": null,
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "055) country:US,    industry:HOS,   business_type:PUE,   affiliation:PRH,   revenue:10M-20M,    spend_category:RSF,   design_agreement:RSF,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_W_CONTRACT,   sourcing_type:MULTI,   product_impact:COMMODITIZED_PRODUCT,  commodity_type:LBE": {
+    "request": {
+      "country": "US",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PRH",
+      "revenue": "10M-20M",
+      "spend_category": "RSF",
+      "design_agreement": "RSF",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "MULTI",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "056) country:US,    industry:AHI,   business_type:BUC,   affiliation:null,  revenue:50M-100M,   spend_category:MJS,   design_agreement:MJS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:null,             sourcing_type:SINGLE,  product_impact:ALTERNATE_SOURCES,     commodity_type:SAD": {
+    "request": {
+      "country": "US",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": null,
+      "revenue": "50M-100M",
+      "spend_category": "MJS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": null,
+      "sourcing_type": "SINGLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "057) country:US,    industry:INA,   business_type:SAD,   affiliation:SOE,   revenue:500M-2B,    spend_category:OTS,   design_agreement:null,  relationship_visibility:null,               sourcing_method:DIST_M_SRC,       sourcing_type:SOLE,    product_impact:STRATEGIC_PARTNER,     commodity_type:SME": {
+    "request": {
+      "country": "US",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "SOE",
+      "revenue": "500M-2B",
+      "spend_category": "OTS",
+      "design_agreement": null,
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "SME"
+    }
+  },
+
+  "058) country:US,    industry:ENE,   business_type:DIS,   affiliation:PUT,   revenue:null,       spend_category:RSF,   design_agreement:OTS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_M_SRC,       sourcing_type:null,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:WTR": {
+    "request": {
+      "country": "US",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PUT",
+      "revenue": null,
+      "spend_category": "RSF",
+      "design_agreement": "OTS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": null,
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "059) country:AF,    industry:ENE,   business_type:null,  affiliation:PRH,   revenue:500M-2B,    spend_category:null,  design_agreement:OTS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:null,             sourcing_type:SOLE,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:CLS": {
+    "request": {
+      "country": "AF",
+      "industry": "ENE",
+      "business_type": null,
+      "affiliation": "PRH",
+      "revenue": "500M-2B",
+      "spend_category": null,
+      "design_agreement": "OTS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": null,
+      "sourcing_type": "SOLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "060) country:AF,    industry:AHI,   business_type:BUC,   affiliation:null,  revenue:UNKNOWN,    spend_category:OTS,   design_agreement:RSF,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_M_SRC,       sourcing_type:null,    product_impact:null,                  commodity_type:LBE": {
+    "request": {
+      "country": "AF",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": null,
+      "revenue": "UNKNOWN",
+      "spend_category": "OTS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": null,
+      "product_impact": null,
+      "commodity_type": "LBE"
+    }
+  },
+
+  "061) country:AF,    industry:INA,   business_type:SAD,   affiliation:SOE,   revenue:10M,        spend_category:RSF,   design_agreement:MJS,   relationship_visibility:null,               sourcing_method:DIST_M_SRC,       sourcing_type:MULTI,   product_impact:COMMODITIZED_PRODUCT,  commodity_type:SAD": {
+    "request": {
+      "country": "AF",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "SOE",
+      "revenue": "10M",
+      "spend_category": "RSF",
+      "design_agreement": "MJS",
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "062) country:AF,    industry:ENE,   business_type:DIS,   affiliation:PUT,   revenue:10M-20M,    spend_category:MJS,   design_agreement:null,  relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_S_SRC,       sourcing_type:SINGLE,  product_impact:ALTERNATE_SOURCES,     commodity_type:SME": {
+    "request": {
+      "country": "AF",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PUT",
+      "revenue": "10M-20M",
+      "spend_category": "MJS",
+      "design_agreement": null,
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "SME"
+    }
+  },
+
+  "063) country:AF,    industry:EDU,   business_type:PRI,   affiliation:PRH,   revenue:50M-100M,   spend_category:OTS,   design_agreement:OTS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SOLE,    product_impact:STRATEGIC_PARTNER,     commodity_type:WTR": {
+    "request": {
+      "country": "AF",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "PRH",
+      "revenue": "50M-100M",
+      "spend_category": "OTS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "064) country:AF,    industry:HOS,   business_type:PUE,   affiliation:null,  revenue:500M-2B,    spend_category:RSF,   design_agreement:RSF,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIR_W_CONTRACT,   sourcing_type:MULTI,   product_impact:CRITICAL_TO_BUSINESS,  commodity_type:null": {
+    "request": {
+      "country": "AF",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": null,
+      "revenue": "500M-2B",
+      "spend_category": "RSF",
+      "design_agreement": "RSF",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "MULTI",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": null
+    }
+  },
+
+  "065) country:AF,    industry:AHI,   business_type:BUC,   affiliation:SOE,   revenue:null,       spend_category:MJS,   design_agreement:MJS,   relationship_visibility:null,               sourcing_method:null,             sourcing_type:SINGLE,  product_impact:null,                  commodity_type:CLS": {
+    "request": {
+      "country": "AF",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "SOE",
+      "revenue": null,
+      "spend_category": "MJS",
+      "design_agreement": "MJS",
+      "relationship_visibility": null,
+      "sourcing_method": null,
+      "sourcing_type": "SINGLE",
+      "product_impact": null,
+      "commodity_type": "CLS"
+    }
+  },
+
+  "066) country:AF,    industry:INA,   business_type:SAD,   affiliation:PUT,   revenue:UNKNOWN,    spend_category:null,  design_agreement:OTS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_M_SRC,       sourcing_type:SOLE,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:LBE": {
+    "request": {
+      "country": "AF",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "PUT",
+      "revenue": "UNKNOWN",
+      "spend_category": null,
+      "design_agreement": "OTS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "067) country:AF,    industry:ENE,   business_type:DIS,   affiliation:PRH,   revenue:10M,        spend_category:OTS,   design_agreement:RSF,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_S_SRC,       sourcing_type:null,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:SAD": {
+    "request": {
+      "country": "AF",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PRH",
+      "revenue": "10M",
+      "spend_category": "OTS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": null,
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "068) country:AF,    industry:EDU,   business_type:PRI,   affiliation:SOE,   revenue:10M-20M,    spend_category:RSF,   design_agreement:MJS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIR_WO_CONTRACT,  sourcing_type:MULTI,   product_impact:ALTERNATE_SOURCES,     commodity_type:SME": {
+    "request": {
+      "country": "AF",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "SOE",
+      "revenue": "10M-20M",
+      "spend_category": "RSF",
+      "design_agreement": "MJS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "MULTI",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "SME"
+    }
+  },
+
+  "069) country:AF,    industry:HOS,   business_type:PUE,   affiliation:PUT,   revenue:50M-100M,   spend_category:MJS,   design_agreement:null,  relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_W_CONTRACT,   sourcing_type:SINGLE,  product_impact:STRATEGIC_PARTNER,     commodity_type:WTR": {
+    "request": {
+      "country": "AF",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PUT",
+      "revenue": "50M-100M",
+      "spend_category": "MJS",
+      "design_agreement": null,
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "070) country:CV,    industry:INA,   business_type:SAD,   affiliation:PUT,   revenue:50M-100M,   spend_category:RSF,   design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_S_SRC,       sourcing_type:MULTI,   product_impact:STRATEGIC_PARTNER,     commodity_type:CLS": {
+    "request": {
+      "country": "CV",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "PUT",
+      "revenue": "50M-100M",
+      "spend_category": "RSF",
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "071) country:CV,    industry:ENE,   business_type:DIS,   affiliation:PRH,   revenue:500M-2B,    spend_category:MJS,   design_agreement:OTS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SINGLE,  product_impact:CRITICAL_TO_BUSINESS,  commodity_type:LBE": {
+    "request": {
+      "country": "CV",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PRH",
+      "revenue": "500M-2B",
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "072) country:CV,    industry:EDU,   business_type:PRI,   affiliation:null,  revenue:null,       spend_category:null,  design_agreement:RSF,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIR_W_CONTRACT,   sourcing_type:SOLE,    product_impact:null,                  commodity_type:SAD": {
+    "request": {
+      "country": "CV",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": null,
+      "revenue": null,
+      "spend_category": null,
+      "design_agreement": "RSF",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": null,
+      "commodity_type": "SAD"
+    }
+  },
+
+  "073) country:CV,    industry:HOS,   business_type:PUE,   affiliation:SOE,   revenue:UNKNOWN,    spend_category:OTS,   design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:null,             sourcing_type:null,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:SME": {
+    "request": {
+      "country": "CV",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "SOE",
+      "revenue": "UNKNOWN",
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": null,
+      "sourcing_type": null,
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SME"
+    }
+  },
+
+  "074) country:CV,    industry:AHI,   business_type:BUC,   affiliation:PUT,   revenue:10M,        spend_category:RSF,   design_agreement:null,  relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_M_SRC,       sourcing_type:MULTI,   product_impact:ALTERNATE_SOURCES,     commodity_type:WTR": {
+    "request": {
+      "country": "CV",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PUT",
+      "revenue": "10M",
+      "spend_category": "RSF",
+      "design_agreement": null,
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "075) country:CV,    industry:INA,   business_type:SAD,   affiliation:PRH,   revenue:10M-20M,    spend_category:MJS,   design_agreement:OTS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_M_SRC,       sourcing_type:SINGLE,  product_impact:STRATEGIC_PARTNER,     commodity_type:null": {
+    "request": {
+      "country": "CV",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "PRH",
+      "revenue": "10M-20M",
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": null
+    }
+  },
+
+  "076) country:CV,    industry:ENE,   business_type:DIS,   affiliation:SOE,   revenue:50M-100M,   spend_category:null,  design_agreement:RSF,   relationship_visibility:null,               sourcing_method:DIST_S_SRC,       sourcing_type:SOLE,    product_impact:CRITICAL_TO_BUSINESS,  commodity_type:CLS": {
+    "request": {
+      "country": "CV",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "SOE",
+      "revenue": "50M-100M",
+      "spend_category": null,
+      "design_agreement": "RSF",
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "077) country:CV,    industry:EDU,   business_type:PRI,   affiliation:PUT,   revenue:500M-2B,    spend_category:OTS,   design_agreement:MJS,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_WO_CONTRACT,  sourcing_type:MULTI,   product_impact:null,                  commodity_type:LBE": {
+    "request": {
+      "country": "CV",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "PUT",
+      "revenue": "500M-2B",
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "MULTI",
+      "product_impact": null,
+      "commodity_type": "LBE"
+    }
+  },
+
+  "078) country:CV,    industry:HOS,   business_type:PUE,   affiliation:PRH,   revenue:UNKNOWN,    spend_category:RSF,   design_agreement:null,  relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_W_CONTRACT,   sourcing_type:SINGLE,  product_impact:COMMODITIZED_PRODUCT,  commodity_type:SAD": {
+    "request": {
+      "country": "CV",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PRH",
+      "revenue": "UNKNOWN",
+      "spend_category": "RSF",
+      "design_agreement": null,
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "079) country:CV,    industry:AGC,   business_type:null,  affiliation:null,  revenue:10M,        spend_category:MJS,   design_agreement:OTS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:null,             sourcing_type:SOLE,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:SME": {
+    "request": {
+      "country": "CV",
+      "industry": "AGC",
+      "business_type": null,
+      "affiliation": null,
+      "revenue": "10M",
+      "spend_category": "MJS",
+      "design_agreement": "OTS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": null,
+      "sourcing_type": "SOLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SME"
+    }
+  },
+
+  "080) country:CV,    industry:AHI,   business_type:BUC,   affiliation:SOE,   revenue:10M-20M,    spend_category:OTS,   design_agreement:RSF,   relationship_visibility:null,               sourcing_method:DIST_M_SRC,       sourcing_type:null,    product_impact:ALTERNATE_SOURCES,     commodity_type:WTR": {
+    "request": {
+      "country": "CV",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "SOE",
+      "revenue": "10M-20M",
+      "spend_category": "OTS",
+      "design_agreement": "RSF",
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": null,
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "081) country:PK,    industry:EDU,   business_type:PRI,   affiliation:SOE,   revenue:10M,        spend_category:MJS,   design_agreement:RSF,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_W_CONTRACT,   sourcing_type:SOLE,    product_impact:ALTERNATE_SOURCES,     commodity_type:CLS": {
+    "request": {
+      "country": "PK",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "SOE",
+      "revenue": "10M",
+      "spend_category": "MJS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "082) country:PK,    industry:HOS,   business_type:PUE,   affiliation:PUT,   revenue:10M-20M,    spend_category:null,  design_agreement:MJS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:null,             sourcing_type:null,    product_impact:STRATEGIC_PARTNER,     commodity_type:LBE": {
+    "request": {
+      "country": "PK",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": "PUT",
+      "revenue": "10M-20M",
+      "spend_category": null,
+      "design_agreement": "MJS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": null,
+      "sourcing_type": null,
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "083) country:PK,    industry:AHI,   business_type:BUC,   affiliation:PRH,   revenue:50M-100M,   spend_category:OTS,   design_agreement:null,  relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_M_SRC,       sourcing_type:MULTI,   product_impact:CRITICAL_TO_BUSINESS,  commodity_type:SAD": {
+    "request": {
+      "country": "PK",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PRH",
+      "revenue": "50M-100M",
+      "spend_category": "OTS",
+      "design_agreement": null,
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "SAD"
+    }
+  },
+
+  "084) country:PK,    industry:INA,   business_type:SAD,   affiliation:SOE,   revenue:500M-2B,    spend_category:RSF,   design_agreement:OTS,   relationship_visibility:null,               sourcing_method:DIST_S_SRC,       sourcing_type:SINGLE,  product_impact:null,                  commodity_type:SME": {
+    "request": {
+      "country": "PK",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "SOE",
+      "revenue": "500M-2B",
+      "spend_category": "RSF",
+      "design_agreement": "OTS",
+      "relationship_visibility": null,
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": null,
+      "commodity_type": "SME"
+    }
+  },
+
+  "085) country:PK,    industry:ENE,   business_type:DIS,   affiliation:PUT,   revenue:UNKNOWN,    spend_category:MJS,   design_agreement:RSF,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SOLE,    product_impact:COMMODITIZED_PRODUCT,  commodity_type:WTR": {
+    "request": {
+      "country": "PK",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": "PUT",
+      "revenue": "UNKNOWN",
+      "spend_category": "MJS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SOLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "WTR"
+    }
+  },
+
+  "086) country:PK,    industry:EDU,   business_type:PRI,   affiliation:PRH,   revenue:10M,        spend_category:OTS,   design_agreement:MJS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIR_W_CONTRACT,   sourcing_type:null,    product_impact:ALTERNATE_SOURCES,     commodity_type:null": {
+    "request": {
+      "country": "PK",
+      "industry": "EDU",
+      "business_type": "PRI",
+      "affiliation": "PRH",
+      "revenue": "10M",
+      "spend_category": "OTS",
+      "design_agreement": "MJS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIR_W_CONTRACT",
+      "sourcing_type": null,
+      "product_impact": "ALTERNATE_SOURCES",
+      "commodity_type": null
+    }
+  },
+
+  "087) country:PK,    industry:HOS,   business_type:PUE,   affiliation:null,  revenue:10M-20M,    spend_category:RSF,   design_agreement:OTS,   relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:null,             sourcing_type:MULTI,   product_impact:STRATEGIC_PARTNER,     commodity_type:CLS": {
+    "request": {
+      "country": "PK",
+      "industry": "HOS",
+      "business_type": "PUE",
+      "affiliation": null,
+      "revenue": "10M-20M",
+      "spend_category": "RSF",
+      "design_agreement": "OTS",
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": null,
+      "sourcing_type": "MULTI",
+      "product_impact": "STRATEGIC_PARTNER",
+      "commodity_type": "CLS"
+    }
+  },
+
+  "088) country:PK,    industry:AHI,   business_type:null,  affiliation:SOE,   revenue:50M-100M,   spend_category:MJS,   design_agreement:RSF,   relationship_visibility:LITTLE_VIS,         sourcing_method:DIST_M_SRC,       sourcing_type:SINGLE,  product_impact:CRITICAL_TO_BUSINESS,  commodity_type:LBE": {
+    "request": {
+      "country": "PK",
+      "industry": "AHI",
+      "business_type": null,
+      "affiliation": "SOE",
+      "revenue": "50M-100M",
+      "spend_category": "MJS",
+      "design_agreement": "RSF",
+      "relationship_visibility": "LITTLE_VIS",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SINGLE",
+      "product_impact": "CRITICAL_TO_BUSINESS",
+      "commodity_type": "LBE"
+    }
+  },
+
+  "089) country:PK,    industry:AHI,   business_type:BUC,   affiliation:PUT,   revenue:500M-2B,    spend_category:null,  design_agreement:MJS,   relationship_visibility:OEM_REBRANDED,      sourcing_method:DIST_M_SRC,       sourcing_type:SOLE,    product_impact:null,                  commodity_type:SAD": {
+    "request": {
+      "country": "PK",
+      "industry": "AHI",
+      "business_type": "BUC",
+      "affiliation": "PUT",
+      "revenue": "500M-2B",
+      "spend_category": null,
+      "design_agreement": "MJS",
+      "relationship_visibility": "OEM_REBRANDED",
+      "sourcing_method": "DIST_M_SRC",
+      "sourcing_type": "SOLE",
+      "product_impact": null,
+      "commodity_type": "SAD"
+    }
+  },
+
+  "090) country:PK,    industry:INA,   business_type:SAD,   affiliation:PRH,   revenue:null,       spend_category:OTS,   design_agreement:null,  relationship_visibility:STRATEGIC_PARTNER,  sourcing_method:DIST_S_SRC,       sourcing_type:MULTI,   product_impact:COMMODITIZED_PRODUCT,  commodity_type:SME": {
+    "request": {
+      "country": "PK",
+      "industry": "INA",
+      "business_type": "SAD",
+      "affiliation": "PRH",
+      "revenue": null,
+      "spend_category": "OTS",
+      "design_agreement": null,
+      "relationship_visibility": "STRATEGIC_PARTNER",
+      "sourcing_method": "DIST_S_SRC",
+      "sourcing_type": "MULTI",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "SME"
+    }
+  },
+
+  "091) country:PK,    industry:ENE,   business_type:DIS,   affiliation:null,  revenue:UNKNOWN,    spend_category:RSF,   design_agreement:OTS,   relationship_visibility:null,               sourcing_method:DIR_WO_CONTRACT,  sourcing_type:SINGLE,  product_impact:COMMODITIZED_PRODUCT,  commodity_type:WTR": {
+    "request": {
+      "country": "PK",
+      "industry": "ENE",
+      "business_type": "DIS",
+      "affiliation": null,
+      "revenue": "UNKNOWN",
+      "spend_category": "RSF",
+      "design_agreement": "OTS",
+      "relationship_visibility": null,
+      "sourcing_method": "DIR_WO_CONTRACT",
+      "sourcing_type": "SINGLE",
+      "product_impact": "COMMODITIZED_PRODUCT",
+      "commodity_type": "WTR"
+    }
+  }
+
+}

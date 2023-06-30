@@ -1,0 +1,62 @@
+{
+  "Success Empty Filters": {
+    "request": {
+      "pagination": {
+        "currentPage": 0,
+        "limit": 10
+      },
+      "sortParam": {
+        "sort": "ASC",
+        "sortField": "field"
+      }
+    }
+  },
+  "Success First Name Filter": {
+    "request": {
+      "filters": {
+        "firstName": {
+          "values": [
+            "Assignee_AT_FN"
+          ],
+          "filterType": "SET"
+        }
+      },
+      "pagination": {
+        "currentPage": 0,
+        "limit": 10
+      }
+    }
+  },
+  "Success Last Name Filter": {
+    "request": {
+      "filters": {
+        "lastName": {
+          "values": [
+            "Admin_AT_LN"
+          ],
+          "filterType": "SET"
+        }
+      },
+      "pagination": {
+        "currentPage": 0,
+        "limit": 10
+      }
+    }
+  },
+  "Success Division Filter": {
+    "request": {
+      "filters": {
+        "divisions.name": {
+          "values": [
+            "MyDivision"
+          ],
+          "filterType": "SET"
+        }
+      },
+      "pagination": {
+        "currentPage": 0,
+        "limit": 10
+      }
+    }
+  }
+}

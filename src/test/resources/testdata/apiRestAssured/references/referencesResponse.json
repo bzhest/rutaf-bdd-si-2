@@ -1,0 +1,60 @@
+{
+  "Success References": {
+    "response": {
+      "message": "200(OK) The request was successful.",
+      "data": []
+    }
+  },
+  "Success Empty Filters": {
+    "response": {
+      "message": "200(OK) The request was successful.",
+      "meta": {
+        "pageSize": 10,
+        "currentPage": 0,
+        "queryRequest": {
+          "filters": {},
+          "pagination": {
+            "currentPage": 0,
+            "limit": 10
+          },
+          "sortParam": {
+            "sort": "ASC",
+            "sortField": "field"
+          }
+        }
+      },
+      "data": []
+    }
+  },
+  "Success First Name Filter": {
+    "response": {
+      "data": [
+        {
+          "firstName": "Assignee_AT_FN"
+        }
+      ]
+    }
+  },
+  "Success Last Name Filter": {
+    "response": {
+      "data": [
+        {
+          "lastName": "Admin_AT_LN"
+        }
+      ]
+    }
+  },
+  "Success Division Filter": {
+    "response": {
+      "data": [
+        {
+          "divisions": [
+            {
+              "name": "MyDivision"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

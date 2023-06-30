@@ -1,0 +1,241 @@
+{
+  "with mandatory fields": {
+    "dataToEnter": {
+      "name": "Test Other Name",
+      "type": "Local Language Name"
+    }
+  },
+  "Test Third-party Other Name": {
+    "dataToEnter": {
+      "name": "Test",
+      "type": "Local Language Name"
+    }
+  },
+  "contact other name": {
+    "dataToEnter": {
+      "name": "Test Other Name",
+      "type": "Also Known As"
+    }
+  },
+  "contact other name for editing": {
+    "dataToEnter": {
+      "name": "Test Other Name For Editing",
+      "type": "Also Known As"
+    }
+  },
+  "Apple": {
+    "dataToEnter": {
+      "name": "Apple inc.",
+      "type": "Doing Business As"
+    },
+    "dataToEdit": {
+      "name": "Edited Other Name",
+      "type": "Doing Business As"
+    }
+  },
+  "Samsung": {
+    "dataToEnter": {
+      "name": "Samsung",
+      "type": "Doing Business As"
+    }
+  },
+  "with mandatory fields for editing": {
+    "dataToEnter": {
+      "name": "Test Other Name For Editing",
+      "type": "Local Language Name"
+    },
+    "dataToEdit": {
+      "name": "Edited Other Name",
+      "type": "Doing Business As"
+    }
+  },
+  "with matched results": {
+    "dataToEnter": {
+      "name": "PetroChina",
+      "type": "Other Name"
+    }
+  },
+  "with name longer than 200 symbols": {
+    "dataToEnter": {
+      "name": "Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other",
+      "type": "Other Name"
+    },
+    "dataForAssertions": {
+      "name": "Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Other Name Test Oth"
+    }
+  },
+  "John": {
+    "dataToEnter": {
+      "name": "John",
+      "type": "Also Known As"
+    }
+  },
+  "Trump": {
+    "dataToEnter": {
+      "name": "Trump",
+      "type": "Also Known As"
+    }
+  },
+  "James": {
+    "dataToEnter": {
+      "name": "James",
+      "type": "Formerly Known As"
+    }
+  },
+  "张伟": {
+    "dataToEnter": {
+      "name": "张伟",
+      "type": "Formerly Known As"
+    }
+  },
+  "Владимир": {
+    "dataToEnter": {
+      "name": "Владимир",
+      "type": "Formerly Known As"
+    }
+  },
+  "Bank": {
+    "dataToEnter": {
+      "name": "Bank",
+      "type": "Local Language Name"
+    }
+  },
+  "Роснефть": {
+    "dataToEnter": {
+      "name": "Роснефть",
+      "type": "Doing Business As"
+    }
+  },
+  "PetroChina": {
+    "dataToEnter": {
+      "name": "PetroChina",
+      "type": "Other Name"
+    }
+  },
+  "Amazon": {
+    "dataToEnter": {
+      "name": "Amazon",
+      "type": "Subsidiary"
+    }
+  },
+  "With Local Language Name Type": {
+    "dataToEnter": {
+      "name": "Test Other Name With Local Language Name Type",
+      "type": "Local Language Name"
+    }
+  },
+  "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED": {
+    "dataToEnter": {
+      "name": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
+      "type": "Local Language Name"
+    }
+  },
+  "CHINA CONSTRUCTION BANK CORPORATION DALIAN BRANCH": {
+    "dataToEnter": {
+      "name": "CHINA CONSTRUCTION BANK CORPORATION DALIAN BRANCH",
+      "type": "Local Language Name"
+    }
+  },
+  "ROSHEN": {
+    "dataToEnter": {
+      "name": "ROSHEN",
+      "type": "Local Language Name"
+    }
+  },
+  "Barac Obama": {
+    "dataToEnter": {
+      "name": "Barac Obama",
+      "type": "Also Known As"
+    }
+  },
+  "Joe Biden": {
+    "dataToEnter": {
+      "name": "Joe Biden",
+      "type": "Locally Known As"
+    }
+  },
+  "TOT": {
+    "dataToEnter": {
+      "name": "TOT",
+      "type": "Local Language Name"
+    }
+  },
+  "DOHA": {
+    "dataToEnter": {
+      "name": "DOHA",
+      "type": "Local Language Name"
+    }
+  },
+  "3M": {
+    "dataToEnter": {
+      "name": "3M",
+      "type": "Local Language Name"
+    }
+  },
+  "SHAHID": {
+    "dataToEnter": {
+      "name": "SHAHID",
+      "type": "Local Language Name"
+    }
+  },
+  "Vladimir LOSEV": {
+    "dataToEnter": {
+      "name": "Vladimir LOSEV",
+      "type": "Also Known As"
+    }
+  },
+  "Vladimir PUTIN": {
+    "dataToEnter": {
+      "name": "Vladimir PUTIN",
+      "type": "Also Known As"
+    }
+  },
+  "Bank of China": {
+    "dataToEnter": {
+      "name": "Bank of China",
+      "type": "Doing Business As"
+    }
+  },
+  "DON": {
+    "dataToEnter": {
+      "name": "DON",
+      "type": "Local Language Name"
+    }
+  },
+  "Donald Trump": {
+    "dataToEnter": {
+      "name": "Donald Trump",
+      "type": "Local Language Name"
+    }
+  },
+  "Donald Trump for Associated Individual": {
+    "dataToEnter": {
+      "name": "Donald Trump",
+      "type": "Locally Known As"
+    }
+  },
+  "David DANIELI": {
+    "dataToEnter": {
+      "name": "David DANIELI",
+      "type": "Locally Known As"
+    }
+  },
+  "qwert123!@#$": {
+    "dataToEnter": {
+      "name": "qwert123!@#$",
+      "type": "Local Language Name"
+    }
+  },
+  "SMITH": {
+    "dataToEnter": {
+      "name": "SMITH",
+      "type": "Also Known As"
+    }
+  },
+  "Apple Test": {
+    "dataToEnter": {
+      "name": "Apple",
+      "type": "Local Language Name"
+    }
+  }
+}

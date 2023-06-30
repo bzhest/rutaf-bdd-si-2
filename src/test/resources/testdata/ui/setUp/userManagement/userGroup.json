@@ -1,0 +1,79 @@
+{
+  "active user group": {
+    "dataToEnter": {
+      "description": "",
+      "status": "true",
+      "email": [
+        "admin.username"
+      ],
+      "username": [
+        "Admin_AT_FN Admin_AT_LN"
+      ]
+    }
+  },
+  "active user group with description": {
+    "dataToEnter": {
+      "description": "Test Description",
+      "status": "true",
+      "email": [
+        "admin.username"
+      ],
+      "username": [
+        "Admin_AT_FN Admin_AT_LN"
+      ]
+    }
+  },
+  "inactive user group": {
+    "dataToEnter": {
+      "description": "",
+      "status": "false",
+      "email": [
+        "admin.username"
+      ],
+      "username": [
+        "Admin_AT_FN Admin_AT_LN"
+      ]
+    }
+  },
+  "Assignee Group user group": {
+    "dataToEnter": {
+      "groupName": "Assignee Group",
+      "description": "Do Not Delete",
+      "status": "true",
+      "email": [
+        "assignee.username"
+      ],
+      "username": [
+        "Assignee_AT_FN Assignee_AT_LN"
+      ]
+    }
+  },
+  "AUTO_GROUP user group": {
+    "dataToEnter": {
+      "groupName": "AUTO_GROUP",
+      "description": "Do Not Delete",
+      "status": "true",
+      "email": [
+        "admin.username"
+      ],
+      "username": [
+        "Admin_AT_FN Admin_AT_LN"
+      ]
+    }
+  },
+  "Group With Multi Users": {
+    "dataToEnter": {
+      "groupName": "Group With Multi Users",
+      "description": "Do Not Delete",
+      "status": "true",
+      "email": [
+        "assignee.username",
+        "user.approver.username"
+      ],
+      "username": [
+        "Assignee_AT_FN Assignee_AT_LN",
+        "Questionnaire_Approver_AT_FN Quest_Appr_AT_LN"
+      ]
+    }
+  }
+}
