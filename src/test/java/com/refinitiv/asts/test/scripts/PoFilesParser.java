@@ -1,3 +1,4 @@
+
 package com.refinitiv.asts.test.scripts;
 
 import com.refinitiv.asts.test.config.Config;
@@ -33,7 +34,6 @@ import static org.apache.commons.lang3.StringUtils.isNotEmpty;
  * As a result of 'main' method execution, in same path "src/test/resources/testdata/i18n" would be created .txt files with translations.
  * All .po and .txt files are added to .gitignore and wouldn't be commited.
  */
-
 public class PoFilesParser {
 
     private static final Logger logger = LoggerFactory.getLogger(Config.class);
